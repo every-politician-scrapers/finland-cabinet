@@ -14,7 +14,10 @@ class Legislature
     end
 
     field :position do
-      noko.css('.title').text.tidy
+      # Eurooppa- ja omistaja(-)ohjaus(-)ministeri has &shy hyphens
+      # Ideally 'tidy' would get rid of these, or there's likely some
+      # other better way, but for now just gsub them away.
+      noko.css('.title').text.gsub(/\u00AD/, '').tidy
     end
   end
 
