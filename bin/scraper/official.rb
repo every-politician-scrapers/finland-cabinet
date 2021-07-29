@@ -2,11 +2,9 @@
 # frozen_string_literal: true
 
 require 'every_politician_scraper/scraper_data'
-require 'open-uri/cached'
 require 'pry'
 
-# TODO: allow ScraperData to use Cabinet here!
-class Legislature
+class MemberList
   # details for an individual member
   class Member < Scraped::HTML
     field :name do
@@ -24,16 +22,16 @@ class Legislature
   # The page listing all the members
   class Members < Scraped::HTML
     field :members do
-      container.map { |member| fragment(member => Member).to_h }
+      member_container.map { |member| fragment(member => Member).to_h }
     end
 
     private
 
-    def container
+    def member_container
       noko.css('.minister-tile')
     end
   end
 end
 
-url = 'https://valtioneuvosto.fi/marinin-hallitus/ministerit'
-puts EveryPoliticianScraper::ScraperData.new(url).csv
+file = Pathname.new 'html/official.html'
+puts EveryPoliticianScraper::FileData.new(file).csv
