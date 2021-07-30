@@ -1,20 +1,20 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q2850448,Anna-Maja Henriksson,Anna-Maja Henriksson,female,1964-01-07T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q1294631,Oikeusministeri,Q2850448-a7aedb11-4701-c1da-49bd-c340589366ad
-Q7045446,Annika Saarikko,Annika Saarikko,female,1983-11-10T00:00:00Z,11,,Q3278079,Valtiovarainministeri,Q7045446-eb227e3b-4d03-6d0a-856c-e528de74c2d4
-Q11852109,Antti Kaikkonen,Antti Kaikkonen,male,1974-02-14T00:00:00Z,11,,Q188393,Puolustusministeri,Q11852109-2952F285-2504-4B41-B277-BE3BC9B758DB
-Q11852135,Antti Kurvinen,Antti Kurvinen,male,1986-07-14T00:00:00Z,11,,Q21141009,Tiede- ja kulttuuriministeri,Q11852135-cd76dc5a-4358-694a-7464-7a76b69d26ee
+Q7045446,Annika Saarikko,Annika Saarikko,female,1983-11-10T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q3278079,Valtiovarainministeri,Q7045446-eb227e3b-4d03-6d0a-856c-e528de74c2d4
+Q11852109,Antti Kaikkonen,Antti Kaikkonen,male,1974-02-14T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q188393,Puolustusministeri,Q11852109-2952F285-2504-4B41-B277-BE3BC9B758DB
+Q11852135,Antti Kurvinen,Antti Kurvinen,male,1986-07-14T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q21141009,Tiede- ja kulttuuriministeri,Q11852135-cd76dc5a-4358-694a-7464-7a76b69d26ee
 Q16990389,Hanna Sarkkinen,Hanna Sarkkinen,female,1988-04-18T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q18694348,Sosiaali- ja terveysministeri,Q16990389-c43ca183-4e86-f234-53cc-b0453fefbe00
-Q11866066,Jari Leppä,Jari Leppä,male,1959-06-24T00:00:00Z,11,,Q46999385,Maa- ja metsätalousministeri,Q11866066-38c1be49-467a-5b7c-3e5f-00f300e9620e
+Q11866066,Jari Leppä,Jari Leppä,male,1959-06-24T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q46999385,Maa- ja metsätalousministeri,Q11866066-38c1be49-467a-5b7c-3e5f-00f300e9620e
 Q2332874,Krista Kiuru,Krista Kiuru,female,1974-08-05T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q11895097,Perhe- ja peruspalveluministeri,Q2332874-871cef1f-4ae7-e233-5240-8f84d7865fb2
-Q11873020,Krista Mikkonen,Krista Mikkonen,female,1972-11-15T00:00:00Z,11,,Q1425432,Ympäristö- ja ilmastoministeri,Q11873020-aad9572b-4018-aeb6-c75a-a0081e2af315
+Q11873020,Krista Mikkonen,Krista Mikkonen,female,1972-11-15T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q1425432,Ympäristö- ja ilmastoministeri,Q11873020-aad9572b-4018-aeb6-c75a-a0081e2af315
 Q4935864,Li Andersson,Li Andersson,female,1987-05-13T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q11895091,Opetusministeri,Q4935864-0c104afd-4a18-fe49-d5bf-8178ca14ade4
-Q15281152,Maria Ohisalo,Maria Ohisalo,female,1985-03-08T00:00:00Z,11,,Q1445938,Sisäministeri,Q15281152-2a081b6f-4673-2196-a2d3-59b563a257fe
+Q15281152,Maria Ohisalo,Maria Ohisalo,female,1985-03-08T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q1445938,Sisäministeri,Q15281152-2a081b6f-4673-2196-a2d3-59b563a257fe
 Q16984784,Mika Lintilä,Mika Lintilä,male,1966-04-15T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q10495404,Elinkeinoministeri,Q16984784-65177bb2-45b7-6285-860b-a56f97d6d5c6
-Q317485,Pekka Haavisto,Pekka Haavisto,male,1958-03-23T00:00:00Z,11,,Q2386529,Ulkoministeri,Q317485-7182eba9-4a85-3f97-d49f-74a707972cc1
-Q16986436,Sanna Marin,Sanna Marin,female,1985-11-16T00:00:00Z,11,,Q738695,Pääministeri,Q16986436-13c80eae-44a8-c2b9-d4c4-f5b52331c870
+Q317485,Pekka Haavisto,Pekka Haavisto,male,1958-03-23T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q2386529,Ulkoministeri,Q317485-7182eba9-4a85-3f97-d49f-74a707972cc1
+Q16986436,Sanna Marin,Sanna Marin,female,1985-11-16T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q738695,Pääministeri,Q16986436-13c80eae-44a8-c2b9-d4c4-f5b52331c870
 Q16989600,Sirpa Paatero,Sirpa Paatero,female,1964-09-09T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q107550995,Kuntaministeri,Q16989600-59f407e7-4f24-08ce-6eab-e189d4f29751
 Q5579704,Thomas Blomqvist,Thomas Blomqvist,male,1965-01-15T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q107550937,Pohjoismaisen yhteistyön ja tasa-arvon ministeri,Q5579704-d07ad564-435d-ea1b-245a-6883b33b024b
 Q16298585,Timo Harakka,Timo Harakka,male,1962-12-31T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q11895063,Liikenne- ja viestintäministeri,Q16298585-5a45f652-4997-17fb-80f4-b59d1bf3aa92
-Q11898869,Tuula Haatainen,Tuula Haatainen,female,1960-02-11T00:00:00Z,11,,Q10563305,Työministeri,Q11898869-c045b3f4-4b30-bcb9-f971-3317673a529a
-Q11898995,Tytti Tuppurainen,Tytti Tuppurainen,female,1976-02-18T00:00:00Z,11,,Q11894988,Eurooppa- ja omistajaohjausministeri,Q11898995-b768a82a-491c-ffc9-07f2-da4ca509f9eb
+Q11898869,Tuula Haatainen,Tuula Haatainen,female,1960-02-11T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q10563305,Työministeri,Q11898869-c045b3f4-4b30-bcb9-f971-3317673a529a
+Q11898995,Tytti Tuppurainen,Tytti Tuppurainen,female,1976-02-18T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q11894988,Eurooppa- ja omistajaohjausministeri,Q11898995-b768a82a-491c-ffc9-07f2-da4ca509f9eb
 Q5485318,Ville Skinnari,Ville Skinnari,male,1974-02-21T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q107551007,Kehitysyhteistyö- ja ulkomaankauppaministeri,Q5485318-cacbdbb4-4a81-ca69-a090-b9e5dd71afc6
