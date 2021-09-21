@@ -5,13 +5,12 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 class MemberList
-  # details for an individual member
-  class Member < Scraped::HTML
-    field :name do
+  class Member
+    def name
       noko.css('.name').text.tidy
     end
 
-    field :position do
+    def position
       # Eurooppa- ja omistaja(-)ohjaus(-)ministeri has &shy hyphens
       # Ideally 'tidy' would get rid of these, or there's likely some
       # other better way, but for now just gsub them away.
@@ -19,14 +18,7 @@ class MemberList
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
-    field :members do
-      member_container.map { |member| fragment(member => Member).to_h }
-    end
-
-    private
-
+  class Members
     def member_container
       noko.css('.minister-tile')
     end

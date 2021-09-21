@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Finland",
+      "id": "Q33"
+    },
     "cabinet": {
       "id": "Q77972346",
-      "start": "2019-12-10"
+      "start": "2019-12-10",
+      "parent": "Q2366737"
     },
     "source": {
         "url":   "https://valtioneuvosto.fi/marinin-hallitus/ministerit",
