@@ -1,12 +1,11 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q2850448,Anna-Maja Henriksson,Anna-Maja Henriksson,female,1964-01-07T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q1294631,Oikeusministeri,Q2850448-a7aedb11-4701-c1da-49bd-c340589366ad
-Q7045446,Annika Saarikko,Annika Saarikko,female,1983-11-10T00:00:00Z,11,,Q2367542,Suomen valtiovarainministeri,Q7045446-0258f2e2-4121-ad36-c12a-a818f8803613
-Q7045446,Annika Saarikko,Annika Saarikko,female,1983-11-10T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q3278079,Valtiovarainministeri,Q7045446-eb227e3b-4d03-6d0a-856c-e528de74c2d4
+Q7045446,Annika Saarikko,Annika Saarikko,female,1983-11-10T00:00:00Z,11,,Q3278079,Suomen pääministerin sijainen,Q7045446-eb227e3b-4d03-6d0a-856c-e528de74c2d4
+Q7045446,Annika Saarikko,Annika Saarikko,female,1983-11-10T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q2367542,Valtiovarainministeri,Q7045446-0258f2e2-4121-ad36-c12a-a818f8803613
 Q11852109,Antti Kaikkonen,Antti Kaikkonen,male,1974-02-14T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q188393,Puolustusministeri,Q11852109-2952F285-2504-4B41-B277-BE3BC9B758DB
 Q11852135,Antti Kurvinen,Antti Kurvinen,male,1986-07-14T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q21141009,Tiede- ja kulttuuriministeri,Q11852135-cd76dc5a-4358-694a-7464-7a76b69d26ee
 Q16990389,Hanna Sarkkinen,Hanna Sarkkinen,female,1988-04-18T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q18694348,Sosiaali- ja terveysministeri,Q16990389-c43ca183-4e86-f234-53cc-b0453fefbe00
-Q11866066,Jari Leppä,Jari Leppä,male,1959-06-24T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q46999385,Maa- ja metsätalousministeri,Q11866066-38c1be49-467a-5b7c-3e5f-00f300e9620e
-Q11866066,Jari Leppä,Jari Leppä,male,1959-06-24T00:00:00Z,11,,Q24205201,Suomen maa- ja metsätalousministeri,Q11866066-3b224371-4b55-dd44-12da-60bf9b314186
+Q11866066,Jari Leppä,Jari Leppä,male,1959-06-24T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q24205201,Maa- ja metsätalousministeri,Q11866066-3b224371-4b55-dd44-12da-60bf9b314186
 Q2332874,Krista Kiuru,Krista Kiuru,female,1974-08-05T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q11895097,Perhe- ja peruspalveluministeri,Q2332874-871cef1f-4ae7-e233-5240-8f84d7865fb2
 Q11873020,Krista Mikkonen,Krista Mikkonen,female,1972-11-15T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q1425432,Ympäristö- ja ilmastoministeri,Q11873020-aad9572b-4018-aeb6-c75a-a0081e2af315
 Q4935864,Li Andersson,Li Andersson,female,1987-05-13T00:00:00Z,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,Q11895091,Opetusministeri,Q4935864-0c104afd-4a18-fe49-d5bf-8178ca14ade4
