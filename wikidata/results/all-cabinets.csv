@@ -1,0 +1,88 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q3110332,Paavo Lipponen's first cabinet,,,1995-04-13,11,,,1999-04-15,11,Q13406463,Wikimedia list article,,,Q3110497,Esko Aho's cabinet,Q3112247,Paavo Lipponen's second Cabinet,Q3110497,Esko Aho's cabinet,Q3112247,Paavo Lipponen's second Cabinet
+,Q74172,Matti Vanhanen's second cabinet,,,2007-04-19,11,,,2010-06-22,11,Q2366737,Finnish Government,,,Q81988,Matti Vanhanen's first cabinet,Q1579733,Mari Kiviniemi's cabinet,Q81988,Matti Vanhanen's first cabinet,Q1579733,Mari Kiviniemi's cabinet
+,Q81988,Matti Vanhanen's first cabinet,,,2003-06-24,11,,,2007-04-19,11,Q2366737,Finnish Government,,,Q250657,Anneli Jäätteenmäki's cabinet,Q74172,Matti Vanhanen's second cabinet,Q250657,Anneli Jäätteenmäki's cabinet,Q74172,Matti Vanhanen's second cabinet
+,Q250657,Anneli Jäätteenmäki's cabinet,,,2003-04-17,11,,,2003-06-24,11,Q2366737,Finnish Government,,,Q3112247,Paavo Lipponen's second Cabinet,Q81988,Matti Vanhanen's first cabinet,Q3112247,Paavo Lipponen's second Cabinet,Q81988,Matti Vanhanen's first cabinet
+2,Q1291664,Juho Kusti Paasikivi's first senate,,,1918-05-27,11,,,1918-11-27,11,Q2366737,Finnish Government,,,Q1888842,Pehr Evind Svinhufvud's first senate,Q1628568,Lauri Ingman's first cabinet,Q1888842,Pehr Evind Svinhufvud's first senate,,
+,Q1579733,Mari Kiviniemi's cabinet,,,2010-06-22,11,,,2011-06-22,11,Q2366737,Finnish Government,,,Q74172,Matti Vanhanen's second cabinet,Q1574803,Jyrki Katainen's cabinet,Q74172,Matti Vanhanen's second cabinet,Q1574803,Jyrki Katainen's cabinet
+1,Q1888842,Pehr Evind Svinhufvud's first senate,,,1917-11-27,11,,,1918-05-27,11,Q2366737,Finnish Government,,,Q11893105,Eemil Nestor Setälä's senate,Q1291664,Juho Kusti Paasikivi's first senate,Q11893105,Eemil Nestor Setälä's senate,Q1291664,Juho Kusti Paasikivi's first senate
+,Q3110332,Paavo Lipponen's first cabinet,,,1995-04-13,11,,,1999-04-15,11,Q2366737,Finnish Government,,,Q3110497,Esko Aho's cabinet,Q3112247,Paavo Lipponen's second Cabinet,Q3110497,Esko Aho's cabinet,Q3112247,Paavo Lipponen's second Cabinet
+,Q3112247,Paavo Lipponen's second Cabinet,,,1999-04-01,11,,,2003-04-17,11,Q2366737,Finnish Government,,,Q3110332,Paavo Lipponen's first cabinet,Q250657,Anneli Jäätteenmäki's cabinet,Q3110332,Paavo Lipponen's first cabinet,Q250657,Anneli Jäätteenmäki's cabinet
+,Q3374313,Ahti Karjalainen's second cabinet,,,1970-07-15,11,,,1971-10-29,11,Q2366737,Finnish Government,,,,,,,Q3359402,Teuvo Aura's first cabinet,Q10650403,Teuvo Aura's second cabinet
+,Q10650448,Martti Miettunen's second cabinet,,,1975-11-30,11,,,1976-09-29,11,Q2366737,Finnish Government,,,,,,,Q10650442,Keijo Liinamaa's cabinet,Q10650449,Martti Miettunen's third cabinet
+,Q10650449,Martti Miettunen's third cabinet,,,1976-09-29,11,,,1977-05-15,11,Q2366737,Finnish Government,,,,,,,Q10650448,Martti Miettunen's second cabinet,Q10650461,Kalevi Sorsa's second cabinet
+3,Q1628568,Lauri Ingman's first cabinet,1918-01-01,9,1918-11-27,11,,,1919-04-17,11,Q2366737,Finnish Government,,,Q1291664,Juho Kusti Paasikivi's first senate,Q1628905,Kaarlo Castrén's cabinet,,,,
+,Q1628905,Kaarlo Castrén's cabinet,1919-01-01,9,1919-04-17,11,,,1919-08-15,11,Q2366737,Finnish Government,,,Q1628568,Lauri Ingman's first cabinet,,,,,,
+,Q1629645,Juho Vennola's first cabinet,1919-01-01,9,1919-08-15,11,,,1920-03-15,11,Q2366737,Finnish Government,,,,,,,,,,
+6,Q1326909,Rafael Erich's cabinet,1920-01-01,9,1920-03-15,11,1921-04-09,11,,,Q2366737,Finnish Government,,,,,,,Q1629645,Juho Vennola's first cabinet,Q1326348,Juho Vennola's second cabinet
+,Q1326348,Juho Vennola's second cabinet,1921-01-01,9,1921-04-09,11,,,1922-06-02,11,Q2366737,Finnish Government,,,,,,,,,,
+,Q4357129,Aimo Cajander's first cabinet,1922-01-01,9,1922-06-02,11,,,1922-11-14,11,Q2366737,Finnish Government,,,,,,,,,,
+,Q6452994,Kyösti Kallio's first cabinet,1922-01-01,9,1922-11-14,11,,,1924-01-18,11,Q2366737,Finnish Government,,,,,,,,,,
+,Q4357154,Aimo Cajander's second cabinet,1924-01-18,11,,,1924-05-31,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q4357167,Lauri Ingman's second cabinet,1924-05-31,11,,,1925-03-31,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q4412223,Antti Tulenheimo's cabinet,1925-03-31,11,,,1925-12-31,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q8095282,Kyösti Kallio's second cabinet,1925-12-31,11,,,1926-12-13,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q7944323,Väinö Tanner's cabinet,1926-12-13,11,,,1927-12-17,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q6305146,Juho Sunila's first cabinet,1927-12-17,11,,,1928-12-22,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q4357539,Oskari Mantere's cabinet,1928-12-22,11,,,1929-08-16,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q4357395,Kyösti Kallio's third cabinet,1929-08-16,11,,,1930-07-04,11,,,Q2366737,Finnish Government,,,,,Q7160867,Pehr Evind Svinhufvud's second cabinet,,,,
+18,Q7160867,Pehr Evind Svinhufvud's second cabinet,1930-01-01,9,1930-07-04,11,,,1931-03-21,11,Q2366737,Finnish Government,,,Q4357395,Kyösti Kallio's third cabinet,Q6305147,Juho Sunila's second cabinet,Q4357395,Kyösti Kallio's third cabinet,Q6305147,Juho Sunila's second cabinet
+,Q6305147,Juho Sunila's second cabinet,1931-03-21,11,,,1932-12-14,11,,,Q2366737,Finnish Government,,,Q7160867,Pehr Evind Svinhufvud's second cabinet,,,,,,
+,Q7813408,Toivo Kivimäki's cabinet,1932-12-14,11,,,1936-10-10,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q4411956,Kyösti Kallio's fourth cabinet,1936-10-07,11,,,1937-03-12,11,,,Q2366737,Finnish Government,,,,,Q4412225,Aimo Cajander's third cabinet,,,,
+22,Q4412225,Aimo Cajander's third cabinet,1937-01-01,9,1937-03-12,11,,,1939-12-01,11,Q2366737,Finnish Government,,,Q4411956,Kyösti Kallio's fourth cabinet,Q4357416,Risto Ryti's first cabinet,Q4411956,Kyösti Kallio's fourth cabinet,Q4357416,Risto Ryti's first cabinet
+,Q4357416,Risto Ryti's first cabinet,1939-12-01,11,,,1940-03-27,11,,,Q2366737,Finnish Government,,,Q4412225,Aimo Cajander's third cabinet,,,,,,
+,Q4357379,Risto Ryti's second cabinet,1940-03-27,11,,,1941-01-04,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q4410576,Jukka Rangell's cabinet,1941-01-04,11,,,1943-03-05,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q4357269,Edwin Linkomies' cabinet,1943-03-05,11,,,1944-08-08,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1330769,Juho Kusti Paasikivi's second cabinet,1944-01-01,9,,,1945-04-17,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q4357261,Urho Castrén's cabinet,1944-01-01,9,1944-09-21,11,,,1944-11-17,11,Q2366737,Finnish Government,,,,,,,,,,
+,Q4357427,Antti Hackzell's cabinet,1944-09-08,11,,,1944-10-21,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q649188,Juho Kusti Paasikivi's third cabinet,1945-01-01,9,1945-04-17,11,1946-03-26,11,,,Q2366737,Finnish Government,,,,,,,Q1330769,Juho Kusti Paasikivi's second cabinet,Q1330759,Mauno Pekkala's cabinet
+,Q1330759,Mauno Pekkala's cabinet,1946-01-01,9,,,1948-07-29,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1336615,Fagerholm I Cabinet,1948-01-01,9,,,1950-03-17,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1225824,Urho Kekkonen's first cabinet,1950-01-01,9,,,1951-01-17,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q775388,Urho Kekkonen's second cabinet,1951-01-01,9,,,1951-09-20,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1336738,Urho Kekkonen's third cabinet,1951-01-01,9,,,1953-07-09,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1336721,Sakari Tuomioja's cabinet,1953-01-01,9,,,1954-05-05,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1336758,Urho Kekkonen's fourth cabinet,1953-01-01,9,,,1953-11-17,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1336634,Ralf Törngren's cabinet,1954-01-01,9,,,1954-10-20,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1338746,Urho Kekkonen's fifth cabinet,1954-01-01,9,,,1956-03-03,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1338757,Karl-August Fagerholm's second cabinet,1956-01-01,9,,,1957-05-27,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1112382,Vieno Johannes Sukselainen's first cabinet,1957-01-01,9,,,1957-11-29,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q1350651,Rainer von Fieandt's cabinet,1957-01-01,9,,,1958-04-26,11,,,Q2366737,Finnish Government,,,,,Q1351242,Reino Kuuskoski's cabinet,,,,
+43,Q1351242,Reino Kuuskoski's cabinet,1958-01-01,9,1958-04-26,11,,,1958-08-29,11,Q11901671,Q11901671,,,Q1350651,Rainer von Fieandt's cabinet,Q6304290,Karl-August Fagerholm's third cabinet,,,,
+,Q6304290,Karl-August Fagerholm's third cabinet,1958-01-01,9,,,1959-01-01,9,,,Q2366737,Finnish Government,,,Q1351242,Reino Kuuskoski's cabinet,,,,,Q6304440,Vieno Johannes Sukselainen's second cabinet
+43,Q1351242,Reino Kuuskoski's cabinet,1958-01-01,9,1958-04-26,11,,,1958-08-29,11,Q2366737,Finnish Government,,,Q1350651,Rainer von Fieandt's cabinet,Q6304290,Karl-August Fagerholm's third cabinet,,,,
+,Q6304440,Vieno Johannes Sukselainen's second cabinet,1959-01-01,9,1959-01-13,11,,,1961-07-03,11,Q2366737,Finnish Government,,,,,,,Q6304290,Karl-August Fagerholm's third cabinet,Q6304227,Martti Miettunen's first cabinet
+,Q6304227,Martti Miettunen's first cabinet,1961-01-01,9,1961-07-14,11,,,1962-04-13,11,Q2366737,Finnish Government,,,,,,,Q6304440,Vieno Johannes Sukselainen's second cabinet,Q4696388,Ahti Karjalainen's first cabinet
+,Q4696388,Ahti Karjalainen's first cabinet,1962-01-01,9,1962-04-13,11,,,1963-12-18,11,Q2366737,Finnish Government,,,,,,,Q6304227,Martti Miettunen's first cabinet,Q4412105,Reino Lehto's cabinet
+,Q4412105,Reino Lehto's cabinet,1963-01-01,9,1963-12-18,11,,,1964-09-12,11,Q11901671,Q11901671,,,,,,,Q4696388,Ahti Karjalainen's first cabinet,Q6217040,Johannes Virolainen's cabinet
+,Q4412105,Reino Lehto's cabinet,1963-01-01,9,1963-12-18,11,,,1964-09-12,11,Q2366737,Finnish Government,,,,,,,Q4696388,Ahti Karjalainen's first cabinet,Q6217040,Johannes Virolainen's cabinet
+,Q6217040,Johannes Virolainen's cabinet,1964-01-01,9,1964-09-12,11,,,1966-05-27,11,Q2366737,Finnish Government,,,,,,,Q4412105,Reino Lehto's cabinet,Q10650451,Rafael Paasio's first cabinet
+,Q10650451,Rafael Paasio's first cabinet,1966-01-01,9,1966-05-27,11,,,1968-03-22,11,Q2366737,Finnish Government,,,,,,,Q6217040,Johannes Virolainen's cabinet,Q3374582,Mauno Koivisto's first cabinet
+,Q3374582,Mauno Koivisto's first cabinet,1968-01-01,9,1968-03-22,11,,,1970-05-14,11,Q2366737,Finnish Government,,,,,,,Q10650451,Rafael Paasio's first cabinet,Q3359402,Teuvo Aura's first cabinet
+,Q3359402,Teuvo Aura's first cabinet,1970-01-01,9,1970-05-14,11,,,1970-07-15,11,Q11901671,Q11901671,,,,,,,Q3374582,Mauno Koivisto's first cabinet,Q3374313,Ahti Karjalainen's second cabinet
+,Q3359402,Teuvo Aura's first cabinet,1970-01-01,9,1970-05-14,11,,,1970-07-15,11,Q2366737,Finnish Government,,,,,,,Q3374582,Mauno Koivisto's first cabinet,Q3374313,Ahti Karjalainen's second cabinet
+,Q10650403,Teuvo Aura's second cabinet,1971-01-01,9,1971-10-29,11,,,1972-02-23,11,Q11901671,Q11901671,,,,,,,Q3374313,Ahti Karjalainen's second cabinet,Q10650452,Rafael Paasio's second cabinet
+,Q10650403,Teuvo Aura's second cabinet,1971-01-01,9,1971-10-29,11,,,1972-02-23,11,Q2366737,Finnish Government,,,,,,,Q3374313,Ahti Karjalainen's second cabinet,Q10650452,Rafael Paasio's second cabinet
+,Q10650452,Rafael Paasio's second cabinet,1972-02-23,11,1972-02-23,11,1972-09-04,11,1972-09-04,11,Q2366737,Finnish Government,,,,,,,Q10650403,Teuvo Aura's second cabinet,Q10650462,Kalevi Sorsa's first cabinet
+,Q10650462,Kalevi Sorsa's first cabinet,1972-09-04,11,1972-09-04,11,1975-06-13,11,1975-06-13,11,Q2366737,Finnish Government,,,,,,,Q10650452,Rafael Paasio's second cabinet,Q10650442,Keijo Liinamaa's cabinet
+,Q10650442,Keijo Liinamaa's cabinet,1975-01-01,9,1975-06-13,11,,,1975-11-30,11,Q11901671,Q11901671,,,,,,,Q10650462,Kalevi Sorsa's first cabinet,Q10650448,Martti Miettunen's second cabinet
+,Q10650442,Keijo Liinamaa's cabinet,1975-01-01,9,1975-06-13,11,,,1975-11-30,11,Q2366737,Finnish Government,,,,,,,Q10650462,Kalevi Sorsa's first cabinet,Q10650448,Martti Miettunen's second cabinet
+,Q10650461,Kalevi Sorsa's second cabinet,1977-05-15,11,1977-05-15,11,1979-05-26,11,1979-05-26,11,Q2366737,Finnish Government,,,,,,,Q10650449,Martti Miettunen's third cabinet,Q10650440,Mauno Koivisto's second cabinet
+,Q10650440,Mauno Koivisto's second cabinet,1979-05-26,11,1979-05-26,11,1982-02-19,11,1982-02-19,11,Q2366737,Finnish Government,,,,,,,Q10650461,Kalevi Sorsa's second cabinet,Q10650464,Kalevi Sorsa's third cabinet
+,Q10650464,Kalevi Sorsa's third cabinet,1982-02-19,11,1982-02-19,11,1983-05-06,11,1983-05-06,11,Q2366737,Finnish Government,,,,,,,Q10650440,Mauno Koivisto's second cabinet,Q3112478,Kalevi Sorsa's fourth cabinet
+,Q3112478,Kalevi Sorsa's fourth cabinet,1983-05-06,11,1983-05-06,11,1987-04-30,11,1987-04-30,11,Q2366737,Finnish Government,,,,,Q3112126,Harri Holkeri's cabinet,Q10650464,Kalevi Sorsa's third cabinet,Q3112126,Harri Holkeri's cabinet
+,Q3112126,Harri Holkeri's cabinet,1987-04-30,11,1987-04-30,11,1991-04-26,11,1991-04-26,11,Q15238777,legislative term,,,Q3112478,Kalevi Sorsa's fourth cabinet,Q3110497,Esko Aho's cabinet,Q3112478,Kalevi Sorsa's fourth cabinet,Q3110497,Esko Aho's cabinet
+,Q3112126,Harri Holkeri's cabinet,1987-04-30,11,1987-04-30,11,1991-04-26,11,1991-04-26,11,Q2366737,Finnish Government,,,Q3112478,Kalevi Sorsa's fourth cabinet,Q3110497,Esko Aho's cabinet,Q3112478,Kalevi Sorsa's fourth cabinet,Q3110497,Esko Aho's cabinet
+,Q3110497,Esko Aho's cabinet,1991-04-26,11,1991-04-26,11,1995-04-13,11,1995-04-01,11,Q2366737,Finnish Government,,,Q3112126,Harri Holkeri's cabinet,Q3110332,Paavo Lipponen's first cabinet,Q3112126,Harri Holkeri's cabinet,Q3110332,Paavo Lipponen's first cabinet
+,Q1574803,Jyrki Katainen's cabinet,2011-06-22,11,2011-06-22,11,2014-06-24,11,2014-06-23,11,Q2366737,Finnish Government,,,Q1579733,Mari Kiviniemi's cabinet,Q17227278,Alexander Stubb's cabinet,Q1579733,Mari Kiviniemi's cabinet,Q17227278,Alexander Stubb's cabinet
+,Q17227278,Alexander Stubb's cabinet,2014-06-24,11,2014-06-24,11,2015-05-29,11,2015-05-29,11,Q2366737,Finnish Government,,,Q1574803,Jyrki Katainen's cabinet,Q19876592,Juha Sipilä's cabinet,Q1574803,Jyrki Katainen's cabinet,Q19876592,Juha Sipilä's cabinet
+74,Q19876592,Juha Sipilä's cabinet,2015-05-29,11,2015-05-29,11,2019-06-06,11,2019-06-05,11,Q2366737,Finnish Government,,,Q17227278,Alexander Stubb's cabinet,Q64340086,Antti Rinne's cabinet,Q17227278,Alexander Stubb's cabinet,Q64340086,Antti Rinne's cabinet
+74,Q19876592,Juha Sipilä's cabinet,2015-05-29,11,2015-05-29,11,2019-06-06,11,2019-06-05,11,Q3112663,caretaker government,,,Q17227278,Alexander Stubb's cabinet,Q64340086,Antti Rinne's cabinet,Q17227278,Alexander Stubb's cabinet,Q64340086,Antti Rinne's cabinet
+75,Q64340086,Antti Rinne's cabinet,2019-06-06,11,2019-06-06,11,2019-12-10,11,2019-12-10,11,Q2366737,Finnish Government,,,Q19876592,Juha Sipilä's cabinet,Q77972346,Sanna Marin's cabinet,Q19876592,Juha Sipilä's cabinet,Q77972346,Sanna Marin's cabinet
+75,Q64340086,Antti Rinne's cabinet,2019-06-06,11,2019-06-06,11,2019-12-10,11,2019-12-10,11,Q2455328,majority government,,,Q19876592,Juha Sipilä's cabinet,Q77972346,Sanna Marin's cabinet,Q19876592,Juha Sipilä's cabinet,Q77972346,Sanna Marin's cabinet
+75,Q64340086,Antti Rinne's cabinet,2019-06-06,11,2019-06-06,11,2019-12-10,11,2019-12-10,11,Q3112663,caretaker government,,,Q19876592,Juha Sipilä's cabinet,Q77972346,Sanna Marin's cabinet,Q19876592,Juha Sipilä's cabinet,Q77972346,Sanna Marin's cabinet
+76,Q77972346,Sanna Marin's cabinet,2019-12-10,11,,,,,,,Q2366737,Finnish Government,,,Q64340086,Antti Rinne's cabinet,,,Q64340086,Antti Rinne's cabinet,,
+76,Q77972346,Sanna Marin's cabinet,2019-12-10,11,,,,,,,Q2455328,majority government,,,Q64340086,Antti Rinne's cabinet,,,Q64340086,Antti Rinne's cabinet,,
