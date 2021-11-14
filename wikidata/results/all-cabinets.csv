@@ -35,8 +35,8 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q4357379,Risto Ryti's second cabinet,1940-03-27,11,,,1941-01-04,11,,,Q2366737,Finnish Government,,,,,,,,,,
 ,Q4410576,Jukka Rangell's cabinet,1941-01-04,11,,,1943-03-05,11,,,Q2366737,Finnish Government,,,,,,,,,,
 ,Q4357269,Edwin Linkomies' cabinet,1943-03-05,11,,,1944-08-08,11,,,Q2366737,Finnish Government,,,,,,,,,,
-,Q4357261,Urho Castrén's cabinet,1944-01-01,9,1944-09-21,11,,,1944-11-17,11,Q2366737,Finnish Government,,,,,,,,,,
 ,Q1330769,Juho Kusti Paasikivi's second cabinet,1944-01-01,9,,,1945-04-17,11,,,Q2366737,Finnish Government,,,,,,,,,,
+,Q4357261,Urho Castrén's cabinet,1944-01-01,9,1944-09-21,11,,,1944-11-17,11,Q2366737,Finnish Government,,,,,,,,,,
 ,Q4357427,Antti Hackzell's cabinet,1944-09-08,11,,,1944-10-21,11,,,Q2366737,Finnish Government,,,,,,,,,,
 ,Q649188,Juho Kusti Paasikivi's third cabinet,1945-01-01,9,1945-04-17,11,1946-03-26,11,,,Q2366737,Finnish Government,,,,,,,Q1330769,Juho Kusti Paasikivi's second cabinet,Q1330759,Mauno Pekkala's cabinet
 ,Q1330759,Mauno Pekkala's cabinet,1946-01-01,9,,,1948-07-29,11,,,Q2366737,Finnish Government,,,,,,,,,,
@@ -52,8 +52,8 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q1112382,Vieno Johannes Sukselainen's first cabinet,1957-01-01,9,,,1957-11-29,11,,,Q2366737,Finnish Government,,,,,,,,,,
 ,Q1350651,Rainer von Fieandt's cabinet,1957-01-01,9,,,1958-04-26,11,,,Q2366737,Finnish Government,,,,,Q1351242,Reino Kuuskoski's cabinet,,,,
 43,Q1351242,Reino Kuuskoski's cabinet,1958-01-01,9,1958-04-26,11,,,1958-08-29,11,Q11901671,Q11901671,,,Q1350651,Rainer von Fieandt's cabinet,Q6304290,Karl-August Fagerholm's third cabinet,,,,
-43,Q1351242,Reino Kuuskoski's cabinet,1958-01-01,9,1958-04-26,11,,,1958-08-29,11,Q2366737,Finnish Government,,,Q1350651,Rainer von Fieandt's cabinet,Q6304290,Karl-August Fagerholm's third cabinet,,,,
 ,Q6304290,Karl-August Fagerholm's third cabinet,1958-01-01,9,,,1959-01-01,9,,,Q2366737,Finnish Government,,,Q1351242,Reino Kuuskoski's cabinet,,,,,Q6304440,Vieno Johannes Sukselainen's second cabinet
+43,Q1351242,Reino Kuuskoski's cabinet,1958-01-01,9,1958-04-26,11,,,1958-08-29,11,Q2366737,Finnish Government,,,Q1350651,Rainer von Fieandt's cabinet,Q6304290,Karl-August Fagerholm's third cabinet,,,,
 ,Q6304440,Vieno Johannes Sukselainen's second cabinet,1959-01-01,9,1959-01-13,11,,,1961-07-03,11,Q2366737,Finnish Government,,,,,,,Q6304290,Karl-August Fagerholm's third cabinet,Q6304227,Martti Miettunen's first cabinet
 ,Q6304227,Martti Miettunen's first cabinet,1961-01-01,9,1961-07-14,11,,,1962-04-13,11,Q2366737,Finnish Government,,,,,,,Q6304440,Vieno Johannes Sukselainen's second cabinet,Q4696388,Ahti Karjalainen's first cabinet
 ,Q4696388,Ahti Karjalainen's first cabinet,1962-01-01,9,1962-04-13,11,,,1963-12-18,11,Q2366737,Finnish Government,,,,,,,Q6304227,Martti Miettunen's first cabinet,Q4412105,Reino Lehto's cabinet
