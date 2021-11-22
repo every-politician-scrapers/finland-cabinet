@@ -1,0 +1,138 @@
+{
+  "title": "Antti Kurvinen",
+  "pageID": 62681554,
+  "categories": [
+    "Living people",
+    "Members of the Parliament of Finland (2015–19)",
+    "Members of the Parliament of Finland (2019–23)",
+    "Centre Party (Finland) politicians",
+    "21st-century Finnish politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Antti Ilmari Vilhelm Kurvinen is a Finnish politician currently serving in the Parliament of Finland for the Centre Party at the Vaasa constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Finland"
+                },
+                {
+                  "text": "Centre Party",
+                  "type": "internal",
+                  "page": "Centre Party (Finland)"
+                },
+                {
+                  "text": "Vaasa",
+                  "type": "internal",
+                  "page": "Vaasa (constituency)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Antti Ilmari Vilhelm Kurvinen"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Finnish politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Science and Culture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Science and Culture"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sanna Marin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sanna Marin"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "27 May 2021"
+          },
+          "predecessor": {
+            "text": "Annika Saarikko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Annika Saarikko"
+              }
+            ]
+          },
+          "party": {
+            "text": "Centre Party",
+            "links": [
+              {
+                "text": "Centre Party",
+                "type": "internal",
+                "page": "Centre Party (Finland)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Antti Kurvinen.JPG"
+          },
+          "constituency_mp2": {
+            "text": "Vaasa",
+            "links": [
+              {
+                "text": "Vaasa",
+                "type": "internal",
+                "page": "Vaasa (constituency)"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Finnish"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "centrepartyfinland-politician-stub"
+        }
+      ]
+    }
+  ]
+}

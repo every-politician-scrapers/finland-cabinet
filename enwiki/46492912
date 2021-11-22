@@ -1,0 +1,138 @@
+{
+  "title": "Emma Kari",
+  "pageID": 46492912,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "People from Espoo",
+    "Green League politicians",
+    "Members of the Parliament of Finland (2015–19)",
+    "Members of the Parliament of Finland (2019–23)",
+    "21st-century Finnish women politicians",
+    "Women members of the Parliament of Finland",
+    "Finnish city councillors",
+    "Women city councillors"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Emma Kari (born 15 May 1983 in Espoo) is a Finnish politician representing the Green League.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Espoo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Green League"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Emma Kari"
+                ]
+              }
+            },
+            {
+              "text": "She was elected to the Parliament of Finland in the 2015 parliamentary election with a vote total of 4,647.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Finland"
+                },
+                {
+                  "text": "parliamentary election",
+                  "type": "internal",
+                  "page": "2015 Finnish parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "Kari has been in the City Council of Helsinki since 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "City Council of Helsinki"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kari and Kukka Ranta have written a book Kalavale, which addresses the consequences of commercial fishing.",
+              "formatting": {
+                "italic": [
+                  "Kalavale"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Emma_Kari.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Emma_Kari.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Emma_Kari.jpg",
+          "caption": "Emma Kari in 2017.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Finnish politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://tulospalvelu.vaalit.fi/E-2015/fi/val01.html",
+          "title": "Valitut ehdokkaat Helsingin vaalipiiri",
+          "publisher": "Ministry of Justice",
+          "accessdate": "22 April 2015",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20150427143010/http://tulospalvelu.vaalit.fi/E-2015/fi/val01.html",
+          "archivedate": "27 April 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://tulospalvelu.vaalit.fi/K2008/s/valitut/helsinkival.htm",
+          "title": "Valitut ehdokkaat Helsinki",
+          "publisher": "Ministry of Justice",
+          "accessdate": "22 April 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://yle.fi/uutiset/eu_ryostokalastaa_ja_ajaa_kestavaa_kalastusta_-_tah/6391129",
+          "title": "EU ryöstökalastaa ja ajaa kestävää kalastusta - Täh!?",
+          "publisher": "Yle",
+          "date": "26 November 2012",
+          "accessdate": "22 April 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "finland-politician-stub"
+        }
+      ]
+    }
+  ]
+}
