@@ -653,6 +653,13 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Fjalar Nordell",
+          "lan1": "fi",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "template": "citation",
