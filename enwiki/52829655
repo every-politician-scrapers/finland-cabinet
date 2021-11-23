@@ -793,7 +793,7 @@
         {
           "sentences": [
             {
-              "text": "On 25 May 2021, Finnish media reported that Marin and her family were paying about € per month for groceries with public funds as a part of the Prime Minister's tax-free housing benefits.",
+              "text": "On 25 May 2021, Finnish media reported that Marin and her family were paying about €300 per month for groceries with public funds as a part of the Prime Minister's tax-free housing benefits.",
               "links": [
                 {
                   "text": "€",
@@ -833,8 +833,7 @@
               "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hallituksen_tiedotustilaisuus_koronavirustilanteesta_16.3.2020_(49666217473).jpg",
               "caption": {}
             }
-          ],
-          "pos": "Prime Minister of Finland"
+          ]
         },
         {
           "date": "July 2021",
@@ -1138,9 +1137,11 @@
               "text": "In October 2020, Marin took part in a photo shoot for the Finnish magazine Trendi in which she wore a blazer with nothing underneath.",
               "links": [
                 {
-                  "text": "Trendi",
-                  "type": "internal",
-                  "page": ":fi:Trendi"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "fi"
+                  }
                 }
               ],
               "formatting": {
