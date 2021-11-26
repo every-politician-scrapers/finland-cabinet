@@ -611,7 +611,12 @@
                   "type": "internal",
                   "page": "Salon Seudun Sanomat"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Salon Seudun Sanomat"
+                ]
+              }
             },
             {
               "text": "Niinistö's godfather was Fjalar Nordell, founder of Salora.",
@@ -1855,7 +1860,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Coat of Arms of Sauli Niinistö"
+            "text": "Coat of arms of Sauli Niinistö"
           },
           "image": {
             "text": "Coat of arms of Sauli Niinistö.svg"
@@ -2219,7 +2224,7 @@
       ]
     },
     {
-      "title": "Honorary Doctorates",
+      "title": "Honorary doctorates",
       "depth": 1,
       "paragraphs": [
         {
