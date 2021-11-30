@@ -438,62 +438,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "en"
-          ],
-          "template": "in lang"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "nationalcoalition-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Jan Vapaavuori website",
-            "links": [
-              {
-                "text": "Jan Vapaavuori website",
-                "type": "external",
-                "site": "http://www.vapaavuori.net"
-              }
-            ]
-          },
-          {
-            "text": "Jan Vapaavuori profile at Council of State website",
-            "links": [
-              {
-                "text": "Jan Vapaavuori profile",
-                "type": "external",
-                "site": "https://web.archive.org/web/20081116061113/http://www.vn.fi/hallitus/jasenet/asuntoministeri/en.jsp"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

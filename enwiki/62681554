@@ -121,18 +121,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "centrepartyfinland-politician-stub"
-        }
-      ]
     }
   ]
 }

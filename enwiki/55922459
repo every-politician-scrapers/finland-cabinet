@@ -141,12 +141,12 @@
         {
           "template": "date",
           "data": {
-            "year": "2019",
-            "month": "06",
-            "date": "06",
+            "year": "2021",
+            "month": "11",
+            "date": "19",
             "df": "y",
             "template": "start date",
-            "text": "June 6, 2019"
+            "text": "November 19, 2021"
           }
         },
         {
@@ -180,6 +180,37 @@
             "text": "Mikkonen in 2019"
           },
           "office": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Minister of the Interior (Finland)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "November 19, 2021"
+          },
+          "primeminister": {
+            "text": "Sanna Marin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sanna Marin"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Maria Ohisalo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maria Ohisalo"
+              }
+            ]
+          },
+          "office2": {
             "text": "Minister of the Environment and Climate Change",
             "links": [
               {
@@ -189,10 +220,13 @@
               }
             ]
           },
-          "term_start": {
-            "text": "June 6, 2019"
+          "term_start2": {
+            "text": "6 June 2019"
           },
-          "primeminister": {
+          "term_end2": {
+            "text": "19 November 2021"
+          },
+          "primeminister2": {
             "text": "Antti Rinne\nSanna Marin",
             "links": [
               {
@@ -205,7 +239,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor2": {
             "text": "Kimmo Tiilikainen",
             "links": [
               {
@@ -214,7 +248,16 @@
               }
             ]
           },
-          "office2": {
+          "successor2": {
+            "text": "Emma Kari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emma Kari"
+              }
+            ]
+          },
+          "office3": {
             "text": "Member of the Finnish Parliament",
             "links": [
               {
@@ -224,10 +267,10 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "April 22, 2015"
           },
-          "constituency2": {
+          "constituency3": {
             "text": "Savo-Karelia",
             "links": [
               {
@@ -346,36 +389,6 @@
           "archivedate": "12 June 2011",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Other activities",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mikkonen was also a member of the advisory board of the National Audit Office of Finland (NAOF) between 2017 and 2019."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
         }
       ]
     }

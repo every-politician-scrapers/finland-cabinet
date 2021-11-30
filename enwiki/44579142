@@ -298,55 +298,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "fi"
-          ],
-          "template": "in lang"
-        },
-        {
-          "template": "commonscat-inline"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "socialdemocraticpartyfinland-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Krista Kiuru Official Homepage",
-            "links": [
-              {
-                "text": "Krista Kiuru Official Homepage",
-                "type": "external",
-                "site": "http://kristakiuru.fi/"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }
