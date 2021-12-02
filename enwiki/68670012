@@ -2,12 +2,12 @@
   "title": "Minna Arve",
   "pageID": 68670012,
   "categories": [
+    "20th-century Finnish women politicians",
+    "21st-century Finnish women politicians",
     "1974 births",
     "Living people",
     "National Coalition Party politicians",
     "People from Turku",
-    "20th-century Finnish women politicians",
-    "21st-century Finnish women politicians",
     "Women mayors of places in Finland"
   ],
   "sections": [
@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Minna Arve (born 1974 ) is a Finnish politician who serves as the mayor of Turku.",
+              "text": "Minna Arve (born 1974) is a Finnish politician who serves as the mayor of Turku.",
               "links": [
                 {
                   "text": "Finnish",
@@ -53,7 +53,7 @@
       ],
       "templates": [
         {
-          "description": "Finnish politician",
+          "description": "Finnish politician (born 1974)",
           "template": "short description"
         }
       ],
@@ -82,14 +82,13 @@
             "number": 1974
           },
           "birth_place": {
-            "text": "Flag of Finland.svg Turku, Suomi",
+            "text": "Turku, Finland",
             "links": [
               {
                 "type": "internal",
                 "page": "Turku"
               },
               {
-                "text": "Suomi",
                 "type": "internal",
                 "page": "Finland"
               }
