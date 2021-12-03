@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Sanna Mirella Marin (born 16 November 1985) is a Finnish politician who has been the Prime Minister of Finland since 10 December 2019.",
+              "text": "Sanna Mirella Marin (born 16 November 1985) is a Finnish politician who has served as Prime Minister of Finland since 10 December 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -42,7 +42,7 @@
               }
             },
             {
-              "text": "A member of the Social Democratic Party, she has been a member of the Parliament of Finland since 2015 and served as the Minister of Transport and Communications from 6 June to 10 December 2019.",
+              "text": "A member of the Social Democratic Party (SDP), she has been a member of the Parliament of Finland since 2015 and briefly served as Minister of Transport and Communications from 6 June to 10 December 2019.",
               "links": [
                 {
                   "text": "Social Democratic Party",
@@ -61,7 +61,7 @@
               ]
             },
             {
-              "text": "After Antti Rinne's resignation in the wake of the 2019 postal strike, Marin was selected as prime minister on 8 December 2019.",
+              "text": "Following Antti Rinne's resignation in the wake of the 2019 postal strike, Marin was selected as Prime Minister on 8 December 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -79,14 +79,30 @@
         {
           "sentences": [
             {
-              "text": "Taking office at age 34, she is Finland's youngest prime minister, and the world's second-youngest state leader."
+              "text": "Taking office at age 34, she is the youngest person to hold the position in Finnish history, as well as currently the world's second-youngest state leader, after Giacomo Simoncini, who has been Captain Regent of San Marino since 2021.",
+              "links": [
+                {
+                  "text": "world's second-youngest state leader",
+                  "type": "internal",
+                  "page": "Lists of state leaders by age"
+                },
+                {
+                  "type": "internal",
+                  "page": "Giacomo Simoncini"
+                },
+                {
+                  "text": "Captain Regent of San Marino",
+                  "type": "internal",
+                  "page": "Captains Regent"
+                }
+              ]
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Current Prime Minister of Finland and former minister of Transport and Communications",
+          "description": "Prime Minister of Finland",
           "template": "short description"
         },
         {

@@ -40,12 +40,16 @@
         {
           "sentences": [
             {
-              "text": "Sauli Väinämö Niinistö (born 24 August 1948) is a Finnish politician who has been serving as the 12th president of Finland since 1 March 2012.",
+              "text": "Sauli Väinämö Niinistö (born 24 August 1948) is a Finnish politician who has served as the 12th and current President of Finland since 2012.",
               "links": [
                 {
-                  "text": "president of Finland",
+                  "text": "12th",
                   "type": "internal",
-                  "page": "president of Finland"
+                  "page": "List of presidents of Finland"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Finland"
                 }
               ],
               "formatting": {
@@ -59,7 +63,7 @@
         {
           "sentences": [
             {
-              "text": "A lawyer by education, Niinistö was Chairman of the National Coalition Party from 1994 to 2001, Minister of Justice from 1995 to 1996, Minister of Finance from 1996 to 2003, Deputy Prime Minister from 1995 to 2001 and the National Coalition Party (NCP) candidate in the 2006 presidential election.",
+              "text": "A lawyer by education, Niinistö was Chairman of the National Coalition Party (NCP) from 1994 to 2001, Minister of Justice from 1995 to 1996, Minister of Finance from 1996 to 2003, Deputy Prime Minister from 1995 to 2001 and the NCP candidate in the 2006 presidential election.",
               "links": [
                 {
                   "type": "internal",
@@ -83,12 +87,11 @@
               ]
             },
             {
-              "text": "He served as the speaker of the Parliament of Finland from 2007 to 2011 and has been the honorary president of the European People's Party since 2002.",
+              "text": "He served as the Speaker of the Parliament of Finland from 2007 to 2011 and has been the honorary president of the European People's Party (EPP) since 2002.",
               "links": [
                 {
-                  "text": "speaker of the Parliament of Finland",
                   "type": "internal",
-                  "page": "speaker of the Parliament of Finland"
+                  "page": "Speaker of the Parliament of Finland"
                 },
                 {
                   "type": "internal",
@@ -101,7 +104,7 @@
         {
           "sentences": [
             {
-              "text": "Niinistö was the NCP candidate in the 2012 presidential election, defeating Pekka Haavisto of the Green League with 62.6% of the vote in the decisive second round.",
+              "text": "Niinistö was the NCP candidate in the 2012 presidential election, defeating Pekka Haavisto of the Green League (VIHR) with 62.6% of the vote in the decisive second round.",
               "links": [
                 {
                   "text": "2012 presidential election",
@@ -113,14 +116,13 @@
                   "page": "Pekka Haavisto"
                 },
                 {
-                  "text": "Green League",
                   "type": "internal",
-                  "page": "Green League (Finland)"
+                  "page": "Green League"
                 }
               ]
             },
             {
-              "text": "Niinistö assumed office on 1 March 2012, and is the first NCP president since Juho Kusti Paasikivi, who left office in 1956.",
+              "text": "Niinistö assumed office on 1 March 2012; he is the first NCP president since Juho Kusti Paasikivi, who left office in 1956.",
               "links": [
                 {
                   "type": "internal",
@@ -129,7 +131,7 @@
               ]
             },
             {
-              "text": "In May 2017, Niinistö announced that he would seek re-election in the 2018 presidential election, running as an independent candidate.",
+              "text": "In May 2017, Niinistö announced that he would seek reelection in the 2018 presidential election, running as an Independent candidate.",
               "links": [
                 {
                   "text": "2018 presidential election",
@@ -137,31 +139,31 @@
                   "page": "2018 Finnish presidential election"
                 },
                 {
-                  "text": "independent",
+                  "text": "Independent",
                   "type": "internal",
                   "page": "Independent politician"
                 }
               ]
             },
             {
-              "text": "NCP and the Christian Democrat Party supported his candidacy.",
+              "text": "The NCP and Christian Democrats (KI) supported his candidacy.",
               "links": [
                 {
-                  "text": "Christian Democrat Party",
+                  "text": "Christian Democrats",
                   "type": "internal",
                   "page": "Christian Democrats (Finland)"
                 }
               ]
             },
             {
-              "text": "He won re-election in the first round on 28 January 2018 with 62.7% of the vote and his second term began on 1 February 2018."
+              "text": "He won reelection in the first round on 28 January 2018 with 62.7% of the vote and his second term began on 1 February 2018."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "12th president of Finland",
+          "description": "12th President of Finland",
           "template": "short description"
         },
         {
@@ -198,10 +200,10 @@
             "text": "Sauli Niinistö"
           },
           "image": {
-            "text": "President of Finland Sauli Niinistö 2019.jpg"
+            "text": "Tasavallan presidentin esittely 7.2.2020 (49501475902) (cropped) (cropped).jpg"
           },
           "caption": {
-            "text": "Niinistö in 2019"
+            "text": "Niinistö in 2020"
           },
           "office": {
             "text": "President of Finland",
