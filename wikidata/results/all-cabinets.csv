@@ -8,7 +8,6 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 1,Q1888842,Pehr Evind Svinhufvud's first senate,,,1917-11-27,11,,,1918-05-27,11,Q2366737,Finnish Government,,,Q11893105,Eemil Nestor Setälä's senate,Q1291664,Juho Kusti Paasikivi's first senate,Q11893105,Eemil Nestor Setälä's senate,Q1291664,Juho Kusti Paasikivi's first senate
 ,Q3110332,Paavo Lipponen's first cabinet,,,1995-04-13,11,,,1999-04-15,11,Q2366737,Finnish Government,,,Q3110497,Esko Aho's cabinet,Q3112247,Paavo Lipponen's second Cabinet,Q3110497,Esko Aho's cabinet,Q3112247,Paavo Lipponen's second Cabinet
 ,Q3112247,Paavo Lipponen's second Cabinet,,,1999-04-01,11,,,2003-04-17,11,Q2366737,Finnish Government,,,Q3110332,Paavo Lipponen's first cabinet,Q250657,Anneli Jäätteenmäki's cabinet,Q3110332,Paavo Lipponen's first cabinet,Q250657,Anneli Jäätteenmäki's cabinet
-,Q3374313,Ahti Karjalainen's second cabinet,,,1970-07-15,11,,,1971-10-29,11,Q2366737,Finnish Government,,,,,,,Q3359402,Teuvo Aura's first cabinet,Q10650403,Teuvo Aura's second cabinet
 ,Q10650448,Martti Miettunen's second cabinet,,,1975-11-30,11,,,1976-09-29,11,Q2366737,Finnish Government,,,,,,,Q10650442,Keijo Liinamaa's cabinet,Q10650449,Martti Miettunen's third cabinet
 ,Q10650449,Martti Miettunen's third cabinet,,,1976-09-29,11,,,1977-05-15,11,Q2366737,Finnish Government,,,,,,,Q10650448,Martti Miettunen's second cabinet,Q10650461,Kalevi Sorsa's second cabinet
 3,Q1628568,Lauri Ingman's first cabinet,1918-01-01,9,1918-11-27,11,,,1919-04-17,11,Q2366737,Finnish Government,,,Q1291664,Juho Kusti Paasikivi's first senate,Q1628905,Kaarlo Castrén's cabinet,,,,
@@ -64,6 +63,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q3374582,Mauno Koivisto's first cabinet,1968-01-01,9,1968-03-22,11,,,1970-05-14,11,Q2366737,Finnish Government,,,,,,,Q10650451,Rafael Paasio's first cabinet,Q3359402,Teuvo Aura's first cabinet
 ,Q3359402,Teuvo Aura's first cabinet,1970-01-01,9,1970-05-14,11,,,1970-07-15,11,Q11901671,non-partisan caretaker government,,,,,,,Q3374582,Mauno Koivisto's first cabinet,Q3374313,Ahti Karjalainen's second cabinet
 ,Q3359402,Teuvo Aura's first cabinet,1970-01-01,9,1970-05-14,11,,,1970-07-15,11,Q2366737,Finnish Government,,,,,,,Q3374582,Mauno Koivisto's first cabinet,Q3374313,Ahti Karjalainen's second cabinet
+,Q3374313,Ahti Karjalainen's second cabinet,1970-01-01,9,1970-07-15,11,,,1971-10-29,11,Q2366737,Finnish Government,,,,,,,Q3359402,Teuvo Aura's first cabinet,Q10650403,Teuvo Aura's second cabinet
 ,Q10650403,Teuvo Aura's second cabinet,1971-01-01,9,1971-10-29,11,,,1972-02-23,11,Q11901671,non-partisan caretaker government,,,,,,,Q3374313,Ahti Karjalainen's second cabinet,Q10650452,Rafael Paasio's second cabinet
 ,Q10650403,Teuvo Aura's second cabinet,1971-01-01,9,1971-10-29,11,,,1972-02-23,11,Q2366737,Finnish Government,,,,,,,Q3374313,Ahti Karjalainen's second cabinet,Q10650452,Rafael Paasio's second cabinet
 ,Q10650452,Rafael Paasio's second cabinet,1972-02-23,11,1972-02-23,11,1972-09-04,11,1972-09-04,11,Q2366737,Finnish Government,,,,,,,Q10650403,Teuvo Aura's second cabinet,Q10650462,Kalevi Sorsa's first cabinet
