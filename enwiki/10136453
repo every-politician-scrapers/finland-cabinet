@@ -394,10 +394,11 @@
       ],
       "references": [
         {
+          "url": "https://yle.fi/uutiset/3-11697307",
+          "title": "Pekka Haavisto sai eduskunnan luottamuksen äänin 101–68 – Näin suuri sali äänesti",
+          "date": "15 December 2020",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     }
