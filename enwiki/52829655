@@ -110,6 +110,10 @@
           "template": "use dmy dates"
         },
         {
+          "date": "November 2020",
+          "template": "use british english"
+        },
+        {
           "df": "y",
           "year": "1985",
           "month": "11",
