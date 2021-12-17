@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Lauri Matias Lyly (born 20 February 1953, Seinäjoki) is a Finnish trade unionist and politician who has served as the mayor of Tampere since 2017.",
+              "text": "Lauri Matias Lyly (born 20 February 1953, Seinäjoki) is a Finnish trade unionist and politician who served as the mayor of Tampere since 2017 until 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -107,7 +107,10 @@
             ]
           },
           "termstart": {
-            "text": "12 June 2017–16 August 2021"
+            "text": "12 June 2017"
+          },
+          "termend": {
+            "text": "16 August 2021"
           },
           "spouse": {
             "text": "Tuula Lyly"
