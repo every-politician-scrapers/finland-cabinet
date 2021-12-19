@@ -312,11 +312,15 @@
             "text": "Minister for International Development"
           },
           "primeminister4": {
-            "text": "Jyrki Katainen",
+            "text": "Jyrki Katainen Alexander Stubb",
             "links": [
               {
                 "type": "internal",
                 "page": "Jyrki Katainen"
+              },
+              {
+                "type": "internal",
+                "page": "Alexander Stubb"
               }
             ]
           },
