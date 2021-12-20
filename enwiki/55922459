@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Krista Johanna Mikkonen (born 15 November 1972 in Hamina, Finland) is a Finnish politician for the Green League, member of parliament, and Finland's Minister of the Environment and Climate Change.",
+              "text": "Krista Johanna Mikkonen (born 15 November 1972 in Hamina, Finland) is a Finnish politician for the Green League, member of parliament, and Finland's Minister of the Interior.",
               "links": [
                 {
                   "type": "internal",
@@ -32,9 +32,9 @@
                   "page": "Green League"
                 },
                 {
-                  "text": "Minister of the Environment and Climate Change",
+                  "text": "Minister of the Interior",
                   "type": "internal",
-                  "page": "Minister of the Environment and Climate Change (Finland)"
+                  "page": "Minister of the Interior (Finland)"
                 }
               ],
               "formatting": {
