@@ -1,0 +1,34 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q29558,President of Finland,Q33,Q33,,Q2648570,1919-07-17,,,,President of Finland
+Q738695,Prime Minister of Finland,Q33,Q33,Q3278079,Q11100027,1918-11-27,,,,Prime Minister of Finland
+Q3278079,Deputy Prime Minister of Finland,Q33,Q33,,,1957,,,,Deputy Prime Minister of Finland
+Q24205201,Minister of Agriculture and Forestry,Q33,Q33,,Q1845777,,,,,Minister of Agriculture and Forestry (Finland)
+Q18694351,Minister of Communications,Q33,Q33,,,,,,,
+Q23725756,Minister of Culture,Q33,Q33,,,,,,,
+Q46995758,Minister of Culture and Housing,Q33,Q33,,,,,,,
+Q188393,Minister of Defence of Finland,Q33,Q33,,,1918,,,,Minister of Defence (Finland)
+Q107551007,Finnish Minister for Development Cooperation and Foreign Trade,Q33,Q33,,,,,,,
+Q11895091,Minister of Education,Q33,Q33,,,,,,,Minister of Education (Finland)
+Q10563305,Finnish Minister of Employment,Q33,Q33,,,,,,,Minister of Employment (Finland)
+Q1425432,Minister of the Environment and Climate Change,Q33,Q33,,,,,,,Minister of the Environment and Climate Change (Finland)
+Q11895142,Minister for European Affairs and Foreign Trade,Q33,Q33,,,,,,,Minister for Development Cooperation and Foreign Trade (Finland)
+Q11894988,"Finnish Minister for European Affairs, Culture and Sport",Q33,Q33,,,,,,,
+Q11895097,Minister of Family Affairs and Social Services,Q33,Q33,,,,,,,Minister of Family Affairs and Social Services (Finland)
+Q2367542,Minister of Finance,Q33,Q33,,Q96143224,,,,,Minister of Finance (Finland)
+Q2386529,Minister for Foreign Affairs of Finland,Q33,Q33,,,,,,,Minister for Foreign Affairs (Finland)
+Q18694340,Minister of Housing,Q33,Q33,,,,,,,
+Q1445938,Minister of the Interior,Q33,Q33,,,,,,,Minister of the Interior (Finland)
+Q17118521,Minister for International Development,Q33,Q33,,,,,,,
+Q1294631,Minister of Justice of Finland,Q33,Q33,,,,,,,Minister of Justice (Finland)
+Q107550995,Minister of Local Government,Q33,Q33,,,,,,,
+Q107550937,Finnish Minister for Nordic Cooperation,Q33,Q33,,,2019-06-06,,,,
+Q21141009,Minister of Science and Culture,Q33,Q33,,,,,,,Minister of Science and Culture
+Q18694348,Minister of Social Affairs and Health,Q33,Q33,,,,,,,Minister of Social Affairs and Health (Finland)
+Q11895063,Finnish Minister of Transport and Communications,Q33,Q33,,,,,,,Minister of Transport and Communications (Finland)
+Q5482321,Minister of the Ministry of Finance,Q33,Q33,,,,,,,
+Q392228,Speaker of the Parliament of Finland,Q33,Q33,,,1907,,,,Speaker of the Parliament of Finland
+Q7250571,Prosecutor General of Finland,Q33,Q33,,,1996,,,,
+Q5097018,Chief of Defence,Q33,,,,1918,,,,Chief of Defence (Finland)
+Q56816987,Governor of the Bank of Finland,Q33,,,,,,,,
+Q11898801,mayor of Turku,,Q38511,,,,,,,
+Q18632234,Mayor of Oulu,Q33,Q47048,,,,,,,
