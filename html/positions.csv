@@ -8,6 +8,7 @@ Q23725756,Minister of Culture,Q33,Q33,,,,,,,
 Q46995758,Minister of Culture and Housing,Q33,Q33,,,,,,,
 Q188393,Minister of Defence of Finland,Q33,Q33,,,1918,,,,Minister of Defence (Finland)
 Q107551007,Finnish Minister for Development Cooperation and Foreign Trade,Q33,Q33,,,,,,,
+Q10495404,Minister of Economic Affairs,Q33,Q33,,,2008-01-01,,Q10495390,,Minister of Economic Affairs (Finland)
 Q11895091,Minister of Education,Q33,Q33,,,,,,,Minister of Education (Finland)
 Q10563305,Finnish Minister of Employment,Q33,Q33,,,,,,,Minister of Employment (Finland)
 Q1425432,Minister of the Environment and Climate Change,Q33,Q33,,,,,,,Minister of the Environment and Climate Change (Finland)
@@ -21,14 +22,22 @@ Q1445938,Minister of the Interior,Q33,Q33,,,,,,,Minister of the Interior (Finlan
 Q17118521,Minister for International Development,Q33,Q33,,,,,,,
 Q1294631,Minister of Justice of Finland,Q33,Q33,,,,,,,Minister of Justice (Finland)
 Q107550995,Minister of Local Government,Q33,Q33,,,,,,,
+Q46991594,Minister of Local Government and Public Reforms,Q33,Q33,,,2015-05-29,,Q25713902,,
 Q107550937,Finnish Minister for Nordic Cooperation,Q33,Q33,,,2019-06-06,,,,
 Q21141009,Minister of Science and Culture,Q33,Q33,,,,,,,Minister of Science and Culture
 Q18694348,Minister of Social Affairs and Health,Q33,Q33,,,,,,,Minister of Social Affairs and Health (Finland)
+Q10495390,Minister of Trade and Industry,Q33,Q33,,,1918-11-27,2007-12-31,,Q10495404,Minister of Trade and Industry (Finland)
+Q15934457,Minister of Transport,Q33,Q33,,,,,,Q25713902,
 Q11895063,Finnish Minister of Transport and Communications,Q33,Q33,,,,,,,Minister of Transport and Communications (Finland)
+Q25713902,Minister of Transport and Local Government,Q33,Q33,,,,2015-05-29,Q15934457,Q46991594,
 Q5482321,Minister of the Ministry of Finance,Q33,Q33,,,,,,,
 Q392228,Speaker of the Parliament of Finland,Q33,Q33,,,1907,,,,Speaker of the Parliament of Finland
+Q1760217,Chancellor of Justice of Finland,Q33,Q33,,,,,Q11888892,,Chancellor of Justice (Finland)
+Q100511448,Deputy Chancellor of Justice,Q33,,,,,,,,
 Q7250571,Prosecutor General of Finland,Q33,Q33,,,1996,,,,
 Q5097018,Chief of Defence,Q33,,,,1918,,,,Chief of Defence (Finland)
 Q56816987,Governor of the Bank of Finland,Q33,,,,,,,,
+Q11862151,Mayor of Helsinki,Q33,Q1757,,,,,Q42901272,,
 Q11898801,mayor of Turku,,Q38511,,,,,,,
 Q18632234,Mayor of Oulu,Q33,Q47048,,,,,,,
+Q55332262,mayor of Tampere,Q33,Q40840,,,2007-01-01,,Q55332347,,
