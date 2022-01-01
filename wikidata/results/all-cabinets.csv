@@ -51,9 +51,9 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q1112382,Vieno Johannes Sukselainen's first cabinet,1957-01-01,9,,,1957-11-29,11,,,Q2366737,Finnish Government,,,,,,,,,,
 ,Q1350651,Rainer von Fieandt's cabinet,1957-01-01,9,,,1958-04-26,11,,,Q2366737,Finnish Government,,,,,Q1351242,Reino Kuuskoski's cabinet,,,,
 43,Q1351242,Reino Kuuskoski's cabinet,1958-01-01,9,1958-04-26,11,,,1958-08-29,11,Q11901671,non-partisan caretaker government,,,Q1350651,Rainer von Fieandt's cabinet,Q6304290,Karl-August Fagerholm's third cabinet,,,,
-43,Q1351242,Reino Kuuskoski's cabinet,1958-01-01,9,1958-04-26,11,,,1958-08-29,11,Q2366737,Finnish Government,,,Q1350651,Rainer von Fieandt's cabinet,Q6304290,Karl-August Fagerholm's third cabinet,,,,
 ,Q6304290,Karl-August Fagerholm's third cabinet,1958-01-01,9,,,1959-01-01,9,,,Q2366737,Finnish Government,,,Q1351242,Reino Kuuskoski's cabinet,,,,,Q6304440,Vieno Johannes Sukselainen's second cabinet
-,Q6304440,Vieno Johannes Sukselainen's second cabinet,1959-01-01,9,1959-01-13,11,,,1961-07-03,11,Q2366737,Finnish Government,,,,,,,Q6304290,Karl-August Fagerholm's third cabinet,Q6304227,Martti Miettunen's first cabinet
+43,Q1351242,Reino Kuuskoski's cabinet,1958-01-01,9,1958-04-26,11,,,1958-08-29,11,Q2366737,Finnish Government,,,Q1350651,Rainer von Fieandt's cabinet,Q6304290,Karl-August Fagerholm's third cabinet,,,,
+,Q6304440,Vieno Johannes Sukselainen's second cabinet,1959-01-13,11,1959-01-13,11,1961-07-03,11,1961-07-03,11,Q2366737,Finnish Government,,,,,,,Q6304290,Karl-August Fagerholm's third cabinet,Q6304227,Martti Miettunen's first cabinet
 ,Q6304227,Martti Miettunen's first cabinet,1961-01-01,9,1961-07-14,11,,,1962-04-13,11,Q2366737,Finnish Government,,,,,,,Q6304440,Vieno Johannes Sukselainen's second cabinet,Q4696388,Ahti Karjalainen's first cabinet
 ,Q4696388,Ahti Karjalainen's first cabinet,1962-01-01,9,1962-04-13,11,,,1963-12-18,11,Q2366737,Finnish Government,,,,,,,Q6304227,Martti Miettunen's first cabinet,Q4412105,Reino Lehto's cabinet
 ,Q4412105,Reino Lehto's cabinet,1963-01-01,9,1963-12-18,11,,,1964-09-12,11,Q11901671,non-partisan caretaker government,,,,,,,Q4696388,Ahti Karjalainen's first cabinet,Q6217040,Johannes Virolainen's cabinet
