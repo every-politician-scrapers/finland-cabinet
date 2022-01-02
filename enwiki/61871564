@@ -232,61 +232,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2020",
-          "title": "Thomas Blomqvist",
-          "url": "https://www.metoo.is/speakers/224-thomas-blomqvist",
-          "url-status": "live",
-          "access-date": "20 August 2020",
-          "website": "Metoo",
-          "language": "en-gb",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Parliamentary Elections 2019",
-          "url": "https://tulospalvelu.vaalit.fi/EKV-2019/en/kokomaaval.html",
-          "website": "tulospalvelu.vaalit.fi",
-          "accessdate": "24 September 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Tässä ovat Marinin hallituksen ministerit – joukko äänikuningattaria, pikapaluun tekijä, maailman nuorin pääministeri",
-          "url": "https://yle.fi/uutiset/3-11108950",
-          "publisher": "Yle",
-          "language": "Finnish",
-          "accessdate": "11 December 2019",
-          "date": "9 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Thomas",
-          "url": "https://www.thomasblomqvist.fi/thomas",
-          "access-date": "20 August 2020",
-          "website": "www.thomasblomqvist.fi",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.eduskunta.fi/EN/kansanedustajat/Pages/923.aspx",
-          "title": "Thomas Blomqvist",
-          "website": "www.eduskunta.fi",
-          "accessdate": "24 September 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://valtioneuvosto.fi/en/article/-/asset_publisher/ulkoministeri-soini",
-          "title": "Thomas Blomqvist. Minister for Nordic Cooperation and Equality",
-          "website": "valtioneuvosto.fi",
-          "accessdate": "24 September 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

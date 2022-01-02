@@ -168,21 +168,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Hanna Sarkkinen",
-          "url": "https://www.eduskunta.fi/FI/kansanedustajat/Sivut/1312.aspx",
-          "website": "Parliament of Finland",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
