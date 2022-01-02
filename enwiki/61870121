@@ -262,56 +262,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Parliamentary Elections 2019",
-          "url": "https://tulospalvelu.vaalit.fi/EKV-2019/en/kokomaaval.html",
-          "website": "tulospalvelu.vaalit.fi",
-          "accessdate": "24 September 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Tässä ovat Marinin hallituksen ministerit – joukko äänikuningattaria, pikapaluun tekijä, maailman nuorin pääministeri",
-          "url": "https://yle.fi/uutiset/3-11108950",
-          "publisher": "Yle",
-          "language": "Finnish",
-          "accessdate": "11 December 2019",
-          "date": "9 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://vnk.fi/en/government-ownership-steering",
-          "website": "vnk.fi",
-          "title": "Ownership steering by the State",
-          "access-date": "25 December 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.eduskunta.fi/EN/kansanedustajat/Pages/1126.aspx",
-          "title": "TyttiTuppurainen",
-          "website": "www.eduskunta.fi",
-          "accessdate": "24 September 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://valtioneuvosto.fi/en/rinne/minister-for-european-affairs",
-          "title": "Tytti Tuppurainen. Minister for European Affairs",
-          "website": "valtioneuvosto.fi",
-          "accessdate": "24 September 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

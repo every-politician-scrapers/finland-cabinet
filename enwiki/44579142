@@ -275,28 +275,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=960",
-          "title": "Edustajamatrikkeli",
-          "publisher": "Eduskunta",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20131113234747/http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=960",
-          "archivedate": "13 November 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Tässä ovat Marinin hallituksen ministerit – joukko äänikuningattaria, pikapaluun tekijä, maailman nuorin pääministeri",
-          "url": "https://yle.fi/uutiset/3-11108950",
-          "publisher": "Yle",
-          "language": "Finnish",
-          "accessdate": "11 December 2019",
-          "date": "9 December 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

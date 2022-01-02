@@ -206,36 +206,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://tulospalvelu.vaalit.fi/E-2015/fi/val01.html",
-          "title": "Valitut ehdokkaat Helsingin vaalipiiri",
-          "publisher": "Ministry of Justice",
-          "accessdate": "22 April 2015",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20150427143010/http://tulospalvelu.vaalit.fi/E-2015/fi/val01.html",
-          "archivedate": "27 April 2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://tulospalvelu.vaalit.fi/K2008/s/valitut/helsinkival.htm",
-          "title": "Valitut ehdokkaat Helsinki",
-          "publisher": "Ministry of Justice",
-          "accessdate": "22 April 2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://yle.fi/uutiset/eu_ryostokalastaa_ja_ajaa_kestavaa_kalastusta_-_tah/6391129",
-          "title": "EU ryöstökalastaa ja ajaa kestävää kalastusta - Täh!?",
-          "publisher": "Yle",
-          "date": "26 November 2012",
-          "accessdate": "22 April 2015",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

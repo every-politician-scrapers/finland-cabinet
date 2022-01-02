@@ -359,52 +359,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Li Andersson",
-          "work": "Eduskunta.fi",
-          "access-date": "27 May 2021",
-          "url": "https://www.eduskunta.fi/EN/kansanedustajat/Pages/1310.aspx",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://valtioneuvosto.fi/en/rinne/ministers",
-          "title": "Government of Prime Minister Antti Rinne",
-          "publisher": "Finnish Government",
-          "access-date": "9 June 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Tässä ovat Marinin hallituksen ministerit – joukko äänikuningattaria, pikapaluun tekijä, maailman nuorin pääministeri",
-          "url": "https://yle.fi/uutiset/3-11108950",
-          "publisher": "Yle",
-          "language": "fi",
-          "access-date": "11 December 2019",
-          "date": "9 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Li Andersson - Li Andersson",
-          "url": "http://liandersson.fi/li-andersson/",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

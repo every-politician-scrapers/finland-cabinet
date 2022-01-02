@@ -402,18 +402,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://ec.europa.eu/commission_2010-2014/rehn/about/cv/portfolio/index_en.htm",
-          "title": "Olli Rehn portfolio",
-          "publisher": "EC webpage",
-          "archive-url": "https://web.archive.org/web/20061116065904/http://ec.europa.eu/commission_2010-2014/rehn/about/cv/portfolio/index_en.htm",
-          "archive-date": "16 November 2006",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

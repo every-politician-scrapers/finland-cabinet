@@ -322,40 +322,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.britannica.com/biography/Sanna-Marin",
-          "title": "Sanna Marin",
-          "publisher": "Britannica",
-          "access-date": "November 16, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Pääministerien ikä nimitettäessä",
-          "url": "https://valtioneuvosto.fi/tietoa/historiaa/hallitukset-ja-ministerit/paaministerien-ika-nimitettaessa",
-          "access-date": "2021-10-19",
-          "website": "Valtioneuvosto",
-          "language": "fi-FI",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Prime Minister's age on the date of appointment",
-          "url": "https://valtioneuvosto.fi/en/government/history/prime-minister-s-age-on-the-date-of-appointment",
-          "access-date": "2021-12-07",
-          "website": "Valtioneuvosto",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

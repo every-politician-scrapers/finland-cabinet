@@ -280,32 +280,6 @@
             "text": "timoharakka.fi"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://valtioneuvosto.fi/en/rinne/ministers",
-          "title": "Government of Prime Minister Antti Rinne",
-          "publisher": "Finnish Government",
-          "accessdate": "9 June 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Tässä ovat Marinin hallituksen ministerit – joukko äänikuningattaria, pikapaluun tekijä, maailman nuorin pääministeri",
-          "url": "https://yle.fi/uutiset/3-11108950",
-          "publisher": "Yle",
-          "language": "Finnish",
-          "accessdate": "11 December 2019",
-          "date": "9 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
