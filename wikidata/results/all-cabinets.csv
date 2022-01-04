@@ -56,8 +56,8 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q6304440,Vieno Johannes Sukselainen's second cabinet,1959-01-13,11,1959-01-13,11,1961-07-03,11,1961-07-03,11,Q2366737,Finnish Government,,,,,,,Q6304290,Karl-August Fagerholm's third cabinet,Q6304227,Martti Miettunen's first cabinet
 ,Q6304227,Martti Miettunen's first cabinet,1961-07-14,11,1961-07-14,11,1962-04-13,11,1962-04-13,11,Q2366737,Finnish Government,,,,,,,Q6304440,Vieno Johannes Sukselainen's second cabinet,Q4696388,Ahti Karjalainen's first cabinet
 ,Q4696388,Ahti Karjalainen's first cabinet,1962-01-01,9,1962-04-13,11,,,1963-12-18,11,Q2366737,Finnish Government,,,,,,,Q6304227,Martti Miettunen's first cabinet,Q4412105,Reino Lehto's cabinet
-,Q4412105,Reino Lehto's cabinet,1963-01-01,9,1963-12-18,11,,,1964-09-12,11,Q11901671,non-partisan caretaker government,,,,,,,Q4696388,Ahti Karjalainen's first cabinet,Q6217040,Johannes Virolainen's cabinet
-,Q4412105,Reino Lehto's cabinet,1963-01-01,9,1963-12-18,11,,,1964-09-12,11,Q2366737,Finnish Government,,,,,,,Q4696388,Ahti Karjalainen's first cabinet,Q6217040,Johannes Virolainen's cabinet
+,Q4412105,Reino Lehto's cabinet,1963-12-18,11,1963-12-18,11,1964-09-12,11,1964-09-12,11,Q11901671,non-partisan caretaker government,,,,,,,Q4696388,Ahti Karjalainen's first cabinet,Q6217040,Johannes Virolainen's cabinet
+,Q4412105,Reino Lehto's cabinet,1963-12-18,11,1963-12-18,11,1964-09-12,11,1964-09-12,11,Q2366737,Finnish Government,,,,,,,Q4696388,Ahti Karjalainen's first cabinet,Q6217040,Johannes Virolainen's cabinet
 ,Q6217040,Johannes Virolainen's cabinet,1964-01-01,9,1964-09-12,11,,,1966-05-27,11,Q2366737,Finnish Government,,,,,,,Q4412105,Reino Lehto's cabinet,Q10650451,Rafael Paasio's first cabinet
 ,Q10650451,Rafael Paasio's first cabinet,1966-01-01,9,1966-05-27,11,,,1968-03-22,11,Q2366737,Finnish Government,,,,,,,Q6217040,Johannes Virolainen's cabinet,Q3374582,Mauno Koivisto's first cabinet
 ,Q3374582,Mauno Koivisto's first cabinet,1968-01-01,9,1968-03-22,11,,,1970-05-14,11,Q2366737,Finnish Government,,,,,,,Q10650451,Rafael Paasio's first cabinet,Q3359402,Teuvo Aura's first cabinet
