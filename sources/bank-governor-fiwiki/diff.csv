@@ -1,33 +1,35 @@
 @@,itemlabel,item,startdate,enddate
-+++,Claes Johan Sacklén,Q23040428,1812,1816
-+++,Carl Johan Idman,Q23040503,1817,1820
-+++,Otto Herman Lode,Q17384436,1820,1827
+->,Claes Johan Edelskiöld->Claes Johan Sacklén,Q23040428,1812-01-01->1812,1816-01-01->1816
+->,Carl Johan Idestam->Carl Johan Idman,Q23040503,1817-01-01->1817,1820-01-01->1820
+->,Otto Herman Lode,Q17384436,1820-01-01->1820,1827-01-01->1827
 +++,Johan Gustaf Winter,,1827,1841
-+++,Carl Wilhelm Trapp,Q11855023,1841,1853
-+++,Axel Ludvig Born,Q20736658,1853,1856
+->,Carl Wilhelm Trapp,Q11855023,1841-01-01->1841,1853-01-01->1853
 +++,Alex Federley,,1853,1854
-+++,Robert Trapp,Q11891043,1854,1856
-+++,Frans Ivar Edelheim,Q20736666,1856,1858
+->,Axel Ludvig Born,Q20736658,1853-01-01->1853,1856-01-01->1856
+->,Robert von Trapp->Robert Trapp,Q11891043,1854-01-01->1854,1856-01-01->1856
+->,Frans Ivar Edelheim,Q20736666,1856-01-01->1856,1858-01-01->1858
 +++,Wilhelm Blidberg,,1858,1861
 +++,Carl Isak Björkman,,1862,1866
-+++,Victor von Haartman,Q5392428,1866,1870
+->,Victor von Haartman,Q5392428,1866-01-01->1866,1870-01-01->1870
 +++,August Florin,,1870,1875
-+++,Gustaf Samuel von Troil,Q5411287,1875,1884
-+++,Alfred Charpentier,Q23039688,1884,1897
-+++,Theodor Wegelius,Q7781631,1898,1906
-+++,Clas Herman von Collan,Q5399732,1907,1918
-+++,Otto Stenroth,Q203799,1918,1923
-+++,August Ramsay,Q6163504,1923,1924
+->,Gösta von Troil->Gustaf Samuel von Troil,Q5411287,1875-01-01->1875,1884-01-01->1884
+->,Gustaf Robert Alfred Charpentier->Alfred Charpentier,Q23039688,1884-01-01->1884,1897-01-01->1897
+->,Theodor Wegelius,Q7781631,1898-01-01->1898,1906-01-01->1906
+->,Clas von Collan->Clas Herman von Collan,Q5399732,1907-01-01->1907,1918-01-01->1918
+->,Otto Stenroth,Q203799,1918-01-01->1918,1923-01-01->1923
+->,August Ramsay,Q6163504,1923-01-01->1923,1924-01-01->1924
 +++,Risto Ryti,Q209435,1924,1943
-+++,Jukka Rangell,Q728861,1943,1944
+---,Risto Ryti,Q209435,1924-01-01,1943-01-01
+->,Jukka Rangell,Q728861,1943-01-01->1943,1944-01-01->1944
 +++,Risto Ryti,Q209435,1944,1945
-+++,Sakari Tuomioja,Q728501,1945,1955
-+++,Rainer von Fieandt,Q824517,1955,1957
-+++,Klaus Waris,Q11871974,1957,1967
-+++,Mauno Koivisto,Q29021,1968,1982
-+++,Ahti Karjalainen,Q402977,1982,1983
-+++,Rolf Kullberg,Q11891151,1983,1992
-+++,Sirkka Hämäläinen,Q2075884,1992,1998
-+++,Matti Vanhala,Q11881731,1998,2004
-+++,Erkki Liikanen,Q194058,2004,2018
+---,Risto Ryti,Q209435,1944-01-01,1945-01-01
+->,Sakari Tuomioja,Q728501,1945-01-01->1945,1955-01-01->1955
+->,Rainer von Fieandt,Q824517,1955-01-01->1955,1957-01-01->1957
+->,Klaus Waris,Q11871974,1957-01-01->1957,1967-01-01->1967
+->,Mauno Koivisto,Q29021,1968-01-01->1968,1982-01-01->1982
+->,Ahti Karjalainen,Q402977,1982-01-01->1982,1983-01-01->1983
+->,Rolf Kullberg,Q11891151,1983-01-01->1983,1992-01-01->1992
+->,Sirkka Hämäläinen,Q2075884,1992-01-01->1992,1998-01-01->1998
+->,Matti Vanhala,Q11881731,1998-01-01->1998,2004-01-01->2004
+->,Erkki Liikanen,Q194058,2004-01-01->2004,2018-01-01->2018
 ->,Olli Rehn,Q294411,2018-07-12->2018,
