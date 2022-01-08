@@ -40,16 +40,12 @@
         {
           "sentences": [
             {
-              "text": "Sauli Väinämö Niinistö (born 24 August 1948) is a Finnish politician who has served as the 12th and current President of Finland since 2012.",
+              "text": "Sauli Väinämö Niinistö (born 24 August 1948) is a Finnish politician who has served as the 12th and current president of Finland since 2012.",
               "links": [
                 {
-                  "text": "12th",
+                  "text": "president of Finland",
                   "type": "internal",
-                  "page": "List of presidents of Finland"
-                },
-                {
-                  "type": "internal",
-                  "page": "President of Finland"
+                  "page": "president of Finland"
                 }
               ],
               "formatting": {
@@ -206,7 +202,7 @@
             "text": "Niinistö in September 2021"
           },
           "office": {
-            "text": "President of Finland",
+            "text": "12th President of Finland",
             "links": [
               {
                 "type": "internal",
