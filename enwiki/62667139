@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Hanna Maria Katariina Sarkkinen (born 18 April 1988 in Oulunsalo) is a Finnish politician currently serving in the Parliament of Finland for the Left Alliance at the Lapland constituency.",
+              "text": "Hanna Maria Katariina Sarkkinen (born 18 April 1988 in Oulunsalo) is a Finnish politician currently serving in the Parliament of Finland for the Left Alliance for the Oulu constituency.",
               "links": [
                 {
                   "type": "internal",
@@ -35,9 +35,9 @@
                   "page": "Left Alliance (Finland)"
                 },
                 {
-                  "text": "Lapland",
+                  "text": "Oulu",
                   "type": "internal",
-                  "page": "Lapland (constituency)"
+                  "page": "Oulu (constituency)"
                 }
               ],
               "formatting": {
