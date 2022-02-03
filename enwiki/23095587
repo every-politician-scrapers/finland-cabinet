@@ -109,6 +109,9 @@
           "term_start1": {
             "text": "9 June 2020"
           },
+          "term_end1": {
+            "text": "1 February 2022"
+          },
           "deputy1": {
             "text": "Antti Rinne Juho Eerola",
             "links": [
@@ -123,6 +126,15 @@
             ]
           },
           "predecessor1": {
+            "text": "Matti Vanhanen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Matti Vanhanen"
+              }
+            ]
+          },
+          "successor1": {
             "text": "Matti Vanhanen",
             "links": [
               {
