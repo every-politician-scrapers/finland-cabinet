@@ -1,45 +1,11 @@
 @@,itemlabel,item,startdate,enddate
-+++,Oskari Tokoi,Q204852,1913-02-03,1914-02-01
 ->,Kullervo Manner,Q935974,1917-04-04,1917-10-31->1917-10-30
-+++,Johannes Lundson,Q391176,1917-11-02,1918-09-25
-+++,Paavo Virkkunen,Q6226035,1918-11-29,1919-03-31
-+++,Kyösti Kallio,Q209441,1920-05-08,1921-03-29
-+++,Wäinö Wuolijoki,Q446331,1921-03-31,1922-09-04
-+++,Kyösti Kallio,Q209441,1922-09-06,1922-11-14
-+++,Wäinö Wuolijoki,Q446331,1922-11-15,1923-01-31
-+++,Paavo Virkkunen,Q6226035,1923-02-02,1924-04-30
-+++,Kyösti Kallio,Q209441,1924-05-02,1925-03-31
-+++,Wäinö Wuolijoki,Q446331,1925-04-01,1926-01-31
-+++,Paavo Virkkunen,Q6226035,1926-02-02,1927-09-01
-+++,Kyösti Kallio,Q209441,1927-09-03,1928-01-31
-+++,Paavo Virkkunen,Q6226035,1928-02-01,1929-01-31
-+++,Kyösti Kallio,Q209441,1929-02-01,1929-08-16
-+++,Paavo Virkkunen,Q6226035,1929-08-17,1930-07-07
-+++,Juho Sunila,Q548108,1930-07-08,1930-10-20
-+++,Kyösti Kallio,Q209441,1930-10-21,1936-10-08
-+++,Väinö Hakkila,Q4349573,1936-10-09,1945-04-04
-+++,Karl-August Fagerholm,Q471307,1945-04-06,1948-07-14
-+++,Karl-August Fagerholm,Q471307,1950-03-23,1956-03-06
-+++,Vieno Johannes Sukselainen,Q708371,1956-03-09,1957-05-28
-+++,Karl-August Fagerholm,Q471307,1957-05-31,1958-06-06
-+++,Vieno Johannes Sukselainen,Q708371,1958-07-29,1959-01-14
-+++,Karl-August Fagerholm,Q471307,1959-01-14,1962-02-16
-+++,Kauno Kleemola,Q391163,1962-02-24,1965-03-12
-+++,Karl-August Fagerholm,Q471307,1965-03-23,1966-04-04
----,Johannes Virolainen,Q471278,1966,1968
-+++,Rafael Paasio,Q449414,1966-04-14,1966-06-01
-+++,Johannes Virolainen,Q471278,1966-06-03,1968-03-26
-+++,Vieno Johannes Sukselainen,Q708371,1968-03-26,1970-03-20
-+++,Rafael Paasio,Q449414,1970-04-03,1972-02-29
-+++,Vieno Johannes Sukselainen,Q708371,1972-02-29,1976-01-28
+->,V. J. Sukselainen->Vieno Johannes Sukselainen,Q708371,1956-03-09,1957-05-28
+->,V. J. Sukselainen->Vieno Johannes Sukselainen,Q708371,1958-07-29,1959-01-14
+->,V. J. Sukselainen->Vieno Johannes Sukselainen,Q708371,1968-03-26,1970-03-20
+->,V. J. Sukselainen->Vieno Johannes Sukselainen,Q708371,1972-02-29,1976-01-28
 ->,Veikko Helle,Q5799015,1976->1976-02-05,1978->1978-01-31
 ->,Ahti Pekkala,Q2152508,1978->1978-02-01,1979->1979-05-29
----,Johannes Virolainen,Q471278,1979,1983
-+++,Johannes Virolainen,Q471278,1979-06-05,1983-03-25
-+++,Erkki Pystynen,Q5389685,1983-04-07,1987-03-25
 ->,Matti Ahde,Q771900,1987-05-08,1988->1989-02-01
-+++,Kalevi Sorsa,Q351710,1989-02-01,1991-03-21
-+++,Paavo Lipponen,Q29110,1995-03-28,1995-04-19
 ->,Sauli Niinistö,Q29207,2007-04-24,2011-04-27->2011-04-19
 ->,Juha Sipilä,Q1711532,2015-04-28,2015-05-28->2015-05-29
-+++,Matti Vanhanen,Q182043,2022-02-01,
