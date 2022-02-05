@@ -87,10 +87,10 @@
             "text": "Krista Kiuru"
           },
           "image": {
-            "text": "Krista Kiuru heinäkuu 2020.jpg"
+            "text": "Krista Kiuru 2019 (cropped).jpg"
           },
           "caption": {
-            "text": "Kiuru in 2020"
+            "text": "Kiuru in 2019"
           },
           "office": {
             "text": "Minister of Family Affairs and Social Services",
@@ -118,12 +118,24 @@
           "term_start": {
             "text": "6 June 2019"
           },
+          "term_end": {
+            "text": "4 February 2022"
+          },
           "predecessor": {
             "text": "Annika Saarikko",
             "links": [
               {
                 "type": "internal",
                 "page": "Annika Saarikko"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Aki Lindén",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aki Lindén"
               }
             ]
           },
