@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Sanna Mirella Marin (born 16 November 1985) is a Finnish politician who has served as Prime Minister of Finland since 10 December 2019.",
+              "text": "Sanna Mirella Marin (born November 16, 1985) is a Finnish politician who is the 46th and current Prime Minister of Finland since December 10, 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -42,7 +42,7 @@
               }
             },
             {
-              "text": "A member of the Social Democratic Party (SDP), she has been a member of the Parliament of Finland since 2015 and briefly served as Minister of Transport and Communications from 6 June to 10 December 2019.",
+              "text": "A member of the Social Democratic Party (SDP), she has been a member of the Parliament of Finland since 2015 and briefly served as Minister of Transport and Communications from June 6, 2019 to December 10, 2019.",
               "links": [
                 {
                   "text": "Social Democratic Party",
@@ -61,7 +61,7 @@
               ]
             },
             {
-              "text": "Following Antti Rinne's resignation in the wake of the 2019 postal strike, Marin was selected as Prime Minister on 8 December 2019.",
+              "text": "Following Antti Rinne's resignation in the wake of the 2019 postal strike, Marin was selected as Prime Minister on December 8, 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -79,7 +79,7 @@
         {
           "sentences": [
             {
-              "text": "Taking office at age 34, she is the youngest person to hold the office in Finnish history, as well as currently the world's second-youngest state leader, after Giacomo Simoncini, who has been Captain Regent of San Marino since 2021.",
+              "text": "Taking office at age 34, she is the youngest person to hold the office in Finnish history, as well as the world's second-youngest state leader after Giacomo Simoncini, who has been Captain Regent of San Marino since 2021.",
               "links": [
                 {
                   "text": "world's second-youngest state leader",
@@ -102,7 +102,7 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of Finland",
+          "description": "46th Prime Minister of Finland since 2019",
           "template": "short description"
         },
         {
@@ -177,7 +177,7 @@
             ]
           },
           "term_start": {
-            "text": "10 December 2019"
+            "text": "December 10, 2019"
           },
           "predecessor": {
             "text": "Antti Rinne",
@@ -199,7 +199,7 @@
             ]
           },
           "term_start1": {
-            "text": "23 August 2020"
+            "text": "August 23, 2020"
           },
           "predecessor1": {
             "text": "Antti Rinne",
@@ -230,10 +230,10 @@
             ]
           },
           "term_start2": {
-            "text": "6 June 2019"
+            "text": "June 6, 2019"
           },
           "term_end2": {
-            "text": "10 December 2019"
+            "text": "December 10, 2019"
           },
           "predecessor2": {
             "text": "Anu Vehviläinen",
@@ -264,7 +264,7 @@
             ]
           },
           "term_start3": {
-            "text": "22 April 2015"
+            "text": "April 22, 2015"
           },
           "constituency3": {
             "text": "Pirkanmaa",

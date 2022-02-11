@@ -123,6 +123,104 @@
           "caption": {
             "text": "Vanhanen in 2020"
           },
+          "office": {
+            "text": "Speaker of the Parliament of Finland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the Parliament of Finland"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 February 2022"
+          },
+          "predecessor": {
+            "text": "Anu Vehviläinen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anu Vehviläinen"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "7 June 2019"
+          },
+          "term_end1": {
+            "text": "9 June 2020"
+          },
+          "predecessor1": {
+            "text": "Antti Rinne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antti Rinne"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Anu Vehviläinen"
+          },
+          "office2": {
+            "text": "40th Prime Minister of Finland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Finland"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Tarja Halonen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tarja Halonen"
+              }
+            ]
+          },
+          "deputy2": {
+            "text": "Antti Kalliomäki\nEero Heinäluoma\nJyrki Katainen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antti Kalliomäki"
+              },
+              {
+                "type": "internal",
+                "page": "Eero Heinäluoma"
+              },
+              {
+                "type": "internal",
+                "page": "Jyrki Katainen"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "24 June 2003"
+          },
+          "term_end2": {
+            "text": "22 June 2010"
+          },
+          "predecessor2": {
+            "text": "Anneli Jäätteenmäki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anneli Jäätteenmäki"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Mari Kiviniemi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mari Kiviniemi"
+              }
+            ]
+          },
           "office3": {
             "text": "Minister of Finance",
             "links": [
@@ -148,7 +246,7 @@
           "successor3": {
             "text": "Annika Saarikko"
           },
-          "office1": {
+          "office4": {
             "text": "36th Deputy Prime Minister of Finland",
             "links": [
               {
@@ -157,13 +255,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start4": {
             "text": "9 June 2020"
           },
-          "term_end1": {
+          "term_end4": {
             "text": "10 September 2020"
           },
-          "primeminister1": {
+          "primeminister4": {
             "text": "Sanna Marin",
             "links": [
               {
@@ -172,7 +270,7 @@
               }
             ]
           },
-          "predecessor1": {
+          "predecessor4": {
             "text": "Katri Kulmuni",
             "links": [
               {
@@ -181,7 +279,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor4": {
             "text": "Annika Saarikko",
             "links": [
               {
@@ -190,116 +288,7 @@
               }
             ]
           },
-          "office2": {
-            "text": "Speaker of the Parliament of Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the Parliament of Finland"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "7 June 2019"
-          },
-          "term_end2": {
-            "text": "9 June 2020"
-          },
-          "deputy2": {
-            "text": "Tuula Haatainen\nPaula Risikko\nAntti Rinne\nJuho Eerola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tuula Haatainen"
-              },
-              {
-                "type": "internal",
-                "page": "Paula Risikko"
-              },
-              {
-                "type": "internal",
-                "page": "Juho Eerola"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Antti Rinne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antti Rinne"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Anu Vehviläinen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anu Vehviläinen"
-              }
-            ]
-          },
-          "office": {
-            "text": "40th Prime Minister of Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Finland"
-              }
-            ]
-          },
-          "president": {
-            "text": "Tarja Halonen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarja Halonen"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Antti Kalliomäki\nEero Heinäluoma\nJyrki Katainen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antti Kalliomäki"
-              },
-              {
-                "type": "internal",
-                "page": "Eero Heinäluoma"
-              },
-              {
-                "type": "internal",
-                "page": "Jyrki Katainen"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "24 June 2003"
-          },
-          "term_end": {
-            "text": "22 June 2010"
-          },
-          "predecessor": {
-            "text": "Anneli Jäätteenmäki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anneli Jäätteenmäki"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Mari Kiviniemi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mari Kiviniemi"
-              }
-            ]
-          },
-          "office4": {
+          "office5": {
             "text": "Minister of Defence",
             "links": [
               {
@@ -309,16 +298,16 @@
               }
             ]
           },
-          "primeminister4": {
+          "primeminister5": {
             "text": "Anneli Jäätteenmäki"
           },
-          "term_start4": {
+          "term_start5": {
             "text": "17 April 2003"
           },
-          "term_end4": {
+          "term_end5": {
             "text": "24 June 2003"
           },
-          "predecessor4": {
+          "predecessor5": {
             "text": "Jan-Erik Enestam",
             "links": [
               {
@@ -327,7 +316,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor5": {
             "text": "Seppo Kääriäinen",
             "links": [
               {
@@ -336,7 +325,7 @@
               }
             ]
           },
-          "office5": {
+          "office6": {
             "text": "Member of the Finnish Parliament",
             "links": [
               {
@@ -346,10 +335,10 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start6": {
             "text": "22 April 2015"
           },
-          "constituency5": {
+          "constituency6": {
             "text": "Uusimaa",
             "links": [
               {
@@ -359,13 +348,13 @@
               }
             ]
           },
-          "term_start6": {
+          "term_start7": {
             "text": "22 March 1991"
           },
-          "term_end6": {
+          "term_end7": {
             "text": "19 September 2010"
           },
-          "constituency6": {
+          "constituency7": {
             "text": "Uusimaa"
           },
           "birth_date": {
