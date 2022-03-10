@@ -1,573 +1,69 @@
 {
-  "title": "Sauli Niinistö",
-  "pageID": 1042690,
-  "categories": [
-    "1948 births",
-    "Living people",
-    "People from Salo, Finland",
-    "Finnish Lutherans",
-    "National Coalition Party politicians",
-    "Presidents of Finland",
-    "Deputy Prime Ministers of Finland",
-    "Ministers of Justice of Finland",
-    "Ministers of Finance of Finland",
-    "Speakers of the Parliament of Finland",
-    "Members of the Parliament of Finland (1983–87)",
-    "Members of the Parliament of Finland (1987–91)",
-    "Members of the Parliament of Finland (1991–95)",
-    "Members of the Parliament of Finland (1995–99)",
-    "Members of the Parliament of Finland (1999–2003)",
-    "Members of the Parliament of Finland (2007–11)",
-    "European People's Party politicians",
-    "Finnish lawyers",
-    "University of Turku alumni",
-    "Grand Crosses Special Class of the Order of Merit of the Federal Republic of Germany",
-    "Commanders Grand Cross of the Order of the Lion of Finland",
-    "Grand Crosses of the Order of the Cross of Liberty",
-    "Grand Crosses with Golden Chain of the Order of Vytautas the Great",
-    "Knights Grand Cross of the Order of the Falcon",
-    "Recipients of the Order of Merit of the Italian Republic",
-    "Recipients of the Order of Orange-Nassau",
-    "Candidates for President of Finland",
-    "Recipients of the Collar of the Order of the Cross of Terra Mariana",
-    "Football Federation of Finland executives",
-    "Recipients of the Order of Prince Yaroslav the Wise, 1st class"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sauli Väinämö Niinistö (born 24 August 1948) is a Finnish politician who has served as the 12th and current president of Finland since 2012.",
-              "links": [
-                {
-                  "text": "president of Finland",
-                  "type": "internal",
-                  "page": "president of Finland"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sauli Väinämö Niinistö"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "A lawyer by education, Niinistö was Chairman of the National Coalition Party (NCP) from 1994 to 2001, Minister of Justice from 1995 to 1996, Minister of Finance from 1996 to 2003, Deputy Prime Minister from 1995 to 2001 and the NCP candidate in the 2006 presidential election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Coalition Party"
-                },
-                {
-                  "text": "Minister of Justice",
-                  "type": "internal",
-                  "page": "Minister of Justice (Finland)"
-                },
-                {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "Minister of Finance (Finland)"
-                },
-                {
-                  "text": "2006 presidential election",
-                  "type": "internal",
-                  "page": "2006 Finnish presidential election"
-                }
-              ]
-            },
-            {
-              "text": "He served as the Speaker of the Parliament of Finland from 2007 to 2011 and has been the honorary president of the European People's Party (EPP) since 2002.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Speaker of the Parliament of Finland"
-                },
-                {
-                  "type": "internal",
-                  "page": "European People's Party"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Niinistö was the NCP candidate in the 2012 presidential election, defeating Pekka Haavisto of the Green League (VIHR) with 62.6% of the vote in the decisive second round.",
-              "links": [
-                {
-                  "text": "2012 presidential election",
-                  "type": "internal",
-                  "page": "2012 Finnish presidential election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pekka Haavisto"
-                },
-                {
-                  "type": "internal",
-                  "page": "Green League"
-                }
-              ]
-            },
-            {
-              "text": "Niinistö assumed office on 1 March 2012; he is the first NCP president since Juho Kusti Paasikivi, who left office in 1956.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Juho Kusti Paasikivi"
-                }
-              ]
-            },
-            {
-              "text": "In May 2017, Niinistö announced that he would seek reelection in the 2018 presidential election, running as an Independent candidate.",
-              "links": [
-                {
-                  "text": "2018 presidential election",
-                  "type": "internal",
-                  "page": "2018 Finnish presidential election"
-                },
-                {
-                  "text": "Independent",
-                  "type": "internal",
-                  "page": "Independent politician"
-                }
-              ]
-            },
-            {
-              "text": "The NCP and Christian Democrats (KI) supported his candidacy.",
-              "links": [
-                {
-                  "text": "Christian Democrats",
-                  "type": "internal",
-                  "page": "Christian Democrats (Finland)"
-                }
-              ]
-            },
-            {
-              "text": "He won reelection in the first round on 28 January 2018 with 62.7% of the vote and his second term began on 1 February 2018."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "12th President of Finland",
-          "template": "short description"
-        },
-        {
-          "date": "December 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1948",
-          "month": "8",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Marja-Leena Alanko",
-          "from": "1974",
-          "to": "1995",
-          "end": "d.",
-          "template": "marriage"
-        },
-        {
-          "spouse": "Jenni Haukio",
-          "from": "2009",
-          "template": "marriage"
-        },
-        {
-          "transcription": "ˈsɑu̯li ˈʋæi̯næmø ˈniːnistø",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sauli Niinistö"
-          },
-          "image": {
-            "text": "Sauli Niinistö in Helsinki (2019-08-21) 06 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Niinistö in 2019"
-          },
-          "office": {
-            "text": "12th President of Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Finland"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Jyrki Katainen\nAlexander Stubb\nJuha Sipilä\nAntti Rinne\nSanna Marin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jyrki Katainen"
-              },
-              {
-                "type": "internal",
-                "page": "Alexander Stubb"
-              },
-              {
-                "type": "internal",
-                "page": "Juha Sipilä"
-              },
-              {
-                "type": "internal",
-                "page": "Antti Rinne"
-              },
-              {
-                "type": "internal",
-                "page": "Sanna Marin"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 March 2012"
-          },
-          "predecessor": {
-            "text": "Tarja Halonen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarja Halonen"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Speaker of the Parliament of Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the Parliament of Finland"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "24 April 2007"
-          },
-          "term_end1": {
-            "text": "27 April 2011"
-          },
-          "predecessor1": {
-            "text": "Timo Kalli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Timo Kalli"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Ben Zyskowicz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ben Zyskowicz"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Minister of Finance (Finland)"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Paavo Lipponen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paavo Lipponen"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2 February 1996"
-          },
-          "term_end2": {
-            "text": "17 April 2003"
-          },
-          "predecessor2": {
-            "text": "Iiro Viinanen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Iiro Viinanen"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Antti Kalliomäki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antti Kalliomäki"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Prime Minister of Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Finland"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Paavo Lipponen"
-          },
-          "term_start3": {
-            "text": "13 April 1995"
-          },
-          "term_end3": {
-            "text": "30 August 2001"
-          },
-          "predecessor3": {
-            "text": "Pertti Salolainen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pertti Salolainen"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Ville Itälä",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ville Itälä"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Minister of Justice (Finland)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Paavo Lipponen"
-          },
-          "term_start4": {
-            "text": "13 April 1995"
-          },
-          "term_end4": {
-            "text": "2 February 1996"
-          },
-          "predecessor4": {
-            "text": "Anneli Jäätteenmäki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anneli Jäätteenmäki"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Kari Häkämies"
-          },
-          "office5": {
-            "text": "Leader of the National Coalition Party",
-            "links": [
-              {
-                "text": "Leader of the National Coalition Party",
-                "type": "internal",
-                "page": "National Coalition Party"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1994",
-            "number": 1994
-          },
-          "term_end5": {
-            "text": "2001",
-            "number": 2001
-          },
-          "predecessor5": {
-            "text": "Pertti Salolainen"
-          },
-          "successor5": {
-            "text": "Ville Itälä"
-          },
-          "office6": {
-            "text": "Member of the Finnish Parliament",
-            "links": [
-              {
-                "text": "Member of the Finnish Parliament",
-                "type": "internal",
-                "page": "Parliament of Finland"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "21 March 2007"
-          },
-          "term_end6": {
-            "text": "19 April 2011"
-          },
-          "constituency6": {
-            "text": "Uusimaa",
-            "links": [
-              {
-                "text": "Uusimaa",
-                "type": "internal",
-                "page": "Uusimaa (constituency)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "21 March 1987"
-          },
-          "term_end7": {
-            "text": "18 March 2003"
-          },
-          "constituency7": {
-            "text": "Helsinki (1999&ndash;2003)\nSouthwest Finland (1987&ndash;1999)",
-            "links": [
-              {
-                "text": "Helsinki",
-                "type": "internal",
-                "page": "Helsinki (constituency)"
-              },
-              {
-                "text": "Southwest Finland",
-                "type": "internal",
-                "page": "Varsinais-Suomi (constituency)"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Sauli Väinämö Niinistö"
-          },
-          "birth_date": {
-            "text": "August 24, 1948"
-          },
-          "birth_place": {
-            "text": "Salo, Southwest Finland, Finland",
-            "links": [
-              {
-                "text": "Salo",
-                "type": "internal",
-                "page": "Salo, Finland"
-              },
-              {
-                "type": "internal",
-                "page": "Southwest Finland"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent (since 2012)\n\nNational Coalition (until 2012)",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              },
-              {
-                "text": "National Coalition",
-                "type": "internal",
-                "page": "National Coalition Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Marja-Leena Alanko (m. 1974-1995)\nJenni Haukio (m. 2009)"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "relatives": {
-            "text": "Ville Niinistö (nephew)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ville Niinistö"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Mäntyniemi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mäntyniemi"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Turku",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Turku"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Sauli Niinistö signature.svg"
-          },
-          "website": {
-            "text": "Official website"
-          },
-          "allegiance": {
-            "text": "🇫🇮 Finland",
-            "links": [
-              {
-                "text": "Finland",
-                "type": "internal",
-                "page": "finland"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Suomen Maavoimien tunnus.svg Finnish Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Finnish Army"
-              }
-            ]
-          },
-          "rank": {
-            "text": "Kapteeni kauluslaatta.svg Captain",
-            "links": [
-              {
-                "text": "Captain",
-                "type": "internal",
-                "page": "Captain (armed forces)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sauli Niinistö",
+  "image": "Sauli Niinistö in Helsinki (2019-08-21) 06 (cropped).jpg",
+  "caption": "Niinistö in 2019",
+  "office": "12th President of Finland",
+  "primeminister": "Jyrki Katainen\nAlexander Stubb\nJuha Sipilä\nAntti Rinne\nSanna Marin",
+  "term_start": "1 March 2012",
+  "predecessor": "Tarja Halonen",
+  "office1": "Speaker of the Parliament of Finland",
+  "term_start1": "24 April 2007",
+  "term_end1": "27 April 2011",
+  "predecessor1": "Timo Kalli",
+  "successor1": "Ben Zyskowicz",
+  "office2": "Minister of Finance",
+  "primeminister2": "Paavo Lipponen",
+  "term_start2": "2 February 1996",
+  "term_end2": "17 April 2003",
+  "predecessor2": "Iiro Viinanen",
+  "successor2": "Antti Kalliomäki",
+  "office3": "Deputy Prime Minister of Finland",
+  "primeminister3": "Paavo Lipponen",
+  "term_start3": "13 April 1995",
+  "term_end3": "30 August 2001",
+  "predecessor3": "Pertti Salolainen",
+  "successor3": "Ville Itälä",
+  "office4": "Minister of Justice",
+  "primeminister4": "Paavo Lipponen",
+  "term_start4": "13 April 1995",
+  "term_end4": "2 February 1996",
+  "predecessor4": "Anneli Jäätteenmäki",
+  "successor4": "Kari Häkämies",
+  "office5": "Leader of the National Coalition Party",
+  "term_start5": "1994",
+  "term_end5": "2001",
+  "predecessor5": "Pertti Salolainen",
+  "successor5": "Ville Itälä",
+  "office6": "Member of the Finnish Parliament",
+  "term_start6": "21 March 2007",
+  "term_end6": "19 April 2011",
+  "constituency6": "Uusimaa",
+  "term_start7": "21 March 1987",
+  "term_end7": "18 March 2003",
+  "constituency7": "Helsinki (1999&ndash;2003)\nSouthwest Finland (1987&ndash;1999)",
+  "birth_name": "Sauli Väinämö Niinistö",
+  "birth_date": "August 24, 1948",
+  "birth_place": "Salo, Southwest Finland, Finland",
+  "party": "Independent (since 2012)\n\nNational Coalition (until 2012)",
+  "spouse": "Marja-Leena Alanko (m. 1974-1995)\nJenni Haukio (m. 2009)",
+  "children": "3",
+  "relatives": "Ville Niinistö (nephew)",
+  "residence": "Mäntyniemi",
+  "alma_mater": "University of Turku",
+  "signature": "Sauli Niinistö signature.svg",
+  "website": "Official website",
+  "allegiance": "🇫🇮 Finland",
+  "branch": "Suomen Maavoimien tunnus.svg Finnish Army",
+  "rank": "Kapteeni kauluslaatta.svg Captain"
+}
+{
+  "name": "Coat of arms of Sauli Niinistö",
+  "image": "Coat of arms of Sauli Niinistö.svg",
+  "image_width": "140",
+  "middle_width": "70",
+  "lesser_width": "35",
+  "lesser_caption": "Coat of arms",
+  "armiger": "Sauli Niinistö",
+  "year_adopted": "2015",
+  "motto": "''\"Juurista voimaa\"\n(\"Strength from the Roots\")"
 }
