@@ -1,131 +1,15 @@
 {
-  "title": "Lauri Lyly",
-  "pageID": 67812604,
-  "categories": [
-    "1953 births",
-    "Living people",
-    "Social Democratic Party of Finland politicians",
-    "Tampere",
-    "Finnish trade unionists"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Lauri Matias Lyly (born 20 February 1953, Seinäjoki) is a Finnish trade unionist and politician who served as the mayor of Tampere since 2017 until 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Seinäjoki"
-                },
-                {
-                  "text": "Finnish",
-                  "type": "internal",
-                  "page": "Finland"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tampere"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Lauri Matias Lyly"
-                ]
-              }
-            },
-            {
-              "text": "He is married with Tuula Lyly and the couple has three children."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1953",
-          "month": "2",
-          "day": "20",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Lauri Lyly"
-          },
-          "image": {
-            "text": "Lauri Lyly.jpg"
-          },
-          "caption": {
-            "text": "Lyly in 2009"
-          },
-          "party": {
-            "text": "SDP",
-            "links": [
-              {
-                "text": "SDP",
-                "type": "internal",
-                "page": "Social Democratic Party of Finland"
-              }
-            ]
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "birth_date": {
-            "text": "February 20, 1953"
-          },
-          "birth_place": {
-            "text": "Seinäjoki, Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Seinäjoki"
-              },
-              {
-                "type": "internal",
-                "page": "Finland"
-              }
-            ]
-          },
-          "office": {
-            "text": "Mayor of Tampere"
-          },
-          "predecessor": {
-            "text": "Anna-Kaisa Ikonen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anna-Kaisa Ikonen"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "12 June 2017"
-          },
-          "termend": {
-            "text": "16 August 2021"
-          },
-          "spouse": {
-            "text": "Tuula Lyly"
-          },
-          "succeeded": {
-            "text": "Anna-Kaisa Ikonen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anna-Kaisa Ikonen"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Lauri Lyly",
+  "image": "Lauri Lyly.jpg",
+  "caption": "Lyly in 2009",
+  "party": "SDP",
+  "children": "3",
+  "birth_date": "February 20, 1953",
+  "birth_place": "Seinäjoki, Finland",
+  "office": "Mayor of Tampere",
+  "predecessor": "Anna-Kaisa Ikonen",
+  "termstart": "12 June 2017",
+  "termend": "16 August 2021",
+  "spouse": "Tuula Lyly",
+  "succeeded": "Anna-Kaisa Ikonen"
 }

@@ -1,437 +1,53 @@
 {
-  "title": "Matti Vanhanen",
-  "pageID": 252252,
-  "categories": [
-    "1955 births",
-    "Living people",
-    "Candidates for President of Finland",
-    "Centre Party (Finland) politicians",
-    "Finnish bloggers",
-    "Members of the Parliament of Finland (1991–95)",
-    "Members of the Parliament of Finland (1995–99)",
-    "Members of the Parliament of Finland (1999–2003)",
-    "Members of the Parliament of Finland (2003–07)",
-    "Members of the Parliament of Finland (2007–11)",
-    "Members of the Parliament of Finland (2015–19)",
-    "Members of the Parliament of Finland (2019–23)",
-    "Ministers of Defence of Finland",
-    "Ministers of Finance of Finland",
-    "People from Jyväskylä",
-    "Presidents of the European Council",
-    "Prime Ministers of Finland",
-    "Recipients of the Order of the Cross of Terra Mariana, 1st Class",
-    "Speakers of the Parliament of Finland",
-    "University of Helsinki alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Matti Taneli Vanhanen (born 4 November 1955) is a Finnish politician who served as Prime Minister of Finland from 2003 to 2010.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Finland"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Matti Taneli Vanhanen"
-                ]
-              }
-            },
-            {
-              "text": "He was also Chairman of the Centre Party and President of the European Council in 2006.",
-              "links": [
-                {
-                  "text": "Centre Party",
-                  "type": "internal",
-                  "page": "Centre Party (Finland)"
-                },
-                {
-                  "type": "internal",
-                  "page": "President of the European Council"
-                }
-              ]
-            },
-            {
-              "text": "In his earlier career, he was a journalist."
-            },
-            {
-              "text": "Vanhanen is the son of professor Tatu Vanhanen and Anni Tiihonen.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tatu Vanhanen"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Finnish politician and the 40th prime minister of Finland",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Matti Vanhala"
-          ],
-          "template": "distinguish"
-        },
-        {
-          "date": "September 2021",
-          "template": "engvarb"
-        },
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1955",
-          "month": "11",
-          "day": "4",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Merja Mäntyniemi",
-          "from": "1985",
-          "to": "2005",
-          "end": "div",
-          "template": "marriage"
-        },
-        {
-          "transcription": "ˈmɑtːi ˈʋɑnhɑnen",
-          "audio": "Fi-Matti_Vanhanen.ogg",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Matti Vanhanen"
-          },
-          "image": {
-            "text": "2020-03-02 Matti Vanhanen.jpg"
-          },
-          "caption": {
-            "text": "Vanhanen in 2020"
-          },
-          "office": {
-            "text": "Speaker of the Parliament of Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the Parliament of Finland"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 February 2022"
-          },
-          "predecessor": {
-            "text": "Anu Vehviläinen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anu Vehviläinen"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "7 June 2019"
-          },
-          "term_end1": {
-            "text": "9 June 2020"
-          },
-          "predecessor1": {
-            "text": "Antti Rinne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antti Rinne"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Anu Vehviläinen"
-          },
-          "office2": {
-            "text": "40th Prime Minister of Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Finland"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Tarja Halonen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarja Halonen"
-              }
-            ]
-          },
-          "deputy2": {
-            "text": "Antti Kalliomäki\nEero Heinäluoma\nJyrki Katainen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antti Kalliomäki"
-              },
-              {
-                "type": "internal",
-                "page": "Eero Heinäluoma"
-              },
-              {
-                "type": "internal",
-                "page": "Jyrki Katainen"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "24 June 2003"
-          },
-          "term_end2": {
-            "text": "22 June 2010"
-          },
-          "predecessor2": {
-            "text": "Anneli Jäätteenmäki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anneli Jäätteenmäki"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Mari Kiviniemi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mari Kiviniemi"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Minister of Finance (Finland)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Sanna Marin"
-          },
-          "term_start3": {
-            "text": "9 June 2020"
-          },
-          "term_end3": {
-            "text": "27 May 2021"
-          },
-          "predecessor3": {
-            "text": "Katri Kulmuni"
-          },
-          "successor3": {
-            "text": "Annika Saarikko"
-          },
-          "office4": {
-            "text": "36th Deputy Prime Minister of Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Finland"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "9 June 2020"
-          },
-          "term_end4": {
-            "text": "10 September 2020"
-          },
-          "primeminister4": {
-            "text": "Sanna Marin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sanna Marin"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Katri Kulmuni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Katri Kulmuni"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Annika Saarikko",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Annika Saarikko"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Defence",
-            "links": [
-              {
-                "text": "Minister of Defence",
-                "type": "internal",
-                "page": "Minister of Defence (Finland)"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Anneli Jäätteenmäki"
-          },
-          "term_start5": {
-            "text": "17 April 2003"
-          },
-          "term_end5": {
-            "text": "24 June 2003"
-          },
-          "predecessor5": {
-            "text": "Jan-Erik Enestam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jan-Erik Enestam"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Seppo Kääriäinen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Seppo Kääriäinen"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of the Finnish Parliament",
-            "links": [
-              {
-                "text": "Member of the Finnish Parliament",
-                "type": "internal",
-                "page": "Parliament of Finland"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "22 April 2015"
-          },
-          "constituency6": {
-            "text": "Uusimaa",
-            "links": [
-              {
-                "text": "Uusimaa",
-                "type": "internal",
-                "page": "Uusimaa (constituency)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "22 March 1991"
-          },
-          "term_end7": {
-            "text": "19 September 2010"
-          },
-          "constituency7": {
-            "text": "Uusimaa"
-          },
-          "birth_date": {
-            "text": "November 4, 1955"
-          },
-          "birth_place": {
-            "text": "Jyväskylä, Central Finland, Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jyväskylä"
-              },
-              {
-                "type": "internal",
-                "page": "Central Finland"
-              }
-            ]
-          },
-          "party": {
-            "text": "Centre",
-            "links": [
-              {
-                "text": "Centre",
-                "type": "internal",
-                "page": "Centre Party (Finland)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Merja Mäntyniemi (m. 1985-2005)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "University of Helsinki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Helsinki"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Matti Vanhanen Signature 2.svg"
-          },
-          "allegiance": {
-            "text": "🇫🇮 Finland",
-            "links": [
-              {
-                "text": "Finland",
-                "type": "internal",
-                "page": "finland"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Suomen Maavoimien tunnus.svg Finnish Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Finnish Army"
-              }
-            ]
-          },
-          "rank": {
-            "text": "kersantti kauluslaatta.svg Sergeant",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sergeant"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Matti Vanhanen",
+  "image": "2020-03-02 Matti Vanhanen.jpg",
+  "caption": "Vanhanen in 2020",
+  "office": "Speaker of the Parliament of Finland",
+  "term_start": "1 February 2022",
+  "predecessor": "Anu Vehviläinen",
+  "term_start1": "7 June 2019",
+  "term_end1": "9 June 2020",
+  "predecessor1": "Antti Rinne",
+  "successor1": "Anu Vehviläinen",
+  "office2": "40th Prime Minister of Finland",
+  "president2": "Tarja Halonen",
+  "deputy2": "Antti Kalliomäki\nEero Heinäluoma\nJyrki Katainen",
+  "term_start2": "24 June 2003",
+  "term_end2": "22 June 2010",
+  "predecessor2": "Anneli Jäätteenmäki",
+  "successor2": "Mari Kiviniemi",
+  "office3": "Minister of Finance",
+  "primeminister3": "Sanna Marin",
+  "term_start3": "9 June 2020",
+  "term_end3": "27 May 2021",
+  "predecessor3": "Katri Kulmuni",
+  "successor3": "Annika Saarikko",
+  "office4": "36th Deputy Prime Minister of Finland",
+  "term_start4": "9 June 2020",
+  "term_end4": "10 September 2020",
+  "primeminister4": "Sanna Marin",
+  "predecessor4": "Katri Kulmuni",
+  "successor4": "Annika Saarikko",
+  "office5": "Minister of Defence",
+  "primeminister5": "Anneli Jäätteenmäki",
+  "term_start5": "17 April 2003",
+  "term_end5": "24 June 2003",
+  "predecessor5": "Jan-Erik Enestam",
+  "successor5": "Seppo Kääriäinen",
+  "office6": "Member of the Finnish Parliament",
+  "term_start6": "22 April 2015",
+  "constituency6": "Uusimaa",
+  "term_start7": "22 March 1991",
+  "term_end7": "19 September 2010",
+  "constituency7": "Uusimaa",
+  "birth_date": "November 4, 1955",
+  "birth_place": "Jyväskylä, Central Finland, Finland",
+  "party": "Centre",
+  "spouse": "Merja Mäntyniemi (m. 1985-2005)",
+  "children": "2",
+  "alma_mater": "University of Helsinki",
+  "signature": "Matti Vanhanen Signature 2.svg",
+  "allegiance": "🇫🇮 Finland",
+  "branch": "Suomen Maavoimien tunnus.svg Finnish Army",
+  "rank": "kersantti kauluslaatta.svg Sergeant"
 }

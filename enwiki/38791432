@@ -1,292 +1,38 @@
 {
-  "title": "Annika Saarikko",
-  "pageID": 38791432,
-  "categories": [
-    "1983 births",
-    "Living people",
-    "People from Oripää",
-    "Finnish Lutherans",
-    "Centre Party (Finland) politicians",
-    "Government ministers of Finland",
-    "Members of the Parliament of Finland (2011–15)",
-    "Members of the Parliament of Finland (2015–19)",
-    "Members of the Parliament of Finland (2019–23)",
-    "21st-century Finnish women politicians",
-    "Women government ministers of Finland",
-    "University of Turku alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Annika Virpi Irene Saarikko (born 10 November 1983) is a Finnish politician and minister.",
-              "formatting": {
-                "bold": [
-                  "Annika Virpi Irene Saarikko"
-                ]
-              }
-            },
-            {
-              "text": "On 5 September 2020, she was elected as the leader of the Finnish Centre Party.",
-              "links": [
-                {
-                  "text": "Finnish Centre Party",
-                  "type": "internal",
-                  "page": "Centre Party (Finland)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Finnish politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1983",
-          "month": "11",
-          "day": "10",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Erkki Papunen",
-          "from": "2014",
-          "template": "marriage"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Annika Saarikko"
-          },
-          "image": {
-            "text": "Annika Saarikko in 2021 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Saarikko in 2021"
-          },
-          "office": {
-            "text": "Deputy Prime Minister of Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Finland"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 September 2020"
-          },
-          "primeminister": {
-            "text": "Sanna Marin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sanna Marin"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Matti Vanhanen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Matti Vanhanen"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Minister of Finance (Finland)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Sanna Marin"
-          },
-          "term_start1": {
-            "text": "27 May 2021"
-          },
-          "predecessor1": {
-            "text": "Matti Vanhanen"
-          },
-          "office2": {
-            "text": "Minister of Science and Culture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Science and Culture"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Sanna Marin"
-          },
-          "term_start2": {
-            "text": "6 August 2020"
-          },
-          "term_end2": {
-            "text": "27 May 2021"
-          },
-          "predecessor2": {
-            "text": "Hanna Kosonen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hanna Kosonen"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Antti Kurvinen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antti Kurvinen"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Antti Rinne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antti Rinne"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 June 2019"
-          },
-          "term_end3": {
-            "text": "9 August 2019"
-          },
-          "predecessor3": {
-            "text": "Sampo Terho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sampo Terho"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Hanna Kosonen"
-          },
-          "office4": {
-            "text": "Minister of Family Affairs and Social Services",
-            "links": [
-              {
-                "text": "Minister of Family Affairs and Social Services",
-                "type": "internal",
-                "page": "Minister of Family Affairs and Social Services (Finland)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Juha Sipilä",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juha Sipilä"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "10 July 2017"
-          },
-          "term_end4": {
-            "text": "6 June 2019"
-          },
-          "predecessor4": {
-            "text": "Juha Rehula",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juha Rehula"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Krista Kiuru",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Krista Kiuru"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Leader of the Centre Party",
-            "links": [
-              {
-                "text": "Leader of the Centre Party",
-                "type": "internal",
-                "page": "Centre Party (Finland)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "5 September 2020"
-          },
-          "predecessor5": {
-            "text": "Katri Kulmuni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Katri Kulmuni"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Annika Virpi Irene Saarikko"
-          },
-          "birth_date": {
-            "text": "November 10, 1983"
-          },
-          "birth_place": {
-            "text": "Oripää, Southwest Finland, Finland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Oripää"
-              },
-              {
-                "type": "internal",
-                "page": "Southwest Finland"
-              }
-            ]
-          },
-          "party": {
-            "text": "Centre",
-            "links": [
-              {
-                "text": "Centre",
-                "type": "internal",
-                "page": "Centre Party (Finland)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Erkki Papunen (m. 2014)"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Annika Saarikko",
+  "image": "Annika Saarikko in 2021 (cropped).jpg",
+  "caption": "Saarikko in 2021",
+  "office": "Deputy Prime Minister of Finland",
+  "term_start": "10 September 2020",
+  "primeminister": "Sanna Marin",
+  "predecessor": "Matti Vanhanen",
+  "office1": "Minister of Finance",
+  "primeminister1": "Sanna Marin",
+  "term_start1": "27 May 2021",
+  "predecessor1": "Matti Vanhanen",
+  "office2": "Minister of Science and Culture",
+  "primeminister2": "Sanna Marin",
+  "term_start2": "6 August 2020",
+  "term_end2": "27 May 2021",
+  "predecessor2": "Hanna Kosonen",
+  "successor2": "Antti Kurvinen",
+  "primeminister3": "Antti Rinne",
+  "term_start3": "6 June 2019",
+  "term_end3": "9 August 2019",
+  "predecessor3": "Sampo Terho",
+  "successor3": "Hanna Kosonen",
+  "office4": "Minister of Family Affairs and Social Services",
+  "primeminister4": "Juha Sipilä",
+  "term_start4": "10 July 2017",
+  "term_end4": "6 June 2019",
+  "predecessor4": "Juha Rehula",
+  "successor4": "Krista Kiuru",
+  "office5": "Leader of the Centre Party",
+  "term_start5": "5 September 2020",
+  "predecessor5": "Katri Kulmuni",
+  "birth_name": "Annika Virpi Irene Saarikko",
+  "birth_date": "November 10, 1983",
+  "birth_place": "Oripää, Southwest Finland, Finland",
+  "party": "Centre",
+  "spouse": "Erkki Papunen (m. 2014)"
 }
