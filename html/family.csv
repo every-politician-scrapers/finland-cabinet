@@ -1,137 +1,137 @@
 id,name,relationship,relative,relativename
-Q11850151,Aino-Kaisa Pekonen,sibling,Q3183562,Aku Hirviniemi
-Q11851928,Antero Vartia,relative,Q25451941,Pentti Vartia
-Q11861329,Hanna Markkula-Kivisilta,father,Q14116259,Reino Markkula
-Q11864567,Ilkka Taipale,child,Q16990760,Jussi Taipale
-Q11864567,Ilkka Taipale,sibling,Q11858256,Erkki-Juhani Taipale
-Q11864567,Ilkka Taipale,spouse,Q16990761,Vappu Taipale
-Q11868890,Kai Mykkänen,father,Q5492635,Jouni Mykkänen
-Q11870505,Kauko Juhantalo,spouse,Q63226784,Liisa Juhantalo
-Q11875227,Leena Harkimo,child,Q29892735,Joel Harkimo
-Q11875227,Leena Harkimo,sibling,Q11881535,Matti Alamäki
-Q11875227,Leena Harkimo,spouse,Q5413089,Harry Harkimo
-Q11880985,Marja Tiura,spouse,Q16297896,Olli Ainola
-Q11884029,Nasima Razmyar,father,Q20379187,Mohammed Daud Razmyar
-Q11887549,Pertti Salovaara,sibling,Q11875117,Lauri Salovaara
-Q11889370,Päivi Lipponen,spouse,Q29110,Paavo Lipponen
-Q11896934,Terhi Koulumies,relative,Q11868217,Jyrki Koulumies
-Q11896934,Terhi Koulumies,relative,Q30608872,Rolf Koulumies
-Q11902424,Wille Rydman,father,Q17383615,Jan Rydman
-Q133361,Tanja Karpela,spouse,Q7088303,Olli Saarela
-Q13532,Merikukka Forsius,relative,Q11891799,Saara Forsius
-Q13532,Merikukka Forsius,spouse,Q5413089,Harry Harkimo
-Q1359004,Jyri Häkämies,father,Q11858300,Erkki Häkämies
-Q1359004,Jyri Häkämies,sibling,Q11869910,Kari Häkämies
-Q16299674,Emma Kari,father,Q11864521,Ilkka J. Kari
-Q16299674,Emma Kari,spouse,Q5405446,Tapio Laakso
-Q16300004,Jukka Kopra,father,Q27075101,Matti Kopra
-Q16984784,Mika Lintilä,father,Q5481171,Aaro Lintilä
-Q16986436,Sanna Marin,spouse,Q78037545,Markus Räikkönen
-Q16989598,Heli Paasio,father,Q2337420,Pertti Paasio
-Q16989598,Heli Paasio,relative,Q449414,Rafael Paasio
-Q16990565,Juhani Sjöblom,child,Q28788780,Ruut Sjöblom
-Q16991064,Tuulikki Ukkola,child,Q41792841,Sanna Ukkola
-Q16991064,Tuulikki Ukkola,spouse,Q11867812,Jukka Ukkola
-Q16991148,Jukka Valtasaari,sibling,Q27075043,Mikko Valtasaari
-Q1711532,Juha Sipilä,relative,Q16989418,Heikki Niskakangas
-Q182043,Matti Vanhanen,father,Q978240,Tatu Vanhanen
-Q182043,Matti Vanhanen,spouse,Q11882168,Merja Mäntyniemi
-Q20251257,Anders Adlercreutz,child,Q99539480,Ilon
-Q20251257,Anders Adlercreutz,father,Q5385994,Eric Adlercreutz
-Q20251257,Anders Adlercreutz,mother,Q18330917,Gunnel Adlercreutz
-Q20251436,Tiina Elovaara,father,Q20253871,Klaus Elovaara
-Q20254165,Sari Tanus,child,Q22916997,Jonatan Tanus
-Q229517,Anneli Jäätteenmäki,spouse,Q11866998,Jorma Melleri
-Q2360756,Eero Heinäluoma,child,Q29892746,Eveliina Heinäluoma
-Q2366466,Ville Niinistö,father,Q11869967,Kari Niinistö
-Q2366466,Ville Niinistö,relative,Q29207,Sauli Niinistö
-Q2366466,Ville Niinistö,spouse,Q444747,Maria Wetterstrand
-Q2475123,Jussi Pajunen,father,Q23040761,Aarno Pajunen
-Q25369895,Veronica Rehn-Kivi,father,Q17383424,Ove H. Rehn
-Q25369895,Veronica Rehn-Kivi,mother,Q297856,Elisabeth Rehn
-Q260391,Anni Sinnemäki,child,Q16990543,Siiri Sinnemäki
-Q260391,Anni Sinnemäki,father,Q11851875,Anssi Sinnemäki
-Q260391,Anni Sinnemäki,spouse,Q61103171,Anton Monti
-Q260391,Anni Sinnemäki,spouse,Q6393960,Kerkko Koskinen
-Q264823,Satu Hassi,father,Q16298624,Osmo Hassi
-Q2868553,Astrid Thors,father,Q6209392,Carl-Eric Thors
-Q28784757,Pihla Keto-Huovinen,spouse,Q16299157,Tommy Huovinen
-Q28788123,Heikki Vestman,spouse,Q5397641,Reetaleena
-Q28788780,Ruut Sjöblom,father,Q16990565,Juhani Sjöblom
-Q29110,Paavo Lipponen,spouse,Q11889370,Päivi Lipponen
-Q29207,Sauli Niinistö,child,Q52376453,Aaro Niinistö
-Q29207,Sauli Niinistö,relative,Q2366466,Ville Niinistö
-Q29207,Sauli Niinistö,sibling,Q11869967,Kari Niinistö
-Q29207,Sauli Niinistö,spouse,Q293133,Jenni Haukio
-Q29207,Sauli Niinistö,spouse,Q60568424,Marja-Leena Alanko
-Q29213,Tarja Halonen,child,Q11851568,Anna Halonen
-Q29213,Tarja Halonen,partner,Q11869978,Kari Pekkonen
-Q29213,Tarja Halonen,spouse,Q2502942,Pentti Arajärvi
-Q29230,Martti Ahtisaari,child,Q3701548,Marko Ahtisaari
-Q29230,Martti Ahtisaari,spouse,Q11856875,Eeva Ahtisaari
-Q29419275,Tuula Yrjölä,father,Q25452866,Eero Yrjölä
-Q2983767,Henna Virkkunen,spouse,Q18720029,Matti Mäkinen
-Q29892746,Eveliina Heinäluoma,father,Q2360756,Eero Heinäluoma
-Q29895101,Anders Norrback,father,Q6017325,Ole Norrback
-Q29957553,Suldaan Said Ahmed,sibling,Q24827231,Ahmed Said Ahmed
-Q29957553,Suldaan Said Ahmed,sibling,Q78233158,Abdulkadir Said Ahmed
-Q32219,Jan Vapaavuori,spouse,Q61159813,Outi Vapaavuori
-Q3357738,Gustav Hägglund,father,Q3044522,Woldemar Hägglund
-Q3485303,Sirpa Asko-Seljavaara,father,Q11853409,Aukusti Asko-Avonius
-Q3735621,Outi Alanko-Kahiluoto,relative,Q3742337,Väinö Kirstinä
-Q3735621,Outi Alanko-Kahiluoto,spouse,Q11853288,Atro Kahiluoto
-Q3735752,Eva-Riitta Siitonen,child,Q16990496,Hanna-Riikka Siitonen
-Q3735752,Eva-Riitta Siitonen,spouse,Q1453214,Fredi
-Q4204128,Tytti Isohookana-Asunmaa,spouse,Q56402367,Martti Asunmaa
-Q438744,Riitta Uosukainen,spouse,Q110402009,Toivo Uosukainen
-Q4768564,Anne Louhelainen,father,Q11882807,Mikko Vainio
-Q4826119,Mikko lähteenmäki,child,Q5491005,Kalle Alatalo
-Q4826119,Mikko lähteenmäki,relative,Q28056024,Ronja Alatalo
-Q4935864,Li Andersson,father,Q16161261,Jan-Erik Andersson
-Q4935864,Li Andersson,partner,Q47914375,Juha Pursiainen
-Q4949953,Christina Gestrin,father,Q3864624,Kristian Gestrin
-Q503143,Alexander Stubb,father,Q6544417,Göran Stubb
-Q503143,Alexander Stubb,spouse,Q17278098,Suzanne Innes-Stubb
-Q5413089,Harry Harkimo,child,Q29892735,Joel Harkimo
-Q5413089,Harry Harkimo,father,Q3462634,Osmo Harkimo
-Q5413089,Harry Harkimo,spouse,Q11875227,Leena Harkimo
-Q5413089,Harry Harkimo,spouse,Q13532,Merikukka Forsius
-Q5413438,Eila Tiainen,spouse,Q17384338,Jorma Tiainen
-Q546665,Susanna Huovinen,spouse,Q18633043,Timo Koivisto
-Q5481733,Jukka Vihriälä,sibling,Q5393954,Vesa Vihriälä
-Q5485318,Ville Skinnari,father,Q591312,Jouko Skinnari
-Q57638,Jyrki Katainen,child,Q17278094,Saara Katainen
-Q57638,Jyrki Katainen,child,Q17278095,Veera Katainen
-Q57638,Jyrki Katainen,spouse,Q17278091,Mervi Katainen
-Q58121,Erkki Tuomioja,father,Q728501,Sakari Tuomioja
-Q58121,Erkki Tuomioja,mother,Q11900462,Vappu Tuomioja
-Q591312,Jouko Skinnari,child,Q5485318,Ville Skinnari
-Q6069855,Irina Krohn,sibling,Q16300118,Minerva Krohn
-Q6069855,Irina Krohn,sibling,Q5395273,Katja Krohn
-Q6109579,Jaakko Laakso,child,Q5405446,Tapio Laakso
-Q6305233,Kimmo Kiljunen,child,Q11865487,Jaakko Kiljunen
-Q6305233,Kimmo Kiljunen,sibling,Q20379124,Vilppu Kiljunen
-Q6305233,Kimmo Kiljunen,spouse,Q29419380,Marja-Liisa Kiljunen
-Q63093968,Aki Lindén,relative,Q12806239,Väinö F. Lindén
-Q657282,Paavo Arhinmäki,sibling,Q11867990,Jussi Arhinmäki
-Q6845608,Mikael Jungner,relative,Q11873912,Kyllikki Kallas
-Q6845608,Mikael Jungner,relative,Q11885284,Olavi Lahtela
-Q6845608,Mikael Jungner,spouse,Q11880881,Maria Jungner
-Q7121505,Paavo Nikula,child,Q13405798,Jone Nikula
-Q7121505,Paavo Nikula,child,Q18633359,Stuba Nikula
-Q7198031,Pirkka-Pekka Petelius,spouse,Q5400422,Sari Siikander
-Q7367093,Rosa Meriläinen,mother,Q5319194,Anneli Ranta
-Q7367093,Rosa Meriläinen,partner,Q3738810,Simo Frangén
-Q771900,Matti Ahde,child,Q16297886,Jussi Ahde
-Q771900,Matti Ahde,spouse,Q11862626,Hilkka Ahde
-Q982339,Jörn Donner,child,Q26869383,Rafael Donner
-Q982339,Jörn Donner,child,Q5623543,Johan Donner
-Q982339,Jörn Donner,father,Q716614,Kai Donner
-Q982339,Jörn Donner,partner,Q234923,Harriet Andersson
-Q982339,Jörn Donner,relative,Q98687966,Lyyti
-Q982339,Jörn Donner,sibling,Q5623540,Joakim Donner
-Q982339,Jörn Donner,sibling,Q5623554,Kai Otto Donner
-Q982339,Jörn Donner,spouse,Q4940016,Jeanette Bonnier
-Q982339,Jörn Donner,spouse,Q4990509,Inga-Britt Wik
-Q983641,Claes Andersson,child,Q11862348,Henrika Andersson
-Q983641,Claes Andersson,child,Q42370509,Ville Andersson
+Q11850151,Aino-Kaisa Pekonen,sibling,Q3183562,
+Q11851928,Antero Vartia,relative,Q25451941,
+Q11861329,Hanna Markkula-Kivisilta,father,Q14116259,
+Q11864567,Ilkka Taipale,child,Q16990760,
+Q11864567,Ilkka Taipale,sibling,Q11858256,
+Q11864567,Ilkka Taipale,spouse,Q16990761,
+Q11868890,Kai Mykkänen,father,Q5492635,
+Q11870505,Kauko Juhantalo,spouse,Q63226784,
+Q11875227,Leena Harkimo,child,Q29892735,
+Q11875227,Leena Harkimo,sibling,Q11881535,
+Q11875227,Leena Harkimo,spouse,Q5413089,
+Q11880985,Marja Tiura,spouse,Q16297896,
+Q11884029,Nasima Razmyar,father,Q20379187,
+Q11887549,Pertti Salovaara,sibling,Q11875117,
+Q11889370,Päivi Lipponen,spouse,Q29110,
+Q11896934,Terhi Koulumies,relative,Q11868217,
+Q11896934,Terhi Koulumies,relative,Q30608872,
+Q11902424,Wille Rydman,father,Q17383615,
+Q133361,Tanja Karpela,spouse,Q7088303,
+Q13532,Merikukka Forsius,relative,Q11891799,
+Q13532,Merikukka Forsius,spouse,Q5413089,
+Q1359004,Jyri Häkämies,father,Q11858300,
+Q1359004,Jyri Häkämies,sibling,Q11869910,
+Q16299674,Emma Kari,father,Q11864521,
+Q16299674,Emma Kari,spouse,Q5405446,
+Q16300004,Jukka Kopra,father,Q27075101,
+Q16984784,Mika Lintilä,father,Q5481171,
+Q16986436,Sanna Marin,spouse,Q78037545,
+Q16989598,Heli Paasio,father,Q2337420,
+Q16989598,Heli Paasio,relative,Q449414,
+Q16990565,Juhani Sjöblom,child,Q28788780,
+Q16991064,Tuulikki Ukkola,child,Q41792841,
+Q16991064,Tuulikki Ukkola,spouse,Q11867812,
+Q16991148,Jukka Valtasaari,sibling,Q27075043,
+Q1711532,Juha Sipilä,relative,Q16989418,
+Q182043,Matti Vanhanen,father,Q978240,
+Q182043,Matti Vanhanen,spouse,Q11882168,
+Q20251257,Anders Adlercreutz,child,Q99539480,
+Q20251257,Anders Adlercreutz,father,Q5385994,
+Q20251257,Anders Adlercreutz,mother,Q18330917,
+Q20251436,Tiina Elovaara,father,Q20253871,
+Q20254165,Sari Tanus,child,Q22916997,
+Q229517,Anneli Jäätteenmäki,spouse,Q11866998,
+Q2360756,Eero Heinäluoma,child,Q29892746,
+Q2366466,Ville Niinistö,father,Q11869967,
+Q2366466,Ville Niinistö,relative,Q29207,
+Q2366466,Ville Niinistö,spouse,Q444747,
+Q2475123,Jussi Pajunen,father,Q23040761,
+Q25369895,Veronica Rehn-Kivi,father,Q17383424,
+Q25369895,Veronica Rehn-Kivi,mother,Q297856,
+Q260391,Anni Sinnemäki,child,Q16990543,
+Q260391,Anni Sinnemäki,father,Q11851875,
+Q260391,Anni Sinnemäki,spouse,Q61103171,
+Q260391,Anni Sinnemäki,spouse,Q6393960,
+Q264823,Satu Hassi,father,Q16298624,
+Q2868553,Astrid Thors,father,Q6209392,
+Q28784757,Pihla Keto-Huovinen,spouse,Q16299157,
+Q28788123,Heikki Vestman,spouse,Q5397641,
+Q28788780,Ruut Sjöblom,father,Q16990565,
+Q29110,Paavo Lipponen,spouse,Q11889370,
+Q29207,Sauli Niinistö,child,Q52376453,
+Q29207,Sauli Niinistö,relative,Q2366466,
+Q29207,Sauli Niinistö,sibling,Q11869967,
+Q29207,Sauli Niinistö,spouse,Q293133,
+Q29207,Sauli Niinistö,spouse,Q60568424,
+Q29213,Tarja Halonen,child,Q11851568,
+Q29213,Tarja Halonen,partner,Q11869978,
+Q29213,Tarja Halonen,spouse,Q2502942,
+Q29230,Martti Ahtisaari,child,Q3701548,
+Q29230,Martti Ahtisaari,spouse,Q11856875,
+Q29419275,Tuula Yrjölä,father,Q25452866,
+Q2983767,Henna Virkkunen,spouse,Q18720029,
+Q29892746,Eveliina Heinäluoma,father,Q2360756,
+Q29895101,Anders Norrback,father,Q6017325,
+Q29957553,Suldaan Said Ahmed,sibling,Q24827231,
+Q29957553,Suldaan Said Ahmed,sibling,Q78233158,
+Q32219,Jan Vapaavuori,spouse,Q61159813,
+Q3357738,Gustav Hägglund,father,Q3044522,
+Q3485303,Sirpa Asko-Seljavaara,father,Q11853409,
+Q3735621,Outi Alanko-Kahiluoto,relative,Q3742337,
+Q3735621,Outi Alanko-Kahiluoto,spouse,Q11853288,
+Q3735752,Eva-Riitta Siitonen,child,Q16990496,
+Q3735752,Eva-Riitta Siitonen,spouse,Q1453214,
+Q4204128,Tytti Isohookana-Asunmaa,spouse,Q56402367,
+Q438744,Riitta Uosukainen,spouse,Q110402009,
+Q4768564,Anne Louhelainen,father,Q11882807,
+Q4826119,Mikko lähteenmäki,child,Q5491005,
+Q4826119,Mikko lähteenmäki,relative,Q28056024,
+Q4935864,Li Andersson,father,Q16161261,
+Q4935864,Li Andersson,partner,Q47914375,
+Q4949953,Christina Gestrin,father,Q3864624,
+Q503143,Alexander Stubb,father,Q6544417,
+Q503143,Alexander Stubb,spouse,Q17278098,
+Q5413089,Harry Harkimo,child,Q29892735,
+Q5413089,Harry Harkimo,father,Q3462634,
+Q5413089,Harry Harkimo,spouse,Q11875227,
+Q5413089,Harry Harkimo,spouse,Q13532,
+Q5413438,Eila Tiainen,spouse,Q17384338,
+Q546665,Susanna Huovinen,spouse,Q18633043,
+Q5481733,Jukka Vihriälä,sibling,Q5393954,
+Q5485318,Ville Skinnari,father,Q591312,
+Q57638,Jyrki Katainen,child,Q17278094,
+Q57638,Jyrki Katainen,child,Q17278095,
+Q57638,Jyrki Katainen,spouse,Q17278091,
+Q58121,Erkki Tuomioja,father,Q728501,
+Q58121,Erkki Tuomioja,mother,Q11900462,
+Q591312,Jouko Skinnari,child,Q5485318,
+Q6069855,Irina Krohn,sibling,Q16300118,
+Q6069855,Irina Krohn,sibling,Q5395273,
+Q6109579,Jaakko Laakso,child,Q5405446,
+Q6305233,Kimmo Kiljunen,child,Q11865487,
+Q6305233,Kimmo Kiljunen,sibling,Q20379124,
+Q6305233,Kimmo Kiljunen,spouse,Q29419380,
+Q63093968,Aki Lindén,relative,Q12806239,
+Q657282,Paavo Arhinmäki,sibling,Q11867990,
+Q6845608,Mikael Jungner,relative,Q11873912,
+Q6845608,Mikael Jungner,relative,Q11885284,
+Q6845608,Mikael Jungner,spouse,Q11880881,
+Q7121505,Paavo Nikula,child,Q13405798,
+Q7121505,Paavo Nikula,child,Q18633359,
+Q7198031,Pirkka-Pekka Petelius,spouse,Q5400422,
+Q7367093,Rosa Meriläinen,mother,Q5319194,
+Q7367093,Rosa Meriläinen,partner,Q3738810,
+Q771900,Matti Ahde,child,Q16297886,
+Q771900,Matti Ahde,spouse,Q11862626,
+Q982339,Jörn Donner,child,Q26869383,
+Q982339,Jörn Donner,child,Q5623543,
+Q982339,Jörn Donner,father,Q716614,
+Q982339,Jörn Donner,partner,Q234923,
+Q982339,Jörn Donner,relative,Q98687966,
+Q982339,Jörn Donner,sibling,Q5623540,
+Q982339,Jörn Donner,sibling,Q5623554,
+Q982339,Jörn Donner,spouse,Q4940016,
+Q982339,Jörn Donner,spouse,Q4990509,
+Q983641,Claes Andersson,child,Q11862348,
+Q983641,Claes Andersson,child,Q42370509,
