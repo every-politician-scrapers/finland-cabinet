@@ -54,7 +54,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q3374313,Ahti Karjalainen's second cabinet,1970-01-01,9,1970-07-15,11,,,1971-10-29,11,,,,,Q3359402,Teuvo Aura's first cabinet,Q10650403,Teuvo Aura's second cabinet
 ,Q10650403,Teuvo Aura's second cabinet,1971-10-29,11,1971-10-29,11,1972-02-23,11,1972-02-23,11,Q3374313,Ahti Karjalainen's second cabinet,Q10650452,Rafael Paasio's second cabinet,Q3374313,Ahti Karjalainen's second cabinet,Q10650452,Rafael Paasio's second cabinet
 ,Q10650452,Rafael Paasio's second cabinet,1972-02-23,11,1972-02-23,11,1972-09-04,11,1972-09-04,11,,,,,Q10650403,Teuvo Aura's second cabinet,Q10650462,Kalevi Sorsa's first cabinet
-,Q10650462,Kalevi Sorsa's first cabinet,1972-09-04,11,1972-09-04,11,1975-06-13,11,1975-06-13,11,,,,,Q10650452,Rafael Paasio's second cabinet,Q10650442,Keijo Liinamaa's cabinet
+,Q10650462,Kalevi Sorsa's first cabinet,1972-09-04,11,1972-09-04,11,1975-06-13,11,1975-06-13,11,,,Q10650442,Keijo Liinamaa's cabinet,Q10650452,Rafael Paasio's second cabinet,Q10650442,Keijo Liinamaa's cabinet
 ,Q10650442,Keijo Liinamaa's cabinet,1975-06-13,11,1975-06-13,11,1975-11-30,11,1975-11-30,11,Q10650462,Kalevi Sorsa's first cabinet,Q10650448,Martti Miettunen's second cabinet,Q10650462,Kalevi Sorsa's first cabinet,Q10650448,Martti Miettunen's second cabinet
 ,Q10650448,Martti Miettunen's second cabinet,1975-11-30,11,1975-11-30,11,1976-09-29,11,1976-09-29,11,Q10650442,Keijo Liinamaa's cabinet,Q10650449,Martti Miettunen's third cabinet,Q10650442,Keijo Liinamaa's cabinet,Q10650449,Martti Miettunen's third cabinet
 ,Q10650449,Martti Miettunen's third cabinet,,,1976-09-29,11,,,1977-05-15,11,,,,,Q10650448,Martti Miettunen's second cabinet,Q10650461,Kalevi Sorsa's second cabinet
