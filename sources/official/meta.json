@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Finland",
+      "id": "Q33"
+    },
+    "cabinet": {
+      "id": "Q77972346",
+      "start": "2019-12-10",
+      "parent": "Q2366737"
+    },
+    "source": {
+        "url":   "https://valtioneuvosto.fi/marinin-hallitus/ministerit",
+        "title": "Pääministeri Sanna Marinin hallitus",
+        "lang":  {
+            "code": "fi",
+            "wikidata": "Q1412"
+        }
+    },
+    "agent": "every-politican-scrapers/finland-cabinet"
+}
