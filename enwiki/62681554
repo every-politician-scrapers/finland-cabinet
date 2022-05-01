@@ -1,8 +1,14 @@
 {
-  "office": "Minister of Science and Culture",
+  "office": "Minister of Agriculture",
   "primeminister": "Sanna Marin",
-  "term_start": "27 May 2021",
-  "predecessor": "Annika Saarikko",
+  "term_start": "29 April 2022",
+  "predecessor": "Jari Leppä",
+  "office2": "Minister of Science and Culture",
+  "primeminister2": "Sanna Marin",
+  "term_start2": "27 May 2021",
+  "term_end2": "29 April 2022",
+  "predecessor2": "Annika Saarikko",
+  "successor2": "Petri Honkonen",
   "party": "Centre Party",
   "constituency_mp2": "Vaasa",
   "parliament2": "Finnish"
