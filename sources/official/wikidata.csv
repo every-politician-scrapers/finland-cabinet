@@ -1,7 +1,6 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q11852109,Antti Kaikkonen,Antti Kaikkonen,male,1974-02-14,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2021-07-29,Q188393,Puolustusministeri,2019-12-10,Q11852109-2952F285-2504-4B41-B277-BE3BC9B758DB
-Q11852135,Antti Kurvinen,Antti Kurvinen,male,1986-07-14,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2021-07-29,Q21141009,Tiede- ja kulttuuriministeri,2021-05-27,Q11852135-cd76dc5a-4358-694a-7464-7a76b69d26ee
-Q11866066,Jari Leppä,Jari Leppä,male,1959-06-24,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2021-07-29,Q24205201,Maa- ja metsätalousministeri,2019-12-10,Q11866066-3b224371-4b55-dd44-12da-60bf9b314186
+Q11852135,Antti Kurvinen,Antti Kurvinen,male,1986-07-14,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2022-05-01,Q24205201,Maa- ja metsätalousministeri,2022-04-29,Q11852135-E0B90BBA-4154-4C65-9392-5138D132D45F
 Q11873020,Krista Mikkonen,Krista Mikkonen,female,1972-11-15,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2021-11-20,Q1445938,Sisäministeri,2021-11-19,Q11873020-243cabab-4c1f-34e3-2286-afc091121cb2
 Q11898869,Tuula Haatainen,Tuula Haatainen,female,1960-02-11,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2021-07-29,Q10563305,Työministeri,2019-12-10,Q11898869-c045b3f4-4b30-bcb9-f971-3317673a529a
 Q11898995,Tytti Tuppurainen,Tytti Tuppurainen,female,1976-02-18,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2021-07-29,Q11894988,Eurooppa- ja omistajaohjausministeri,2019-12-10,Q11898995-b768a82a-491c-ffc9-07f2-da4ca509f9eb
@@ -11,6 +10,7 @@ Q16984784,Mika Lintilä,Mika Lintilä,male,1966-04-15,11,https://valtioneuvosto.
 Q16986436,Sanna Marin,Sanna Marin,female,1985-11-16,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2021-07-29,Q738695,Pääministeri,2019-12-10,Q16986436-13c80eae-44a8-c2b9-d4c4-f5b52331c870
 Q16989600,Sirpa Paatero,Sirpa Paatero,female,1964-09-09,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,,Q107550995,Kuntaministeri,2019-12-10,Q16989600-59f407e7-4f24-08ce-6eab-e189d4f29751
 Q16990389,Hanna Sarkkinen,Hanna Sarkkinen,female,1988-04-18,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,,Q18694348,Sosiaali- ja terveysministeri,2021-06-29,Q16990389-c43ca183-4e86-f234-53cc-b0453fefbe00
+Q20257511,Petri Honkonen,Petri Honkonen,male,1987-07-29,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2022-05-01,Q21141009,Tiede- ja kulttuuriministeri,2022-04-29,Q20257511-36873808-1B65-4E06-994A-13F1E17BC5DE
 Q2850448,Anna-Maja Henriksson,Anna-Maja Henriksson,female,1964-01-07,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,,Q1294631,Oikeusministeri,2019-12-10,Q2850448-a7aedb11-4701-c1da-49bd-c340589366ad
 Q317485,Pekka Haavisto,Pekka Haavisto,male,1958-03-23,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,2021-07-29,Q2386529,Ulkoministeri,2019-12-10,Q317485-7182eba9-4a85-3f97-d49f-74a707972cc1
 Q4935864,Li Andersson,Li Andersson,female,1987-05-13,11,https://valtioneuvosto.fi/marinin-hallitus/ministerit,,Q11895091,Opetusministeri,2021-06-29,Q4935864-0c104afd-4a18-fe49-d5bf-8178ca14ade4
