@@ -277,7 +277,7 @@
         
 
         getAvailableLangPath: function() {
-            return 'available_languages.jsp?browserId=other&themeId=valtioneuvosto_WAR_valtioneuvostotheme&colorSchemeId=01&languageId=fi_FI&b=7110&t=1652181002562';
+            return 'available_languages.jsp?browserId=other&themeId=valtioneuvosto_WAR_valtioneuvostotheme&colorSchemeId=01&languageId=fi_FI&b=7110&t=1652321181832';
         },
         getCombine: function() {
             return false;
@@ -327,7 +327,7 @@
         }
     };
 
-    Liferay.authToken = '8s2fQVWg';
+    Liferay.authToken = '4w93rs0O';
 
     
 
@@ -1509,6 +1509,272 @@ margin-top: -65px;
   color: var(--yja-link-color, var(--yja-primary-color, #365abd));
   text-decoration: underline;
 }
+
+/* YJAVNK-1538, new styling for frontpage alertBox */
+.alertBox__container {
+  flex-direction: column;
+}
+.alertBox__container_items {
+  background-color: var(--yja-panel-bg-color, #fdfdfd);
+  /* border: var(--yja-panel-border-style-primary, 1px solid #e5e5e5); */
+  outline: var(--yja-panel-border-style-primary, 1px solid #e5e5e5);
+}
+
+/* Special rule, if only content is shown remove margin from last p/div/any type item */
+.alertBox__container_items .alertBox__content:only-child .alertBox__lead > *:last-of-type {
+    margin-bottom: 0px !important;
+}
+
+/* Main alertBox content padding in desktop and mobile */
+.alertBox__container_items .alertBox__content_textbox,
+.alertBox__container_items .alertBox__live_broadcast {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.alertBox__content_textbox .yja-card__heading {
+    margin-top: 35px;
+}
+.alertBox__container_items > div:last-child {
+    padding-bottom: 35px;
+}
+@media screen and (max-width: 768px) {
+    .alertBox__container_items .alertBox__content_textbox,
+    .alertBox__container_items .alertBox__live_broadcast {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .alertBox__content_textbox .yja-card__heading {
+        margin-top: 20px;
+    }
+    .alertBox__container_items > div:last-child {
+        padding-bottom: 20px;
+    }
+}
+
+.alertBox__live_broadcast a {
+    border-radius: 2px !important;
+}
+.alertBox__container .icon-time {
+  display: none;
+}
+
+/* 
+YJAVNK-1538, moved old etusivun_varilliset_nostolaatikot.ftl styles into global styles
+Allows earlier template \3cstyle> rules to be changed from single place 
+*/
+
+/* Note: this is set to "Nested portlets" -> "Look and feel" */
+.vn-alertbox-normal {
+    margin-bottom: 3rem;
+}
+@media screen and (max-width: 767.9px) {
+    .vn-alertbox-normal {
+        margin-bottom: 20px;
+    }
+    .vn-alertbox-normal .portlet-column-first .portlet {
+        margin-bottom: 20px;
+    }
+}
+
+/* YJAVNK-1079 */
+#content .journal-content-article .colorBoxList{
+    padding: 0 !important;
+    margin: 0;
+    list-style-type: none;
+}
+
+/* Margin between multiple boxes in same web content */
+.vn-alertbox-normal .colorBoxList .colorBox-container:not(:first-child),
+.vn-alertbox-normal .colorBoxList .textBox:not(:first-child) {
+    margin-top: 20px;
+}
+
+/* colorBoxList general styling */
+.colorBoxList li{
+    width: 100%;
+    height: auto;
+    float: left;
+    /* padding: 0 0 1em 0; */
+    margin: 0;
+    list-style-type: none;
+    font-size: 1em !important;
+}
+
+.colorBoxList li a{
+    width: 100%;
+    display: flex;
+    text-decoration: none !important;
+    border-radius: 2px;
+    position: relative;
+    
+    font-family: myriad-pro-semi-condensed,sans-serif;
+    font-weight: 600 !important;
+
+}
+.colorBoxList li a:hover .colorBox-content,
+.colorBoxList li a:focus .colorBox-content{
+    text-decoration: underline !important;
+}
+
+.colorBoxList li a span:first-of-type{
+    width: 75px;
+    float: left;
+    padding-left: 0.5em;
+    height: 48px;
+
+    display: grid;
+    
+}
+.colorBoxList li a .colorBox-content{
+    margin: auto 0;
+    /* font-size: 0.9em !important; */
+    /* line-height: 1.2em !important; */
+}
+@media (min-width: 1024px){
+    .colorBoxList li a .colorBox-content{
+        max-width: 190px;
+        float: left;
+    }
+}
+@media (min-width: 768px) and (max-width: 1023px){
+    .colorBoxList li a .colorBox-content{
+        float: left;
+    }
+}
+@media (min-width: 480px) and (max-width: 767px){
+    .colorBoxList li a .colorBox-content{
+        max-width: calc(100% - 110px);
+        float: left;
+    }
+}
+.colorBoxList li a .colorBox-content{
+    max-width: calc(100% - 110px);
+}
+.colorBoxList li a img{
+    margin: auto 0 !important; 
+}
+
+
+/* textBox item */
+.colorBoxList li.textBox{
+    border-radius: 2px;
+    overflow: hidden;
+
+    word-wrap: break-word;
+}
+.colorBoxList li.textBox:last-of-type{
+    padding: 0 !important;
+}
+.colorBoxList li.textBox div{
+    padding: 1em 1.4em !important;
+}
+.colorBoxList li.textBox div p.textboxTitle,
+.colorBoxList .colorBox .colorBox-content,
+.some-icons-header,
+.alertBox__live_broadcast a {
+    /* font-family: myriad-pro-condensed,sans-serif; */
+    font-family: var(--yja-feed-listing-headings-font-family, myriad-pro-semi-condensed);
+    margin-top: 0;
+    font-weight: var(--yja-heading-font-weigth, 600) !important;
+    /* margin-bottom: .2857rem !important; */
+    margin-bottom: 0px !important; 
+    font-style: normal;
+    word-break: normal;
+    /* font-size: var(--yja-heading-h5-size, 1.15em) !important; */
+    /* line-height: 1.15; */
+
+    font-size: var(--yja-feed-listing-headings-font-size, 0.9em) !important;
+    line-height: 1.2em !important;
+}
+.colorBoxList li.textBox div p{
+    padding: 0 0 0.325em 0 !important;
+    margin: 0 !important;
+    font-size: 0.875em !important;
+}
+.colorBoxList li.textBox div p a{
+    text-decoration: underline !important;
+    display: inline !important;
+    font-family: myriad-pro, sans-serif !important;
+    font-weight: 100 !important;
+}
+.colorBoxList li.textBox div p a:hover{
+    text-decoration: none !important;
+}
+
+/* colorBox item */
+/*
+.colorBoxList .colorBox a:after{
+    content: "\f105";
+    font-family: "fontawesome-alloy";
+    margin: 0 0 0 3px;
+    display: inline-block;
+    font-size: 1.5em;
+    position: absolute;
+    right: 0.5em;
+    top: 35%;
+}
+*/
+.colorBoxList li a.colorBox {
+    /* YJAVNK-1214 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.colorBoxList li a.colorBox .colorBox-img {
+    /* YJAVNK-1248 */
+    display: flex;
+    justify-content: center;
+
+    flex-shrink: 0;
+}
+.colorBoxList li a.colorBox .colorBox-img > * {
+    max-height: 100%;
+    object-fit: contain;
+}
+.colorBoxList .colorBox-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-width: 44px;
+    font-size: 34px;
+
+    padding-right: 20px;
+    padding-left: 5px;
+}
+
+.colorBoxList .colorBox-content {
+    flex-grow: 1;
+}
+
+/* Some-icons web content */
+.public-page .some-icons-container {
+    display: flex;
+    text-align: left;
+}
+.public-page .some-icons-header {
+    /* font-family: var(--yja-heading-font-family, 'myriad-pro-semi-condensed,sans-serif'); */
+    /* font-size: var(--yja-heading-h5-size, 1.15em) !important; */
+    /* font-weight: var(--yja-heading-font-weigth, 600) !important; */
+
+    margin-bottom: 0.2rem;
+}
+.public-page .some-icons-container > a {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+    font-size: 1.5em;
+    min-height: 44px;
+    min-width: 44px;
+}
+.public-page .some-icons-container > a:hover > * {
+    text-decoration: none;
+    color: inherit;
+}
+.public-page .some-icons-container:first-of-type [class^="icon-"] {
+    margin-left: 0px;
+}
 	</style> 
   <style data-senna-track="temporary" type="text/css">
 
@@ -1689,7 +1955,7 @@ Liferay.on(
     <a id="yja-nav-frontpagelink" class="yja-nav-mobile-nav-logo-holder" href="/fi" tabindex="-1"> <span class="sr-only">Valtioneuvosto etusivu</span> <img alt="" src="    https://valtioneuvosto.fi/o/valtioneuvosto-theme/images/logos/VN-tunnus_fi_vaaka_valkoinen_L075_RGB.svg?t=1652110094000
 "> </a> 
     <button id="yjanav-close" class="text-white"> <span role="presentation"> 
-      <svg class="lexicon-icon lexicon-icon-times" focusable="false" id="ztdd" role="presentation"> 
+      <svg class="lexicon-icon lexicon-icon-times" focusable="false" id="rccb" role="presentation"> 
        <use xlink:href="https://valtioneuvosto.fi/o/valtioneuvosto-theme/images/clay/icons.svg#times" /> 
       </svg> </span> <span class="sr-only"> Sulje valikko </span> </button> 
    </div> 
@@ -1704,6 +1970,17 @@ Liferay.on(
       <button class="yjanav-button yjanav-mainmenu-button " tabindex="-1"> <span class="sr-only sr-toggle-text">Avaa valikko</span> <span class="yjanav-chevron icon-chevron-down " aria-hidden="true"></span> </button> 
      </div> 
      <ul class="menu-list pl-0" style="" aria-expanded="false"> 
+      <li class=" yjanav-menu-item yjanav-mainmenu-item__secondary-levels"> 
+       <div class="d-flex justify-content-between align-items-center yjanav-menu-linkrow"> 
+        <a href="https://valtioneuvosto.fi/ukraina" class="yjanav-menulink   " tabindex="-1"> <span class="">Venäjän hyökkäys Ukrainaan</span> </a> 
+        <button class="yjanav-button yjanav-mainmenu-button " tabindex="-1"> <span class="sr-only sr-toggle-text">tyja.nav.title.open.menu</span> <span class="yjanav-chevron icon-chevron-down " aria-hidden="true"></span> </button> 
+       </div> 
+       <ul class="menu-list pl-0" style="" aria-expanded="false"> 
+        <li class=" yjanav-menu-item yjanav-mainmenu-item__secondary-levels"> 
+         <div class="d-flex justify-content-between align-items-center yjanav-menu-linkrow"> 
+          <a href="https://valtioneuvosto.fi/ukraina/sodan-vaikutukset-ministerioittain" class="yjanav-menulink   " tabindex="-1"> <span class="">Sodan vaikutukset ministeriöittäin</span> </a> 
+         </div> </li> 
+       </ul> </li> 
       <li class=" yjanav-menu-item yjanav-mainmenu-item__secondary-levels"> 
        <div class="d-flex justify-content-between align-items-center yjanav-menu-linkrow"> 
         <a href="https://valtioneuvosto.fi/tietoa-koronaviruksesta" class="yjanav-menulink   " tabindex="-1"> <span class="">Tietoa ja neuvontaa koronaviruksesta</span> </a> 
@@ -1760,17 +2037,6 @@ Liferay.on(
             <a href="https://valtioneuvosto.fi/tietoa-koronaviruksesta/koronatoimien-vaikutusarviot" class="yjanav-menulink   " tabindex="-1"> <span class="">Arviot koronavirustoimien vaikutuksista</span> </a> 
            </div> </li> 
          </ul> </li> 
-       </ul> </li> 
-      <li class=" yjanav-menu-item yjanav-mainmenu-item__secondary-levels"> 
-       <div class="d-flex justify-content-between align-items-center yjanav-menu-linkrow"> 
-        <a href="https://valtioneuvosto.fi/ukraina" class="yjanav-menulink   " tabindex="-1"> <span class="">Venäjän hyökkäys Ukrainaan</span> </a> 
-        <button class="yjanav-button yjanav-mainmenu-button " tabindex="-1"> <span class="sr-only sr-toggle-text">tyja.nav.title.open.menu</span> <span class="yjanav-chevron icon-chevron-down " aria-hidden="true"></span> </button> 
-       </div> 
-       <ul class="menu-list pl-0" style="" aria-expanded="false"> 
-        <li class=" yjanav-menu-item yjanav-mainmenu-item__secondary-levels"> 
-         <div class="d-flex justify-content-between align-items-center yjanav-menu-linkrow"> 
-          <a href="https://valtioneuvosto.fi/ukraina/sodan-vaikutukset-ministerioittain" class="yjanav-menulink   " tabindex="-1"> <span class="">Sodan vaikutukset ministeriöittäin</span> </a> 
-         </div> </li> 
        </ul> </li> 
       <li class=" yjanav-menu-item yjanav-mainmenu-item__secondary-levels"> 
        <div class="d-flex justify-content-between align-items-center yjanav-menu-linkrow"> 
@@ -3126,7 +3392,7 @@ $(document).ready(function(){
       <div class="content" aria-live="polite"> 
        <div class="content-wrapper"> 
        <p>
-        Valtioneuvoston kanslia kerää kokemuksia valtioneuvosto.fi-sivuston käytöstä ja kehittämistarpeista. Vastaa <a href="https://link.webropolsurveys.com/S/431BBA13B75C5208" class="yja-external-link">lyhyeen verkkokyselyyn<span class="sr-only">Linkki toiselle sivustolle</span></a> ja auta kehittämistyössä. 
+        Valtioneuvoston kanslia kerää kokemuksia valtioneuvosto.fi-sivuston käytöstä ja kehittämistarpeista. Auta kehittämistyössä ja vastaa <a href="https://link.webropolsurveys.com/S/431BBA13B75C5208" class="yja-external-link" style="white-space: nowrap;">lyhyeen verkkokyselyyn<span class="sr-only">Linkki toiselle sivustolle</span></a> 
        </p>
        </div> 
       </div> 
@@ -3233,6 +3499,9 @@ $(document).ready(function(){
   }
   .notice-ribbon-wrapper .notice-ribbon .btn-close-alert:hover {
       color: #365abd;
+  }
+  .notice-ribbon-wrapper .notice-ribbon .btn-close-alert:focus {
+      outline: var(--yja-outline, 2px solid #33c) !important;
   }
   .notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon {
       display: flex;
