@@ -277,7 +277,7 @@
         
 
         getAvailableLangPath: function() {
-            return 'available_languages.jsp?browserId=other&themeId=valtioneuvosto_WAR_valtioneuvostotheme&colorSchemeId=01&languageId=fi_FI&b=7110&t=1652747935745';
+            return 'available_languages.jsp?browserId=other&themeId=valtioneuvosto_WAR_valtioneuvostotheme&colorSchemeId=01&languageId=fi_FI&b=7110&t=1652804440995';
         },
         getCombine: function() {
             return false;
@@ -327,7 +327,7 @@
         }
     };
 
-    Liferay.authToken = '5F1JF7uW';
+    Liferay.authToken = 'C03BfOvl';
 
     
 
@@ -1980,7 +1980,7 @@ Liferay.on(
     <a id="yja-nav-frontpagelink" class="yja-nav-mobile-nav-logo-holder" href="/fi" tabindex="-1"> <span class="sr-only">Valtioneuvosto etusivu</span> <img alt="" src="    https://valtioneuvosto.fi/o/valtioneuvosto-theme/images/logos/VN-tunnus_fi_vaaka_valkoinen_L075_RGB.svg?t=1652713908000
 "> </a> 
     <button id="yjanav-close" class="text-white"> <span role="presentation"> 
-      <svg class="lexicon-icon lexicon-icon-times" focusable="false" id="radz" role="presentation"> 
+      <svg class="lexicon-icon lexicon-icon-times" focusable="false" id="aczt" role="presentation"> 
        <use xlink:href="https://valtioneuvosto.fi/o/valtioneuvosto-theme/images/clay/icons.svg#times" /> 
       </svg> </span> <span class="sr-only"> Sulje valikko </span> </button> 
    </div> 
@@ -2840,6 +2840,167 @@ Liferay.on(
     </form> 
    </div> 
   </div> 
+  <div class="notice-ribbon-wrapper notice-ribbon-wrapper-normal col-12"> 
+   <section id="notice-ribbon" class="container notice-ribbon notice-ribbon-level2 notice-ribbon-id-120830613 d-none" data-id="120830613"> 
+    <div class="content" aria-live="polite"> 
+     <div class="content-wrapper"> 
+      <p>Valtioneuvoston kanslia kerää kokemuksia valtioneuvosto.fi-sivuston käytöstä ja kehittämistarpeista. Auta kehittämistyössä ja vastaa <a href="https://link.webropolsurveys.com/S/431BBA13B75C5208" rel="nofollow noopener" style="white-space: nowrap;" target="_blank" class="yja-external-link">lyhyeen verkkokyselyyn</a></p> 
+     </div> 
+    </div> 
+    <button class="btn btn-close-alert" data-id="120830613"> <span class="close-icon" aria-hidden="true"></span> <span class="sr-only">Sulje</span> </button> 
+   </section> 
+  </div> 
+  <style type="text/css">
+.notice-ribbon-wrapper {
+    display: flex;
+    padding: 0px 15px; /* Imitate #wrapper styling */
+}
+.notice-ribbon-wrapper.notice-ribbon-wrapper-normal {
+    background-color: #bcc8e9;
+}
+
+.notice-ribbon {
+    display: flex;
+    align-items: center;
+    padding: 0.8rem 0rem;
+}
+
+.notice-ribbon .content {
+    font-size: 14px !important;
+    color: #203671;
+    font-family: 'myriad-pro-regular', sans-serif;
+    text-align: center;
+    
+    flex-grow: 1;
+    max-width: 100%;
+}
+@media only screen and (max-width:768px) {
+    .notice-ribbon .content {
+        text-align: left;
+    }
+}
+@media only screen and (max-width:1100px) {
+    .notice-ribbon .content {
+        max-width: calc(100% - 50px); /* Prevent overlap with X-icon */
+    }
+}
+
+.notice-ribbon.notice-ribbon-level2 .content::after {
+    content: " ";
+    position: absolute;
+    top: 10%;
+    right: 50px;
+    height: 80%;
+    border-left: thin solid;
+    border-left-color: #1f356f33;
+}
+
+.notice-ribbon .content a {
+    font-size: 14px !important;
+    
+    /* color: #000099; */
+    color: var(--yja-link-color);
+    text-decoration: underline;
+}
+.notice-ribbon .content a:hover {
+    /* color: #3333cc; */
+    color: var(--yja-link-color-hover);
+}
+
+.notice-ribbon .content p {
+    font-size: 14px !important;
+    
+    margin-bottom: 0px;
+}
+
+/* Close button styling */
+.notice-ribbon-wrapper .notice-ribbon .btn-close-alert {
+    position: absolute !important;
+    right: 0px;
+    
+    margin: 0px !important;
+    padding: unset !important;
+    
+    width: 50px;
+    height: 100%;
+    
+    font-size: 1rem !important;
+    background-color: transparent !important;
+    
+    border-radius: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    background-image: none !important;
+    
+}
+.notice-ribbon-wrapper .notice-ribbon .btn-close-alert:hover {
+    color: #365abd;
+}
+.notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon:before,
+.notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon:after {
+  position: absolute;
+  content: ' ';
+  height: 18px;
+  width: 1px;
+  background-color: #203671;
+}
+.notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon:before {
+  transform: rotate(45deg);
+}
+.notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon:after {
+  transform: rotate(-45deg);
+}
+
+.notice-ribbon-wrapper .yja-external-link:after {
+  content: "\f08e";
+  font-family: "fontawesome-alloy";
+  margin: 0 0 0 3px;
+  display: inline-block;
+  font-size: 0.875rem;
+  position: relative;
+  top: 0;
+}
+</style> 
+  <script>
+// YJAVNK-1080
+$(document).ready(function(){
+    // Run scripts if level2 (closeable ribbon) is used
+    $(".notice-ribbon-level2").each(function () {
+        var aNumber = $(this).data("id");
+        var aTitle = "notice-ribbon-id-" + aNumber;
+        if (Cookies.get(aTitle) === "read") {
+            $("." + aTitle).addClass("d-none");
+        } else {
+            $("." + aTitle).removeClass("d-none");
+
+        }
+    }).promise().then(function() {
+        /* YJAVNK-1536 */
+        // Accessibility: If notice ribbon is visible, set #skip-to-content to target it
+        if ($('#notice-ribbon')) {
+            if ($('#skip-to-content')) {
+                if (!$('#notice-ribbon').hasClass('d-none')) {
+                    $('#skip-to-content').attr('href', '#notice-ribbon');
+                }
+            }
+        }
+        /* / YJAVNK-1536 */
+    });
+    $(".notice-ribbon-level2 .btn-close-alert").on("click tap", function () {
+        var aNumber = $(this).data("id");
+        var aTitle = "notice-ribbon-id-" + aNumber;
+        Cookies.set(aTitle, "read");
+        $("." + aTitle).addClass("d-none");
+    }); 
+});
+</script> 
   <div class="container mb-5" id="wrapper"> 
    <header id="banner" class="yjanav-banner" role="banner"> 
     <div> 
@@ -3409,214 +3570,6 @@ $(document).ready(function(){
 if (document.documentElement.lang == 'en-US') {
    $(".yja-related-contents-portlet").find(".yja-tag").remove()
 }
-});
-
-// YJAVNK-1552, Note: temporary change, will be replaced with YJAVNK-1536
-$(document).ready(function(){
-  let text = "";
-  if (document.documentElement.lang == 'fi-FI') {
-     text = `
-    <div class="notice-ribbon-wrapper notice-ribbon-wrapper-normal col-12"> 
-     <section id="notice-ribbon" class="container notice-ribbon notice-ribbon-level2 notice-ribbon-id-119411548" data-id="119411548"> 
-      <div class="content" aria-live="polite"> 
-       <div class="content-wrapper"> 
-       <p>
-        Valtioneuvoston kanslia kerää kokemuksia valtioneuvosto.fi-sivuston käytöstä ja kehittämistarpeista. Auta kehittämistyössä ja vastaa <a href="https://link.webropolsurveys.com/S/431BBA13B75C5208" class="yja-external-link" style="white-space: nowrap;">lyhyeen verkkokyselyyn<span class="sr-only">Linkki toiselle sivustolle</span></a> 
-       </p>
-       </div> 
-      </div> 
-      <button class="btn btn-close-alert" data-id="119411548"> <span class="close-icon" aria-hidden="true"></span> <span class="sr-only">Sulje</span> </button> 
-     </section> 
-    </div>
-    `;
-  }
-  if (document.documentElement.lang == 'sv-SE') {
-    // text = ``;
-  }
-  if (document.documentElement.lang == 'en-US') {
-    // text = ``;
-  }
-
-  if (text === "") {
-    // Stop code execution
-    return;
-  }
-  
-  let css = `<style type="text/css">
-  .notice-ribbon-wrapper {
-      display: flex;
-      padding: 0px 15px; /* Imitate #wrapper styling */
-  }
-  .notice-ribbon-wrapper.notice-ribbon-wrapper-normal {
-      background-color: #bcc8e9;
-  }
-  
-  .notice-ribbon {
-      display: flex;
-      align-items: center;
-      padding: 0.8rem 0rem;
-  }
-  
-  .notice-ribbon .content {
-      font-size: 14px !important;
-      color: #203671;
-      font-family: 'myriad-pro-regular', sans-serif;
-      text-align: center;
-      
-      flex-grow: 1;
-      max-width: 100%;
-  }
-  @media only screen and (max-width:768px) {
-      .notice-ribbon .content {
-          text-align: left;
-      }
-  }
-  @media only screen and (max-width:1100px) {
-      .notice-ribbon .content {
-          max-width: calc(100% - 50px); /* Prevent overlap with X-icon */
-      }
-  }
-  
-  .notice-ribbon.notice-ribbon-level2 .content::after {
-      content: " ";
-      position: absolute;
-      top: 10%;
-      right: 50px;
-      height: 80%;
-      border-left: thin solid;
-      border-left-color: #1f356f33;
-  }
-  
-  .notice-ribbon .content a {
-      font-size: 14px !important;
-      
-      /* color: #000099; */
-      color: var(--yja-link-color);
-      text-decoration: underline;
-  }
-  .notice-ribbon .content a:hover {
-      /* color: #3333cc; */
-      color: var(--yja-link-color-hover);
-  }
-  
-  .notice-ribbon .content p {
-      font-size: 14px !important;
-      
-      margin-bottom: 0px;
-  }
-  
-  /* Close button styling */
-  .notice-ribbon-wrapper .notice-ribbon .btn-close-alert {
-      position: absolute !important;
-      right: 0px;
-      
-      margin: 0px !important;
-      padding: unset !important;
-      
-      width: 50px;
-      height: 100%;
-      
-      font-size: 1rem !important;
-      background-color: transparent !important;
-      
-      border-radius: 0 !important;
-      border: none !important;
-      box-shadow: none !important;
-      outline: none !important;
-      background-image: none !important;
-      
-  }
-  .notice-ribbon-wrapper .notice-ribbon .btn-close-alert:hover {
-      color: #365abd;
-  }
-  .notice-ribbon-wrapper .notice-ribbon .btn-close-alert:focus {
-      outline: var(--yja-outline, 2px solid #33c) !important;
-  }
-  .notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-  }
-  
-  .notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon:before,
-  .notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon:after {
-    position: absolute;
-    content: ' ';
-    height: 18px;
-    width: 1px;
-    background-color: #203671;
-  }
-  .notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon:before {
-    transform: rotate(45deg);
-  }
-  .notice-ribbon-wrapper .notice-ribbon .btn-close-alert .close-icon:after {
-    transform: rotate(-45deg);
-  }
-
-  .notice-ribbon-wrapper .yja-external-link:after {
-    content: "\\f08e";
-    font-family: "fontawesome-alloy";
-    margin: 0 0 0 3px;
-    display: inline-block;
-    font-size: 0.875rem;
-    position: relative;
-    top: 0;
-  }
-  </style>
-  `;
-  
-  jQuery('#yjanav-mobile-nav-top').after(text);
-  jQuery('#yjanav-mobile-nav-top').after(css);
-
-  // Temporary way to check cookie
-  function getCookie(cname) {
-    let name = cname + "=";
-    let decodedCookie = decodeURIComponent(document.cookie);
-    let ca = decodedCookie.split(';');
-    for(let i = 0; i <ca.length; i++) {
-      let c = ca[i];
-      while (c.charAt(0) == ' ') {
-        c = c.substring(1);
-      }
-      if (c.indexOf(name) == 0) {
-        return c.substring(name.length, c.length);
-      }
-    }
-    return "";
-  }
-
-  // Run scripts if level2 (closeable ribbon) is used
-  $(".notice-ribbon-level2").each(function () {
-      var aNumber = $(this).data("id");
-      var aTitle = "notice-ribbon-id-" + aNumber;
-      // if (Cookies.get(aTitle) === "read") {
-      //     $("." + aTitle).addClass("d-none");
-      // } else {
-      //     $("." + aTitle).removeClass("d-none");
-      // }
-      if (getCookie(aTitle) === "read") {
-          $("." + aTitle).addClass("d-none");
-      } else {
-          $("." + aTitle).removeClass("d-none");
-      }
-  }).promise().then(function() {
-      // Accessibility: If notice ribbon is visible, set #skip-to-content to target it
-      if ($('#notice-ribbon')) {
-          if ($('#skip-to-content')) {
-              if (!$('#notice-ribbon').hasClass('d-none')) {
-                  $('#skip-to-content').attr('href', '#notice-ribbon');
-              }
-          }
-      }
-  });
-
-  $(".notice-ribbon-level2 .btn-close-alert").on("click tap", function () {
-      var aNumber = $(this).data("id");
-      var aTitle = "notice-ribbon-id-" + aNumber;
-      // Cookies.set(aTitle, "read");
-      document.cookie = aTitle + "=" + "read";
-      $("." + aTitle).addClass("d-none");
-  }); 
 });
 
 			
