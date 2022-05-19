@@ -277,7 +277,7 @@
         
 
         getAvailableLangPath: function() {
-            return 'available_languages.jsp?browserId=other&themeId=valtioneuvosto_WAR_valtioneuvostotheme&colorSchemeId=01&languageId=fi_FI&b=7110&t=1652804440995';
+            return 'available_languages.jsp?browserId=other&themeId=valtioneuvosto_WAR_valtioneuvostotheme&colorSchemeId=01&languageId=fi_FI&b=7110&t=1652870481974';
         },
         getCombine: function() {
             return false;
@@ -327,7 +327,7 @@
         }
     };
 
-    Liferay.authToken = 'C03BfOvl';
+    Liferay.authToken = '1P0W9IBS';
 
     
 
@@ -1536,27 +1536,37 @@ margin-top: -65px;
 
 /* Main alertBox content padding in desktop and mobile */
 .alertBox__container_items .alertBox__content_textbox,
-.alertBox__container_items .alertBox__live_broadcast {
+.alertBox__container_items .alertBox__live_broadcast,
+.alertBox__container_items .links,
+.alertBox__container_items .attachments,
+.alertBox__container_items figcaption {
     padding-left: 35px;
     padding-right: 35px;
 }
 .alertBox__content_textbox .yja-card__heading {
-    margin-top: 35px;
+    padding-top: 35px;
 }
 .alertBox__container_items > div:last-child {
     padding-bottom: 35px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767.9px) {
     .alertBox__container_items .alertBox__content_textbox,
-    .alertBox__container_items .alertBox__live_broadcast {
+    .alertBox__container_items .alertBox__live_broadcast,
+    .alertBox__container_items .links,
+    .alertBox__container_items .attachments,
+    .alertBox__container_items figcaption {
         padding-left: 20px;
         padding-right: 20px;
     }
     .alertBox__content_textbox .yja-card__heading {
-        margin-top: 20px;
+        padding-top: 20px;
     }
     .alertBox__container_items > div:last-child {
         padding-bottom: 20px;
+    }
+    .alertBox__container_items .image-caption,
+    .alertBox__container_items .image-caption figcaption {
+      margin-bottom: 0px;
     }
 }
 
@@ -1636,8 +1646,6 @@ Allows earlier template \3cstyle> rules to be changed from single place
 }
 .colorBoxList li a .colorBox-content{
     margin: auto 0;
-    /* font-size: 0.9em !important; */
-    /* line-height: 1.2em !important; */
 }
 @media (min-width: 1024px){
     .colorBoxList li a .colorBox-content{
@@ -1681,16 +1689,13 @@ Allows earlier template \3cstyle> rules to be changed from single place
 .colorBoxList .colorBox .colorBox-content,
 .some-icons-header,
 .alertBox__live_broadcast a {
-    /* font-family: myriad-pro-condensed,sans-serif; */
     font-family: var(--yja-feed-listing-headings-font-family, myriad-pro-semi-condensed);
     margin-top: 0;
     font-weight: var(--yja-heading-font-weigth, 600) !important;
-    /* margin-bottom: .2857rem !important; */
+
     margin-bottom: 0px !important; 
     font-style: normal;
     word-break: normal;
-    /* font-size: var(--yja-heading-h5-size, 1.15em) !important; */
-    /* line-height: 1.15; */
 
     font-size: var(--yja-feed-listing-headings-font-size, 0.9em) !important;
     line-height: 1.2em !important;
@@ -1711,18 +1716,6 @@ Allows earlier template \3cstyle> rules to be changed from single place
 }
 
 /* colorBox item */
-/*
-.colorBoxList .colorBox a:after{
-    content: "\f105";
-    font-family: "fontawesome-alloy";
-    margin: 0 0 0 3px;
-    display: inline-block;
-    font-size: 1.5em;
-    position: absolute;
-    right: 0.5em;
-    top: 35%;
-}
-*/
 .colorBoxList li a.colorBox {
     /* YJAVNK-1214 */
     display: flex;
@@ -1784,6 +1777,36 @@ Allows earlier template \3cstyle> rules to be changed from single place
 .public-page .some-icons-container:first-of-type [class^="icon-"] {
     margin-left: 0px;
 }
+
+/* YJAVNK-1568 */
+
+/* Imitate "Valikko" button styling */
+.alertBox__live_broadcast a {
+  font-size: calc(14px * 1.1) !important; 
+}
+.alertBox__container .alertBox__container_items .alertBox__live_broadcast a.btn {
+  font-weight: 400 !important;
+}
+.alertBox__live_broadcast {
+  margin-bottom: var(--yja-paragraph-margin-bottom, 1.25em);
+}
+
+/* Set "Tiedote" image as full size in front page alertbox */
+.alertBox__container_items .defer-image {
+  margin-top: 0px;
+  margin-bottom: 0px !important;
+}
+.alertBox__container_items .image-caption {
+  float: none !important;
+  width: 100% !important;
+  margin-bottom: 0px !important;
+}
+.alertBox__container_items .image-caption figcaption {
+  margin-top: 7px;
+  margin-bottom: 0px;
+}
+
+/* / YJAVNK-1568 */
 
 /* YJAVNK-1566 HOTFIX, missing sidebar top margins. Implemented from vnk.fi styling */
 @media screen and (min-width: 768px) {
@@ -1980,7 +2003,7 @@ Liferay.on(
     <a id="yja-nav-frontpagelink" class="yja-nav-mobile-nav-logo-holder" href="/fi" tabindex="-1"> <span class="sr-only">Valtioneuvosto etusivu</span> <img alt="" src="    https://valtioneuvosto.fi/o/valtioneuvosto-theme/images/logos/VN-tunnus_fi_vaaka_valkoinen_L075_RGB.svg?t=1652713908000
 "> </a> 
     <button id="yjanav-close" class="text-white"> <span role="presentation"> 
-      <svg class="lexicon-icon lexicon-icon-times" focusable="false" id="aczt" role="presentation"> 
+      <svg class="lexicon-icon lexicon-icon-times" focusable="false" id="pdkm" role="presentation"> 
        <use xlink:href="https://valtioneuvosto.fi/o/valtioneuvosto-theme/images/clay/icons.svg#times" /> 
       </svg> </span> <span class="sr-only"> Sulje valikko </span> </button> 
    </div> 
@@ -2012,7 +2035,7 @@ Liferay.on(
        </ul> </li> 
       <li class=" yjanav-menu-item yjanav-mainmenu-item__secondary-levels"> 
        <div class="d-flex justify-content-between align-items-center yjanav-menu-linkrow"> 
-        <a href="https://valtioneuvosto.fi/tietoa-koronaviruksesta" class="yjanav-menulink   " tabindex="-1"> <span class="">Tietoa ja neuvontaa koronaviruksesta</span> </a> 
+        <a href="https://valtioneuvosto.fi/tietoa-koronaviruksesta" class="yjanav-menulink   " tabindex="-1"> <span class="">Tietoa koronatilanteesta</span> </a> 
         <button class="yjanav-button yjanav-mainmenu-button " tabindex="-1"> <span class="sr-only sr-toggle-text">tyja.nav.title.open.menu</span> <span class="yjanav-chevron icon-chevron-down " aria-hidden="true"></span> </button> 
        </div> 
        <ul class="menu-list pl-0" style="" aria-expanded="false"> 
