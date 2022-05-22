@@ -55,12 +55,9 @@
   "rank": "Kapteeni kauluslaatta.svg Captain"
 }
 {
-  "name": "Coat of arms of Sauli Niinistö",
-  "image_width": "140",
-  "middle_width": "70",
-  "lesser_width": "35",
-  "lesser_caption": "Coat of arms",
-  "armiger": "Sauli Niinistö",
-  "year_adopted": "2015",
-  "motto": "''\"Juurista voimaa\"\n(\"Strength from the Roots\")"
+  "escutcheon": "Azure, five leafs of linden united by their stalks Argent in a radiant pattern.",
+  "motto": "\"Juurista voimaa\" (\"Strength from the Roots\")",
+  "orders": "Collars of the Order of the Elephant and of the Royal Order of the Seraphim",
+  "armiger": "Sauli Väinämö Niinistö",
+  "other_versions": "Coat of arms of Sauli Niinistö.svg[[File:Coat of arms of Sauli Niinistö, 12th president of Finland as Knight of the Royal Order of the Elephant.png|50px]] [[File:Coat of arms of Sauli Niinistö, 12th president of Finland as Knight of the Royal Order of the Seraphim.png|50px]]"
 }
