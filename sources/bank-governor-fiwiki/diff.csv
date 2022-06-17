@@ -1,12 +1,1 @@
-@@,itemlabel,item,startdate,enddate
-->,Claes Johan Edelskiöld->Claes Johan Sacklén,Q23040428,1812,1816
-->,Carl Johan Idestam->Carl Johan Idman,Q23040503,1817,1820
-+++,Johan Gustaf Winter,,1827,1841
-+++,Alex Federley,,1853,1854
-->,Robert von Trapp->Robert Trapp,Q11891043,1854,1856
-+++,Wilhelm Blidberg,,1858,1861
-+++,Carl Isak Björkman,,1862,1866
-->,Gösta von Troil->Gustaf Samuel von Troil,Q5411287,1875,1884
-->,Gustaf Robert Alfred Charpentier->Alfred Charpentier,Q23039688,1884,1897
-->,Clas von Collan->Clas Herman von Collan,Q5399732,1907,1918
-->,Olli Rehn,Q294411,2018-07-12->2018,
+@@,item,itemlabel,startdate,enddate
