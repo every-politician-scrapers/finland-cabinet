@@ -1,0 +1,867 @@
+{
+  "title": "Mika Lintilä",
+  "pageID": 52116124,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "People from Toholampi",
+    "Centre Party (Finland) politicians",
+    "Deputy Prime Ministers of Finland",
+    "Ministers of Finance of Finland",
+    "Government ministers of Finland",
+    "Members of the Parliament of Finland (1999–2003)",
+    "Members of the Parliament of Finland (2003–07)",
+    "Members of the Parliament of Finland (2007–11)",
+    "Members of the Parliament of Finland (2011–15)",
+    "Members of the Parliament of Finland (2015–19)",
+    "Members of the Parliament of Finland (2019–23)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mika Tapani Lintilä (born 15 April 1966) is a Finnish politician currently serving as Minister of Economic Affairs since 2019.",
+              "links": [
+                {
+                  "text": "Minister of Economic Affairs",
+                  "type": "internal",
+                  "page": "Minister of Economic Affairs (Finland)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mika Tapani Lintilä"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Centre Party, he has been a Member of Parliament (MP) since 1999.",
+              "links": [
+                {
+                  "text": "Centre Party",
+                  "type": "internal",
+                  "page": "Centre Party (Finland)"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of parliament"
+                }
+              ]
+            },
+            {
+              "text": "Lintilä has formerly served as Minister of Economic Affairs in the Sipilä Cabinet from 2016 to 2019 and as Minister of Finance and Deputy Prime Minister of Finland in the Rinne Cabinet in 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sipilä Cabinet"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Minister of Finance (Finland)"
+                },
+                {
+                  "text": "Deputy Prime Minister of Finland",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister (Finland)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rinne Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Finnish politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1966",
+          "month": "4",
+          "day": "15",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mika Lintilä"
+          },
+          "image": {
+            "text": "Mika-Lintilä-3.jpg"
+          },
+          "office": {
+            "text": "34th Deputy Prime Minister of Finland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Finland"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Antti Rinne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antti Rinne"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 June 2019"
+          },
+          "term_end": {
+            "text": "12 September 2019"
+          },
+          "predecessor": {
+            "text": "Petteri Orpo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petteri Orpo"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Katri Kulmuni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katri Kulmuni"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Minister of Finance (Finland)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Antti Rinne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antti Rinne"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "6 June 2019"
+          },
+          "term_end1": {
+            "text": "10 December 2019"
+          },
+          "predecessor1": {
+            "text": "Petteri Orpo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petteri Orpo"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Katri Kulmuni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katri Kulmuni"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Economic Affairs",
+            "links": [
+              {
+                "text": "Minister of Economic Affairs",
+                "type": "internal",
+                "page": "Minister of Economic Affairs (Finland)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Sanna Marin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sanna Marin"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "10 December 2019"
+          },
+          "predecessor2": {
+            "text": "Katri Kulmuni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katri Kulmuni"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Juha Sipilä",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juha Sipilä"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "29 December 2016"
+          },
+          "term_end3": {
+            "text": "6 June 2019"
+          },
+          "predecessor3": {
+            "text": "Olli Rehn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Olli Rehn"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Katri Kulmuni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katri Kulmuni"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 15, 1966"
+          },
+          "birth_place": {
+            "text": "Toholampi, Finland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Toholampi"
+              },
+              {
+                "type": "internal",
+                "page": "Finland"
+              }
+            ]
+          },
+          "website": {
+            "text": "www.mikalintila.fi/"
+          },
+          "party": {
+            "text": "Centre",
+            "links": [
+              {
+                "text": "Centre",
+                "type": "internal",
+                "page": "Centre Party (Finland)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tampere University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tampere University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Tässä ovat Marinin hallituksen ministerit – joukko äänikuningattaria, pikapaluun tekijä, maailman nuorin pääministeri",
+          "url": "https://yle.fi/uutiset/3-11108950",
+          "publisher": "Yle",
+          "language": "Finnish",
+          "accessdate": "11 December 2019",
+          "date": "9 December 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.eduskunta.fi/EN/kansanedustajat/Pages/583.aspx",
+          "title": "MPs: Mika Lintilä",
+          "publisher": "Parliament of Finland",
+          "accessdate": "27 October 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://valtioneuvosto.fi/artikkeli/-/asset_publisher/10616/katri-kulmunista-paaministerin-ensimmainen-sijainen",
+          "title": "Katri Kulmunista pääministerin ensimmäinen sijainen",
+          "website": "Valtioneuvosto",
+          "language": "en-US",
+          "access-date": "12 September 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lintilä is the son of the Centre Party MP Aaro Lintilä."
+            },
+            {
+              "text": "He holds a Bachelor of Administrative Sciences from Tampere University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tampere University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://yle.fi/uutiset/3-9255298",
+          "title": "Mika Lintilä – Hevosmies ministeriksi",
+          "publisher": "MPs: Mika Lintilä",
+          "website": "Yle",
+          "date": "27 October 2016",
+          "accessdate": "27 October 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Member of the Finnish Parliament, 1999–present",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lintilä has been serving as a member of the Finnish Parliament since the 1999 elections.",
+              "links": [
+                {
+                  "text": "1999 elections",
+                  "type": "internal",
+                  "page": "1999 Finnish parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "He has since served on a variety of committees, including the following:"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In addition to his committee assignments, Lintilä has been a deputy member of the Finnish Delegation to the Nordic Council (since 1999) and a full member of the delegation to the Inter-Parliamentary Union (since 2015).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nordic Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Inter-Parliamentary Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Commerce Committee (member) 7 April 1999 – 18 March 2003"
+          },
+          {
+            "text": "Committee for the Future (deputy member) 23 April 1999 – 29 February 2000, (deputy member) 3 March 2000 – 15 March 2002, (member) 19 March 2002 – 18 March 2003, (deputy member) 3 April 2007 – 2 May 2007, (member) 5 May 2015 – 8 June 2015"
+          },
+          {
+            "text": "Finance Committee (deputy member) 28 November 2000 – 4 September 2001, (deputy member) 2 April 2003 – 25 April 2003, (member) 29 April 2003 – 20 March 2007, (member) 3 May 2007 – 19 April 2011, (deputy member) 3 May 2011 – 29 June 2011, (member) 30 June 2011 – 21 April 2015"
+          },
+          {
+            "text": "Administration Committee (deputy member) 2 April 2003 – 8 September 2006, (deputy member) 5 May 2015 – 8 June 2015"
+          },
+          {
+            "text": "Subcommittee for Administration and Control (member) 8 April 2003 – 20 March 2007"
+          },
+          {
+            "text": "Tax Subcommittee (member) 8 April 2003 – 20 March 2007, (Chair) 4 May 2007 – 19 April 2011, (member) 1 September 2011 – 21 April 2015"
+          },
+          {
+            "text": "Subcommittee for Education and Science (additional member) 8 April 2003 – 5 May 2003, (member) 6 May 2003 – 20 March 2007"
+          },
+          {
+            "text": "Sub-committee for Employment and the Economy (member) 4 May 2007 – 19 April 2011, (member) 1 September 2011 – 21 April 2015"
+          },
+          {
+            "text": "Social Affairs and Health Committee (member) 3 May 2011 – 29 June 2011"
+          },
+          {
+            "text": "Audit Committee (member) 30 June 2011 – 21 April 2015"
+          },
+          {
+            "text": "Transport and Communications Committee (member) 5 May 2015 – 8 June 2015"
+          },
+          {
+            "text": "Electors (member) 6 April 1999 – 29 February 2000"
+          },
+          {
+            "text": "Parliamentary Auditors (deputy member) 1 January 2000 – 31 December 2007"
+          },
+          {
+            "text": "Administrative Council of the Finnish Broadcasting Company (member) 14 April 2000 – 2 May 2007, (Chair) 30 November 2004 – 2 May 2007"
+          },
+          {
+            "text": "Parliamentary State Auditors (deputy member) 1 January 2004 – 20 March 2007"
+          },
+          {
+            "text": "Parliamentary Supervisory Council (member) 3 May 2007 – 29 June 2011"
+          },
+          {
+            "text": "Commissioners to the Government Guarantee Fund (member) 30 June 2011 – 12 March 2015, (vice chair) 21 September 2011 – 12 March 2015"
+          },
+          {
+            "text": "Finance Committee (member) 9 June 2015 – present"
+          },
+          {
+            "text": "Subcommittee for Administration and Security (member) 11 September 2015 – present"
+          },
+          {
+            "text": "Tax Subcommittee (Chair) 11 September 2015 – present"
+          },
+          {
+            "text": "Commerce Committee (member) 9 June 2015 – present"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://www.mikalintila.fi/",
+          "title": "Tervetuloa Mika Lintilän kotisivuille – Mika Lintilä",
+          "website": "www.mikalintila.fi",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Minister of Economic Affairs, 2016–2019",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 27 October 2016, Lintilä was elected within the Centre Party to follow Olli Rehn as a Minister of Economic Affairs starting 29 December 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Olli Rehn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his time in office, Finland's center-right government sold stakes in oil refiner and biofuel company Neste while also strengthening national influence over the telecom network gear maker Nokia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Neste"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nokia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.iltalehti.fi/uutiset/2016102722525320_uu.shtml",
+          "title": "Ministeriksi valittu Mika Lintilä: \"Odotin tätä 18 vuotta\"",
+          "publisher": "MPs: Mika Lintilä",
+          "website": "Iltalehti.fi",
+          "date": "27 October 2016",
+          "accessdate": "27 October 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Minister of Finance, 2019",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following the 2019 national elections, the Centre Party named Mika Lintilä as its candidate for the post of finance minister in the newly formed, centre-left coalition government led by Prime Minister Antti Rinne of the Social Democrats.",
+              "links": [
+                {
+                  "text": "2019 national elections",
+                  "type": "internal",
+                  "page": "2019 Finnish parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "In this capacity, he chaired the meetings of the Economic and Financial Affairs Council when Finland held the rotating presidency of the Council of the European Union in 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Economic and Financial Affairs Council"
+                },
+                {
+                  "text": "presidency of the Council of the European Union",
+                  "type": "internal",
+                  "page": "presidency of the Council of the European Union"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the collapse of the Rinne Cabinet, the leader of the Center Party Katri Kulmuni took the seat of the Minister of Finance in the following Marin Cabinet, while Lintilä was given the portfolio of the Minister of Economic Affairs",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Katri Kulmuni"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marin Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Katri Kulmunista valtiovarainministeri, Mika Lintilä siirtyy elinkeinoministeriksi – vaihto tuli muulle puolueelle yllätyksenä",
+          "url": "https://yle.fi/uutiset/3-11108536",
+          "publisher": "Yle",
+          "language": "Finnish",
+          "accessdate": "11 December 2019",
+          "date": "9 December 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0
+    },
+    {
+      "title": "European Union organizations",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "European Investment Bank (EIB), Ex-Officio Member of the Board of Governors (2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Investment Bank"
+              }
+            ]
+          },
+          {
+            "text": "European Stability Mechanism (ESM), Member of the Board of Governors (2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Stability Mechanism"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "International organizations",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Asian Infrastructure Investment Bank (AIIB), Ex-Officio Member of the Board of Governors (2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Asian Infrastructure Investment Bank"
+              }
+            ]
+          },
+          {
+            "text": "European Bank for Reconstruction and Development (EBRD), Ex-Officio Member of the Board of Governors (2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Bank for Reconstruction and Development"
+              }
+            ]
+          },
+          {
+            "text": "Nordic Investment Bank (NIB), Ex-Officio Member of the Board of Governors (2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nordic Investment Bank"
+              }
+            ]
+          },
+          {
+            "text": "Multilateral Investment Guarantee Agency (MIGA), World Bank Group, Ex-Officio Member of the Board of Governors (since 2017)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Multilateral Investment Guarantee Agency"
+              },
+              {
+                "type": "internal",
+                "page": "World Bank Group"
+              }
+            ]
+          },
+          {
+            "text": "World Bank, Ex-Officio Member of the Board of Governors (since 2017)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "World Bank"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Finnish organizations",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Yle, Member of the Administrative Council (2011–2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yle"
+              }
+            ]
+          },
+          {
+            "text": "Bank of Finland, Deputy Member of the Board of Auditors (2004-2006)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bank of Finland"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Political positions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In response to the 2019 Amazon rainforest wildfires, Lintilä demanded publicly that the European Union should block imports of beef from Brazil, and also consider a suspension of soybeans import to put pressure on the government of President Jair Bolsonaro to counter the fires.",
+              "links": [
+                {
+                  "text": "2019 Amazon rainforest wildfires",
+                  "type": "internal",
+                  "page": "2019 Amazon rainforest wildfires"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Petteri Orpo",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Finance",
+          "years": "2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Katri Kulmuni",
+          "template": "s-aft"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "title": "Hanna Sarkkinen",
+  "pageID": 62667139,
+  "categories": [
+    "1988 births",
+    "Living people",
+    "People from Oulu",
+    "Left Alliance (Finland) politicians",
+    "Members of the Parliament of Finland (2015–19)",
+    "Members of the Parliament of Finland (2019–23)",
+    "21st-century Finnish women politicians",
+    "Women members of the Parliament of Finland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hanna Maria Katariina Sarkkinen (born 18 April 1988 in Oulunsalo) is a Finnish politician currently serving in the Parliament of Finland for the Left Alliance for the Oulu constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oulunsalo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Finland"
+                },
+                {
+                  "text": "Left Alliance",
+                  "type": "internal",
+                  "page": "Left Alliance (Finland)"
+                },
+                {
+                  "text": "Oulu",
+                  "type": "internal",
+                  "page": "Oulu (constituency)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hanna Maria Katariina Sarkkinen"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2021, she was appointed Minister of Social Affairs and Health by President Sauli Niinistö.",
+              "links": [
+                {
+                  "text": "Minister of Social Affairs and Health",
+                  "type": "internal",
+                  "page": "Minister of Social Affairs and Health (Finland)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sauli Niinistö"
+                }
+              ]
+            },
+            {
+              "text": "In the end of January 2022, she was able to announce several measures taken to tackle the Covid-19 pandemic in Finland will be lifted, following the example of Denmark.",
+              "links": [
+                {
+                  "text": "Covid-19 pandemic in Finland",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Finland"
+                }
+              ]
+            },
+            {
+              "text": "In June 2022, she traveled to Estonia to coordinate the accommodation and social security systems between the two countries for the Ukrainians fleeing the Russo-Ukrainian war.",
+              "links": [
+                {
+                  "text": "Estonia",
+                  "type": "internal",
+                  "page": "Governorate of Estonia"
+                },
+                {
+                  "text": "Russo-Ukrainian war",
+                  "type": "internal",
+                  "page": "Russo-Ukrainian War"
+                }
+              ]
+            },
+            {
+              "text": "Despite her party being undecided wether to support or oppose a NATO membership would provide, Sarkkinen personally supported the membership bid.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Finnish politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1988",
+          "month": "4",
+          "day": "18",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hanna Sarkkinen"
+          },
+          "image": {
+            "text": "Hanna Sarkkinen 2021 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Sarkkinen in 2021"
+          },
+          "office1": {
+            "text": "Minister of Social Affairs and Health",
+            "links": [
+              {
+                "text": "Minister of Social Affairs and Health",
+                "type": "internal",
+                "page": "Minister of Social Affairs and Health (Finland)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "29 June 2021"
+          },
+          "primeminister1": {
+            "text": "Sanna Marin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sanna Marin"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Aino-Kaisa Pekonen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aino-Kaisa Pekonen"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Finnish Parliament for Oulu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Finnish Parliament"
+              },
+              {
+                "text": "Oulu",
+                "type": "internal",
+                "page": "Oulu (constituency)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "22 April 2015"
+          },
+          "parliamentarygroup2": {
+            "text": "Left Alliance",
+            "links": [
+              {
+                "text": "Left Alliance",
+                "type": "internal",
+                "page": "Left Alliance (Finland)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 18, 1988"
+          },
+          "birth_place": {
+            "text": "Oulunsalo, North Ostrobothnia, Finland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oulunsalo"
+              },
+              {
+                "type": "internal",
+                "page": "North Ostrobothnia"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Hanna Maria Katariina Sarkkinen"
+          },
+          "nationality": {
+            "text": "Finnish"
+          },
+          "party": {
+            "text": "Left Alliance",
+            "links": [
+              {
+                "text": "Left Alliance",
+                "type": "internal",
+                "page": "Left Alliance (Finland)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Li Andersson appointed as Minister of Education and Henna Sarkkinen as Minister of Social Affairs and Health - Prime Minister’s Office",
+          "url": "https://vnk.fi/en/-/li-andersson-appointed-as-minister-of-education-and-henna-sarkkinen-as-minister-of-social-affairs-and-health",
+          "access-date": "2022-07-13",
+          "website": "Valtioneuvoston kanslia",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "red",
+          "first": "ORF at/Agenturen",
+          "date": "2022-01-28",
+          "title": "Finnland hebt einige Beschränkungen vorzeitig auf",
+          "url": "https://orf.at/stories/3245331/",
+          "access-date": "2022-07-13",
+          "website": "news.ORF.at",
+          "language": "de",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Minister of Social Affairs and Health Sarkkinen visits Tallinn to discuss the development of social security and the situation of Ukrainian refugees",
+          "url": "https://stm.fi/en/-/minister-of-social-affairs-and-health-sarkkinen-visits-tallinn-to-discuss-the-development-of-social-security-and-the-situation-of-ukrainian-refugees",
+          "access-date": "2022-07-13",
+          "website": "Ministry of Social Affairs and Health",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Vänttinen",
+          "first": "Pekka",
+          "date": "2022-05-10",
+          "title": "Finnische Linke will trotz NATO-Antrag in der Regierung bleiben",
+          "url": "https://www.euractiv.de/section/eu-aussenpolitik/news/finnische-linke-will-trotz-nato-antrag-in-der-regierung-bleiben/",
+          "access-date": "2022-07-13",
+          "website": "www.euractiv.de",
+          "language": "de-DE",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hanna Sarkkinen",
+          "url": "https://www.eduskunta.fi/FI/kansanedustajat/Sivut/1312.aspx",
+          "website": "Parliament of Finland",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "finland-politician-stub"
+        }
+      ]
+    }
+  ]
+}

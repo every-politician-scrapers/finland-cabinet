@@ -1,0 +1,204 @@
+{
+  "title": "Antti Kurvinen",
+  "pageID": 62681554,
+  "categories": [
+    "Living people",
+    "Members of the Parliament of Finland (2015–19)",
+    "Members of the Parliament of Finland (2019–23)",
+    "Centre Party (Finland) politicians",
+    "21st-century Finnish politicians",
+    "1986 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Antti Ilmari Vilhelm Kurvinen (born July 14, 1986) is a Finnish politician currently serving in the Parliament of Finland for the Centre Party at the Vaasa constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Finland"
+                },
+                {
+                  "text": "Centre Party",
+                  "type": "internal",
+                  "page": "Centre Party (Finland)"
+                },
+                {
+                  "text": "Vaasa",
+                  "type": "internal",
+                  "page": "Vaasa (constituency)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Antti Ilmari Vilhelm Kurvinen"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Finnish politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1986",
+          "month": "7",
+          "day": "14",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Agriculture",
+            "links": [
+              {
+                "text": "Minister of Agriculture",
+                "type": "internal",
+                "page": "Minister of Agriculture and Forestry (Finland)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sanna Marin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sanna Marin"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 April 2022"
+          },
+          "predecessor": {
+            "text": "Jari Leppä",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jari Leppä"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Science and Culture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Science and Culture"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Sanna Marin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sanna Marin"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "27 May 2021"
+          },
+          "term_end2": {
+            "text": "29 April 2022"
+          },
+          "predecessor2": {
+            "text": "Annika Saarikko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Annika Saarikko"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Petri Honkonen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petri Honkonen"
+              }
+            ]
+          },
+          "party": {
+            "text": "Centre Party",
+            "links": [
+              {
+                "text": "Centre Party",
+                "type": "internal",
+                "page": "Centre Party (Finland)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Antti Kurvinen 2021 (cropped).jpg"
+          },
+          "constituency_mp3": {
+            "text": "Vaasa",
+            "links": [
+              {
+                "text": "Vaasa",
+                "type": "internal",
+                "page": "Vaasa (constituency)"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Finnish"
+          },
+          "birth_date": {
+            "text": "July 14, 1986"
+          },
+          "birth_place": {
+            "text": "Ylihärmä, Finland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ylihärmä"
+              },
+              {
+                "type": "internal",
+                "page": "Finland"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "centrepartyfinland-politician-stub"
+        }
+      ]
+    }
+  ]
+}

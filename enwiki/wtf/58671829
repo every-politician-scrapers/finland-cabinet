@@ -1,0 +1,206 @@
+{
+  "title": "Petri Honkonen",
+  "pageID": 58671829,
+  "categories": [
+    "1987 births",
+    "Living people",
+    "People from Saarijärvi",
+    "Centre Party (Finland) politicians",
+    "Members of the Parliament of Finland (2015–19)",
+    "Members of the Parliament of Finland (2019–23)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Petri Erkki Olavi Honkonen (born July 29, 1987) is a Finnish politician, representing the Centre Party in the Parliament of Finland since 2015.",
+              "links": [
+                {
+                  "text": "Centre Party",
+                  "type": "internal",
+                  "page": "Centre Party (Finland)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Petri Erkki Olavi Honkonen"
+                ]
+              }
+            },
+            {
+              "text": "He was born in Pylkönmäki, and was elected to the Parliament from the Central Finland constituency in the 2015 elections with 2,978 votes.",
+              "links": [
+                {
+                  "text": "Central Finland",
+                  "type": "internal",
+                  "page": "Central Finland (constituency)"
+                },
+                {
+                  "text": "2015 elections",
+                  "type": "internal",
+                  "page": "2015 Finnish parliamentary election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Finnish politician",
+          "template": "short description"
+        },
+        {
+          "year": "1987",
+          "month": "7",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Petri Honkonen"
+          },
+          "image": {
+            "text": "Petri Honkonen (52036481427) (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Science and Culture",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Science and Culture"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sanna Marin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sanna Marin"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 April 2022"
+          },
+          "predecessor": {
+            "text": "Antti Kurvinen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antti Kurvinen"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Finnish Parliament",
+            "links": [
+              {
+                "text": "Member of the Finnish Parliament",
+                "type": "internal",
+                "page": "Eduskunta"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "22 April 2015"
+          },
+          "birth_date": {
+            "text": "July 29, 1987"
+          },
+          "birth_place": {
+            "text": "Pylkönmäki, Central Finland, Finland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pylkönmäki"
+              },
+              {
+                "type": "internal",
+                "page": "Central Finland"
+              },
+              {
+                "type": "internal",
+                "page": "Finland"
+              }
+            ]
+          },
+          "party": {
+            "text": "Centre Party",
+            "links": [
+              {
+                "text": "Centre Party",
+                "type": "internal",
+                "page": "Centre Party (Finland)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.eduskunta.fi/FI/kansanedustajat/Sivut/1331.aspx",
+          "title": "Kansanedustajat: Petri Honkonen",
+          "publisher": "Parliament of Finland",
+          "access-date": "6 October 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://tulospalvelu.vaalit.fi/E-2015/fi/val11.html",
+          "title": "Valitut ehdokkaat: Keski-Suomen vaalipiiri",
+          "publisher": "Ministry of Justice",
+          "date": "2 June 2017",
+          "access-date": "6 October 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "centrepartyfinland-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Home page of Petri Honkonen",
+            "links": [
+              {
+                "text": "Home page of Petri Honkonen",
+                "type": "external",
+                "site": "http://www.petrihonkonen.net/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

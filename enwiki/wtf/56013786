@@ -1,0 +1,106 @@
+{
+  "title": "Nina Vaskunlahti",
+  "pageID": 56013786,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Ambassadors of Finland to Turkey",
+    "Ambassadors of Finland to India",
+    "Finnish women ambassadors"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nina Vaskunlahti is a Finnish diplomat.",
+              "formatting": {
+                "bold": [
+                  "Nina Vaskunlahti"
+                ]
+              }
+            },
+            {
+              "text": "She has been the Finnish Ambassador to New Delhi since 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Delhi"
+                }
+              ]
+            },
+            {
+              "text": "Prior to that she was a Finnish Ambassador to Ankara between 2012 and 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ankara"
+                }
+              ]
+            },
+            {
+              "text": "She started working with the Ministry for Foreign Affairs in 1984.",
+              "links": [
+                {
+                  "text": "Ministry for Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry for Foreign Affairs (Finland)"
+                }
+              ]
+            },
+            {
+              "text": "Vaskunlahti has worked as a department head at the East Department of the Ministry for Foreign Affairs and as a Coreper I Ambassador at the Permanent Representation of Finland to the EU.",
+              "links": [
+                {
+                  "text": "EU",
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Nina_Vaskunlahti_2020.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nina_Vaskunlahti_2020.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nina_Vaskunlahti_2020.jpg"
+        }
+      ],
+      "templates": [
+        {
+          "description": "Finnish diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "December 2017",
+          "template": "refimprove"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "finland-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}
