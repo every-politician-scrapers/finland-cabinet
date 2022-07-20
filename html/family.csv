@@ -113,10 +113,12 @@ Q591312,Jouko Skinnari,child,Q5485318,Ville Skinnari
 Q6069855,Irina Krohn,sibling,Q16300118,Minerva Krohn
 Q6069855,Irina Krohn,sibling,Q5395273,Katja Krohn
 Q6109579,Jaakko Laakso,child,Q5405446,Tapio Laakso
+Q6304985,Timo Kalli,child,Q63163413,Eeva Kalli
 Q6305233,Kimmo Kiljunen,child,Q11865487,Jaakko Kiljunen
 Q6305233,Kimmo Kiljunen,sibling,Q20379124,Vilppu Kiljunen
 Q6305233,Kimmo Kiljunen,spouse,Q29419380,Marja-Liisa Kiljunen
 Q63093968,Aki Lindén,relative,Q12806239,Väinö F. Lindén
+Q63163413,Eeva Kalli,father,Q6304985,Timo Kalli
 Q657282,Paavo Arhinmäki,sibling,Q11867990,Jussi Arhinmäki
 Q6845608,Mikael Jungner,relative,Q11873912,Kyllikki Kallas
 Q6845608,Mikael Jungner,relative,Q11885284,Olavi Lahtela
