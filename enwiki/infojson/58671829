@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Eduskunta"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "2015-04-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Science and Culture"
+      ],
+      "stated_as": "Minister of Science and Culture"
+    },
+    "P580": "2022-04-29",
+    "P1365": {
+      "links": [
+        "Antti Kurvinen"
+      ],
+      "stated_as": "Antti Kurvinen"
+    }
+  }
+]

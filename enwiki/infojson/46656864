@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Education (Finland)"
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2003-04-17",
+    "P1365": {
+      "links": [
+        "Maija-Liisa Rask"
+      ],
+      "stated_as": "Maija-Liisa Rask"
+    },
+    "P582": "2005-09-23",
+    "P1366": {
+      "links": [
+        "Antti Kalliomäki"
+      ],
+      "stated_as": "Antti Kalliomäki"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Social Affairs and Health (Finland)"
+      ],
+      "stated_as": "Minister of Social Affairs and Health"
+    },
+    "P580": "2005-09-23",
+    "P1365": {
+      "links": [
+        "Sinikka Mönkäre"
+      ],
+      "stated_as": "Sinikka Mönkäre"
+    },
+    "P582": "2007-04-19",
+    "P1366": {
+      "links": [
+        "Liisa Hyssälä"
+      ],
+      "stated_as": "Liisa Hyssälä"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Parliament of Finland"
+      ],
+      "stated_as": "Deputy Speaker of the Finnish Parliament"
+    },
+    "P580": "2019-06-07",
+    "P1365": {
+      "links": [
+        "Juho Eerola"
+      ],
+      "stated_as": "Juho Eerola"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+        "Antti Rinne"
+      ],
+      "stated_as": "Antti Rinne"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Employment (Finland)"
+      ],
+      "stated_as": "Minister of Employment"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Timo Harakka"
+      ],
+      "stated_as": "Timo Harakka"
+    }
+  }
+]

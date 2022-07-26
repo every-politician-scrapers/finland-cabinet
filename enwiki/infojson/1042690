@@ -1,0 +1,147 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Finland"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "1987-03-21",
+    "P582": "2003-03-18"
+  },
+  {
+    "office": {
+      "links": [
+        "National Coalition Party"
+      ],
+      "stated_as": "Leader of the National Coalition Party"
+    },
+    "P580": "1994",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Pertti Salolainen"
+    },
+    "P582": "2001",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ville Itälä"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Finland"
+      ],
+      "stated_as": "Deputy Prime Minister of Finland"
+    },
+    "P580": "1995-04-13",
+    "P1365": {
+      "links": [
+        "Pertti Salolainen"
+      ],
+      "stated_as": "Pertti Salolainen"
+    },
+    "P582": "2001-08-30",
+    "P1366": {
+      "links": [
+        "Ville Itälä"
+      ],
+      "stated_as": "Ville Itälä"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (Finland)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "1995-04-13",
+    "P1365": {
+      "links": [
+        "Anneli Jäätteenmäki"
+      ],
+      "stated_as": "Anneli Jäätteenmäki"
+    },
+    "P582": "1996-02-02",
+    "P1366": {
+      "links": [
+        "Kari Häkämies"
+      ],
+      "stated_as": "Kari Häkämies"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (Finland)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "1996-02-02",
+    "P1365": {
+      "links": [
+        "Iiro Viinanen"
+      ],
+      "stated_as": "Iiro Viinanen"
+    },
+    "P582": "2003-04-17",
+    "P1366": {
+      "links": [
+        "Antti Kalliomäki"
+      ],
+      "stated_as": "Antti Kalliomäki"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of Finland"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "2007-03-21",
+    "P582": "2011-04-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Parliament of Finland"
+      ],
+      "stated_as": "Speaker of the Parliament of Finland"
+    },
+    "P580": "2007-04-24",
+    "P1365": {
+      "links": [
+        "Timo Kalli"
+      ],
+      "stated_as": "Timo Kalli"
+    },
+    "P582": "2011-04-27",
+    "P1366": {
+      "links": [
+        "Ben Zyskowicz"
+      ],
+      "stated_as": "Ben Zyskowicz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Finland"
+      ],
+      "stated_as": "12th President of Finland"
+    },
+    "P580": "2012-03-01",
+    "P1365": {
+      "links": [
+        "Tarja Halonen"
+      ],
+      "stated_as": "Tarja Halonen"
+    }
+  }
+]

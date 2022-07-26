@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (Finland)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2011-06-22",
+    "P1365": {
+      "links": [
+        "Tuija Brax"
+      ],
+      "stated_as": "Tuija Brax"
+    },
+    "P582": "2015-05-29",
+    "P1366": {
+      "links": [
+        "Jari Lindström"
+      ],
+      "stated_as": "Jari Lindström"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Swedish People's Party of Finland"
+      ],
+      "stated_as": "Leader of the Swedish People's Party"
+    },
+    "P580": "2016-06-12",
+    "P1365": {
+      "links": [
+        "Carl Haglund"
+      ],
+      "stated_as": "Carl Haglund"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (Finland)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Antti Häkkänen"
+      ],
+      "stated_as": "Antti Häkkänen"
+    }
+  }
+]

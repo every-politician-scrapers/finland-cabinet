@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Helsinki (electoral district)"
+      ],
+      "stated_as": "Helsinki"
+    },
+    "P580": "2019-04-17"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of the Interior (Finland)"
+      ],
+      "stated_as": "Minister of the Interior"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Kai Mykkänen"
+      ],
+      "stated_as": "Kai Mykkänen"
+    },
+    "P582": "2021-11-19",
+    "P1366": {
+      "links": [
+        "Krista Mikkonen"
+      ],
+      "stated_as": "Krista Mikkonen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Green League"
+      ],
+      "stated_as": "Leader of the Green League"
+    },
+    "P580": "2019-06-15",
+    "P1365": {
+      "links": [
+        "Pekka Haavisto"
+      ],
+      "stated_as": "Pekka Haavisto"
+    }
+  }
+]

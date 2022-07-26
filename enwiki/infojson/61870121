@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister for European Affairs (Finland)"
+      ],
+      "stated_as": "Minister for European Affairs"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Sampo Terho"
+      ],
+      "stated_as": "Sampo Terho"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Herself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of European Affairs and Ownership Steering"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Sirpa Paatero"
+      ],
+      "stated_as": "Herself (European Affairs) Sirpa Paatero (Ownership Steering)"
+    }
+  }
+]

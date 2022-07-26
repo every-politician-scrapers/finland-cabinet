@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Finland"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "2015-04-22"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Mayor of Helsinki"
+    },
+    "P1545": "2",
+    "P580": "2021-08-02",
+    "P1365": {
+      "links": [
+        "Jan Vapaavuori"
+      ],
+      "stated_as": "Jan Vapaavuori"
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Finland"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "2015-04-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Labor (Finland)"
+      ],
+      "stated_as": "Minister of Labour"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Jari Lindström"
+      ],
+      "stated_as": "Jari Lindström"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+        "Tuula Haatainen"
+      ],
+      "stated_as": "Tuula Haatainen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Transport and Communications (Finland)"
+      ],
+      "stated_as": "Minister of Transport and Communications"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sanna Marin"
+    }
+  }
+]

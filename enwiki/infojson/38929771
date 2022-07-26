@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Finnish Parliament"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "2003-03-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Finland)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Jussi Niinistö"
+      ],
+      "stated_as": "Jussi Niinistö"
+    }
+  }
+]
