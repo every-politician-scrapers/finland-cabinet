@@ -1,30 +1,30 @@
-pageid,title
-252252,Matti Vanhanen
-1042690,Sauli Niinistö
-1278020,Olli Rehn
-10136453,Pekka Haavisto
-32122691,Anna-Maja Henriksson
-38791432,Annika Saarikko
-38929771,Antti Kaikkonen
-44507747,Sirpa Paatero
-46656506,Juhana Vartiainen
-46656864,Tuula Haatainen
-50076259,Li Andersson
-52116124,Mika Lintilä
-52777018,Timo Harakka
-52829655,Sanna Marin
-55147963,Tarja Laitiainen
-55214897,Päivi Kairamo
-55922459,Krista Mikkonen
-56013786,Nina Vaskunlahti
-58671829,Petri Honkonen
-60957513,Maria Ohisalo
-61870121,Tytti Tuppurainen
-61870626,Ville Skinnari
-61871564,Thomas Blomqvist
-62665907,Aki Lindén
-62667139,Hanna Sarkkinen
-62681554,Antti Kurvinen
-62810992,Timo Kivinen
-67812604,Lauri Lyly
-68670012,Minna Arve
+pageid,title,wikidata,label
+252252,Matti Vanhanen,Q182043,Matti Vanhanen
+1042690,Sauli Niinistö,Q29207,Sauli Niinistö
+1278020,Olli Rehn,Q294411,Olli Rehn
+10136453,Pekka Haavisto,Q317485,Pekka Haavisto
+32122691,Anna-Maja Henriksson,Q2850448,Anna-Maja Henriksson
+38791432,Annika Saarikko,Q7045446,Annika Saarikko
+38929771,Antti Kaikkonen,Q11852109,Antti Kaikkonen
+44507747,Sirpa Paatero,Q16989600,Sirpa Paatero
+46656506,Juhana Vartiainen,Q11867451,Juhana Vartiainen
+46656864,Tuula Haatainen,Q11898869,Tuula Haatainen
+50076259,Li Andersson,Q4935864,Li Andersson
+52116124,Mika Lintilä,Q16984784,Mika Lintilä
+52777018,Timo Harakka,Q16298585,Timo Harakka
+52829655,Sanna Marin,Q16986436,Sanna Marin
+55147963,Tarja Laitiainen,Q30174161,Tarja Laitiainen
+55214897,Päivi Kairamo,Q11889361,Päivi Kairamo-Hella
+55922459,Krista Mikkonen,Q11873020,Krista Mikkonen
+56013786,Nina Vaskunlahti,Q29419272,Nina Vaskunlahti
+58671829,Petri Honkonen,Q20257511,Petri Honkonen
+60957513,Maria Ohisalo,Q15281152,Maria Ohisalo
+61870121,Tytti Tuppurainen,Q11898995,Tytti Tuppurainen
+61870626,Ville Skinnari,Q5485318,Ville Skinnari
+61871564,Thomas Blomqvist,Q5579704,Thomas Blomqvist
+62665907,Aki Lindén,Q63093968,Aki Lindén
+62667139,Hanna Sarkkinen,Q16990389,Hanna Sarkkinen
+62681554,Antti Kurvinen,Q11852135,Antti Kurvinen
+62810992,Timo Kivinen,Q16299896,Timo Kivinen
+67812604,Lauri Lyly,Q5391948,Lauri Lyly
+68670012,Minna Arve,Q18632341,Minna Arve

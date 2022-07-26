@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Economic Affairs (Finland)"
+      ],
+      "stated_as": "Minister of Economic Affairs"
+    },
+    "P580": "2016-12-29",
+    "P1365": {
+      "links": [
+        "Olli Rehn"
+      ],
+      "stated_as": "Olli Rehn"
+    },
+    "P582": "2019-06-06",
+    "P1366": {
+      "links": [
+        "Katri Kulmuni"
+      ],
+      "stated_as": "Katri Kulmuni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Finland"
+      ],
+      "stated_as": "34th Deputy Prime Minister of Finland"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Petteri Orpo"
+      ],
+      "stated_as": "Petteri Orpo"
+    },
+    "P582": "2019-09-12",
+    "P1366": {
+      "links": [
+        "Katri Kulmuni"
+      ],
+      "stated_as": "Katri Kulmuni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (Finland)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Petteri Orpo"
+      ],
+      "stated_as": "Petteri Orpo"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+        "Katri Kulmuni"
+      ],
+      "stated_as": "Katri Kulmuni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Economic Affairs (Finland)"
+      ],
+      "stated_as": "Minister of Economic Affairs"
+    },
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Katri Kulmuni"
+      ],
+      "stated_as": "Katri Kulmuni"
+    }
+  }
+]

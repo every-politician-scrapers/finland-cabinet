@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Finnish Parliament",
+        "Finland Proper (constituency)"
+      ],
+      "stated_as": "Member of the Finnish Parliament for Finland Proper"
+    },
+    "P580": "2019-04-17"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Family Affairs and Social Services (Finland)"
+      ],
+      "stated_as": "Minister of Family Affairs and Social Services"
+    },
+    "P580": "2022-02-04",
+    "P1365": {
+      "links": [
+        "Krista Kiuru"
+      ],
+      "stated_as": "Krista Kiuru"
+    }
+  }
+]

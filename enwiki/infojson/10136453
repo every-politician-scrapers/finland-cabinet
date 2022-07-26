@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1987-03-21",
+    "P582": "1995-03-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Environment (Finland)"
+      ],
+      "stated_as": "Minister of the Environment"
+    },
+    "P580": "1995-04-13",
+    "P1365": {
+      "links": [
+        "Sirpa Pietikäinen"
+      ],
+      "stated_as": "Sirpa Pietikäinen"
+    },
+    "P582": "1999-04-15",
+    "P1366": {
+      "links": [
+        "Satu Hassi"
+      ],
+      "stated_as": "Satu Hassi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+
+      ],
+      "stated_as": "Helsinki"
+    },
+    "P580": "2007-03-21"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for International Development"
+    },
+    "P580": "2013-10-11",
+    "P1365": {
+      "links": [
+        "Heidi Hautala"
+      ],
+      "stated_as": "Heidi Hautala"
+    },
+    "P582": "2014-09-26",
+    "P1366": {
+      "links": [
+        "Sirpa Paatero"
+      ],
+      "stated_as": "Sirpa Paatero"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Affairs (Finland)"
+      ],
+      "stated_as": "Minister for Foreign Affairs"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Timo Soini"
+      ],
+      "stated_as": "Timo Soini"
+    }
+  }
+]

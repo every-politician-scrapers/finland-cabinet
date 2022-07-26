@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Finnish Parliament"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "2015-04-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of the Environment and Climate Change (Finland)"
+      ],
+      "stated_as": "Minister of the Environment and Climate Change"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Kimmo Tiilikainen"
+      ],
+      "stated_as": "Kimmo Tiilikainen"
+    },
+    "P582": "2021-11-19",
+    "P1366": {
+      "links": [
+        "Emma Kari"
+      ],
+      "stated_as": "Emma Kari"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of the Interior (Finland)"
+      ],
+      "stated_as": "Minister of the Interior"
+    },
+    "P580": "2021-11-19",
+    "P1365": {
+      "links": [
+        "Maria Ohisalo"
+      ],
+      "stated_as": "Maria Ohisalo"
+    }
+  }
+]

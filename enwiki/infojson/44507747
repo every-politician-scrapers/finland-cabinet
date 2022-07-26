@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for International Development"
+    },
+    "P580": "2014-09-26",
+    "P1365": {
+      "links": [
+        "Pekka Haavisto"
+      ],
+      "stated_as": "Pekka Haavisto"
+    },
+    "P582": "2015-05-29",
+    "P1366": {
+      "links": [
+        "Lenita Toivakka"
+      ],
+      "stated_as": "Lenita Toivakka"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Local Government and Ownership Steering (Finland)"
+      ],
+      "stated_as": "Minister of Local Government and Ownership Steering"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Anu Vehviläinen",
+        "Mika Lintilä"
+      ],
+      "stated_as": "Anu Vehviläinen (local government) Mika Lintilä (ownership steering)"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+        "Tytti Tuppurainen"
+      ],
+      "stated_as": "Tytti Tuppurainen (ownership steering)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Local Government and Ownership Steering (Finland)"
+      ],
+      "stated_as": "Minister of Local Government"
+    },
+    "P580": "2019-12-10"
+  }
+]

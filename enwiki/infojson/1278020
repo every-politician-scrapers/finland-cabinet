@@ -1,0 +1,129 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Finland"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "1991-03-22",
+    "P582": "1995-03-23"
+  },
+  {
+    "office": {
+      "links": [
+        "European Commissioner",
+        "European Commissioner for Industry and Entrepreneurship",
+        "European Commissioner for Digital Agenda"
+      ],
+      "stated_as": "European Commissioner for Enterprise and Information Society"
+    },
+    "P580": "2004-07-12",
+    "P1365": {
+      "links": [
+        "Erkki Liikanen"
+      ],
+      "stated_as": "Erkki Liikanen"
+    },
+    "P582": "2004-11-11",
+    "P1366": {
+      "links": [
+        "Günter Verheugen",
+        "Viviane Reding"
+      ],
+      "stated_as": "Günter Verheugen (Enterprise and Industry)\nViviane Reding (Information Society and Media)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "European Commissioner for Enlargement and European Neighbourhood Policy"
+      ],
+      "stated_as": "European Commissioner for Enlargement"
+    },
+    "P580": "2004-11-22",
+    "P1365": {
+      "links": [
+        "Günter Verheugen",
+        "Janez Potočnik"
+      ],
+      "stated_as": "Günter Verheugen\nJanez Potočnik"
+    },
+    "P582": "2010-02-09",
+    "P1366": {
+      "links": [
+        "Štefan Füle"
+      ],
+      "stated_as": "Štefan Füle (Enlargement and European Neighbourhood Policy)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "European Commissioner for Economic and Monetary Affairs and the Euro"
+      ],
+      "stated_as": "European Commissioner for Economic and Monetary Affairs and the Euro"
+    },
+    "P580": "2010-02-09",
+    "P1365": {
+      "links": [
+        "Joaquín Almunia"
+      ],
+      "stated_as": "Joaquín Almunia (Economic and Monetary Affairs)"
+    },
+    "P582": "2014-07-01",
+    "P1366": {
+      "links": [
+        "Siim Kallas"
+      ],
+      "stated_as": "Siim Kallas (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of Finland"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "2015-04-23",
+    "P582": "2017-01-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Economic Affairs (Finland)"
+      ],
+      "stated_as": "Minister of Economic Affairs"
+    },
+    "P580": "2015-05-29",
+    "P1365": {
+      "links": [
+        "Jan Vapaavuori"
+      ],
+      "stated_as": "Jan Vapaavuori"
+    },
+    "P582": "2016-12-29",
+    "P1366": {
+      "links": [
+        "Mika Lintilä"
+      ],
+      "stated_as": "Mika Lintilä"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Bank of Finland"
+      ],
+      "stated_as": "Governor of the Bank of Finland"
+    },
+    "P580": "2018-07-12",
+    "P1365": {
+      "links": [
+        "Erkki Liikanen"
+      ],
+      "stated_as": "Erkki Liikanen"
+    }
+  }
+]

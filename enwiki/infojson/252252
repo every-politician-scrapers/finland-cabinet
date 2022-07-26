@@ -1,0 +1,146 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Finland"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "1991-03-22",
+    "P582": "2010-09-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Finland)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2003-04-17",
+    "P1365": {
+      "links": [
+        "Jan-Erik Enestam"
+      ],
+      "stated_as": "Jan-Erik Enestam"
+    },
+    "P582": "2003-06-24",
+    "P1366": {
+      "links": [
+        "Seppo Kääriäinen"
+      ],
+      "stated_as": "Seppo Kääriäinen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Finland"
+      ],
+      "stated_as": "40th Prime Minister of Finland"
+    },
+    "P580": "2003-06-24",
+    "P1365": {
+      "links": [
+        "Anneli Jäätteenmäki"
+      ],
+      "stated_as": "Anneli Jäätteenmäki"
+    },
+    "P582": "2010-06-22",
+    "P1366": {
+      "links": [
+        "Mari Kiviniemi"
+      ],
+      "stated_as": "Mari Kiviniemi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of Finland"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "2015-04-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Parliament of Finland"
+      ],
+      "stated_as": "Speaker of the Parliament of Finland"
+    },
+    "P580": "2019-06-07",
+    "P1365": {
+      "links": [
+        "Antti Rinne"
+      ],
+      "stated_as": "Antti Rinne"
+    },
+    "P582": "2020-06-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Anu Vehviläinen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Finland"
+      ],
+      "stated_as": "36th Deputy Prime Minister of Finland"
+    },
+    "P580": "2020-06-09",
+    "P1365": {
+      "links": [
+        "Katri Kulmuni"
+      ],
+      "stated_as": "Katri Kulmuni"
+    },
+    "P582": "2020-09-10",
+    "P1366": {
+      "links": [
+        "Annika Saarikko"
+      ],
+      "stated_as": "Annika Saarikko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (Finland)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2020-06-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Katri Kulmuni"
+    },
+    "P582": "2021-05-27",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Annika Saarikko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Parliament of Finland"
+      ],
+      "stated_as": "Speaker of the Parliament of Finland"
+    },
+    "P580": "2022-02-01",
+    "P1365": {
+      "links": [
+        "Anu Vehviläinen"
+      ],
+      "stated_as": "Anu Vehviläinen"
+    }
+  }
+]

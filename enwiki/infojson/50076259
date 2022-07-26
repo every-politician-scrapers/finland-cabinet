@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Finnish Parliament"
+      ],
+      "stated_as": "Member of the Finnish Parliament"
+    },
+    "P580": "2015-04-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Left Alliance (Finland)"
+      ],
+      "stated_as": "Leader of the Left Alliance"
+    },
+    "P580": "2016-06-11",
+    "P1365": {
+      "links": [
+        "Paavo Arhinmäki"
+      ],
+      "stated_as": "Paavo Arhinmäki"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Education (Finland)"
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2019-06-06",
+    "P1365": {
+      "links": [
+        "Sanni Grahn-Laasonen"
+      ],
+      "stated_as": "Sanni Grahn-Laasonen"
+    },
+    "P582": "2020-12-17",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jussi Saramo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Education (Finland)"
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2021-06-29",
+    "P1365": {
+      "links": [
+        "Jussi Saramo"
+      ],
+      "stated_as": "Jussi Saramo"
+    }
+  }
+]

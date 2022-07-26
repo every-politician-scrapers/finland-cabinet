@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Finnish Parliament",
+        "Oulu (constituency)"
+      ],
+      "stated_as": "Member of the Finnish Parliament for Oulu"
+    },
+    "P580": "2015-04-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Social Affairs and Health (Finland)"
+      ],
+      "stated_as": "Minister of Social Affairs and Health"
+    },
+    "P580": "2021-06-29",
+    "P1365": {
+      "links": [
+        "Aino-Kaisa Pekonen"
+      ],
+      "stated_as": "Aino-Kaisa Pekonen"
+    }
+  }
+]
