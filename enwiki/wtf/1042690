@@ -389,7 +389,13 @@
             ]
           },
           "successor4": {
-            "text": "Kari Häkämies"
+            "text": "Kari Häkämies",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kari Häkämies"
+              }
+            ]
           },
           "office5": {
             "text": "Leader of the National Coalition Party",
